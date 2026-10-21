@@ -1,0 +1,52 @@
+{
+  "gravitacional": {
+    "fraccion_viaja": {
+      "valor": 0.12339,
+      "unidad": "fracción de la población por día",
+      "nota": "Trabajadores ocupados y estudiantes del Censo 2018 que trabajan o estudian en otro de los 17 municipios."
+    },
+    "alpha": {
+      "valor": 0.554,
+      "unidad": "adimensional",
+      "nota": "Calibrado con la O-D del Censo 2018 (regresión de Poisson, pseudo-R² = 0.8844)."
+    },
+    "beta": {
+      "valor": 2.5932,
+      "unidad": "adimensional",
+      "nota": "Calibrado con la O-D del Censo 2018 (regresión de Poisson, pseudo-R² = 0.8844)."
+    },
+    "gamma": {
+      "valor": 1.4213,
+      "unidad": "adimensional",
+      "nota": "Calibrado con la O-D del Censo 2018 (regresión de Poisson, pseudo-R² = 0.8844)."
+    }
+  },
+  "salud": {
+    "fraccion_grave": {
+      "valor": 0.00656,
+      "unidad": "casos graves / casos registrados",
+      "nota": "Departamento de Guatemala, SIGSA 2012-2025."
+    }
+  },
+  "ciclo_vector": {
+    "lluvia_referencia_mm_semana": {
+      "valor": 37.83,
+      "unidad": "mm / semana",
+      "nota": "Lluvia semanal media de mayo a octubre en las 17 cabeceras (Open-Meteo (lluvia ERA5, temperatura ERA5-Land))."
+    }
+  },
+  "automata": {
+    "semanas": {
+      "valor": 510,
+      "unidad": "semanas",
+      "nota": "semanas con clima completo en las 17 cabeceras"
+    }
+  },
+  "zona_piloto": {
+    "cod_muni": {
+      "valor": "0114",
+      "unidad": "código INE",
+      "nota": "Mayor incidencia media 2014-2024 entre municipios con densidad > 1 000 hab/km² (ver validacion/seleccion_zona_piloto.csv)."
+    }
+  }
+}
