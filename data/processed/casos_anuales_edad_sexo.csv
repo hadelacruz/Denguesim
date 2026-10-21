@@ -1,0 +1,3014 @@
+cod_muni,anio,grupo_etario,sexo,casos
+0101,2012,10a a 14 años,Femenino,9
+0101,2012,10a a 14 años,Masculino,8
+0101,2012,15a a 19 años,Femenino,7
+0101,2012,15a a 19 años,Masculino,7
+0101,2012,1a a 4 años,Masculino,5
+0101,2012,20a a 24 años,Femenino,8
+0101,2012,20a a 24 años,Masculino,8
+0101,2012,25a a 39 años,Femenino,21
+0101,2012,25a a 39 años,Masculino,23
+0101,2012,2m a < 1 año,Femenino,5
+0101,2012,2m a < 1 año,Masculino,2
+0101,2012,40a a 49 años,Femenino,10
+0101,2012,40a a 49 años,Masculino,8
+0101,2012,50a a 59 años,Femenino,2
+0101,2012,50a a 59 años,Masculino,1
+0101,2012,5a a 9 años,Femenino,3
+0101,2012,5a a 9 años,Masculino,6
+0101,2012,60a a 64 años,Femenino,2
+0101,2012,60a a 64 años,Masculino,2
+0101,2012,65a a 69 años,Femenino,1
+0101,2012,65a a 69 años,Masculino,1
+0101,2012,70a+,Femenino,2
+0101,2013,10a a 14 años,Femenino,39
+0101,2013,10a a 14 años,Masculino,44
+0101,2013,15a a 19 años,Femenino,24
+0101,2013,15a a 19 años,Masculino,35
+0101,2013,1a a 4 años,Femenino,20
+0101,2013,1a a 4 años,Masculino,13
+0101,2013,1m a < 2m,Femenino,1
+0101,2013,1m a < 2m,Masculino,2
+0101,2013,20a a 24 años,Femenino,32
+0101,2013,20a a 24 años,Masculino,19
+0101,2013,25a a 39 años,Femenino,67
+0101,2013,25a a 39 años,Masculino,35
+0101,2013,2m a < 1 año,Femenino,5
+0101,2013,2m a < 1 año,Masculino,5
+0101,2013,40a a 49 años,Femenino,33
+0101,2013,40a a 49 años,Masculino,13
+0101,2013,50a a 59 años,Femenino,25
+0101,2013,50a a 59 años,Masculino,14
+0101,2013,5a a 9 años,Femenino,30
+0101,2013,5a a 9 años,Masculino,38
+0101,2013,60a a 64 años,Femenino,6
+0101,2013,60a a 64 años,Masculino,2
+0101,2013,65a a 69 años,Femenino,3
+0101,2013,65a a 69 años,Masculino,1
+0101,2013,70a+,Masculino,4
+0101,2013,< 1 mes,Femenino,1
+0101,2013,< 1 mes,Masculino,1
+0101,2014,10a a 14 años,Femenino,113
+0101,2014,10a a 14 años,Masculino,130
+0101,2014,15a a 19 años,Femenino,120
+0101,2014,15a a 19 años,Masculino,134
+0101,2014,1a a 4 años,Femenino,40
+0101,2014,1a a 4 años,Masculino,34
+0101,2014,1m a < 2m,Femenino,1
+0101,2014,1m a < 2m,Masculino,2
+0101,2014,20a a 24 años,Femenino,121
+0101,2014,20a a 24 años,Masculino,137
+0101,2014,25a a 39 años,Femenino,350
+0101,2014,25a a 39 años,Masculino,239
+0101,2014,2m a < 1 año,Femenino,6
+0101,2014,2m a < 1 año,Masculino,12
+0101,2014,40a a 49 años,Femenino,123
+0101,2014,40a a 49 años,Masculino,72
+0101,2014,50a a 59 años,Femenino,80
+0101,2014,50a a 59 años,Masculino,49
+0101,2014,5a a 9 años,Femenino,99
+0101,2014,5a a 9 años,Masculino,98
+0101,2014,60a a 64 años,Femenino,27
+0101,2014,60a a 64 años,Masculino,12
+0101,2014,65a a 69 años,Femenino,10
+0101,2014,65a a 69 años,Masculino,6
+0101,2014,70a+,Femenino,19
+0101,2014,70a+,Masculino,12
+0101,2014,< 1 mes,Masculino,2
+0101,2015,10a a 14 años,Femenino,178
+0101,2015,10a a 14 años,Masculino,207
+0101,2015,15a a 19 años,Femenino,264
+0101,2015,15a a 19 años,Masculino,217
+0101,2015,1a a 4 años,Femenino,61
+0101,2015,1a a 4 años,Masculino,67
+0101,2015,1m a < 2m,Femenino,2
+0101,2015,1m a < 2m,Masculino,9
+0101,2015,20a a 24 años,Femenino,244
+0101,2015,20a a 24 años,Masculino,203
+0101,2015,25a a 39 años,Femenino,445
+0101,2015,25a a 39 años,Masculino,295
+0101,2015,2m a < 1 año,Femenino,16
+0101,2015,2m a < 1 año,Masculino,14
+0101,2015,40a a 49 años,Femenino,238
+0101,2015,40a a 49 años,Masculino,91
+0101,2015,50a a 59 años,Femenino,136
+0101,2015,50a a 59 años,Masculino,61
+0101,2015,5a a 9 años,Femenino,101
+0101,2015,5a a 9 años,Masculino,111
+0101,2015,60a a 64 años,Femenino,47
+0101,2015,60a a 64 años,Masculino,20
+0101,2015,65a a 69 años,Femenino,34
+0101,2015,65a a 69 años,Masculino,12
+0101,2015,70a+,Femenino,40
+0101,2015,70a+,Masculino,24
+0101,2015,< 1 mes,Femenino,7
+0101,2015,< 1 mes,Masculino,4
+0101,2016,10a a 14 años,Femenino,62
+0101,2016,10a a 14 años,Masculino,57
+0101,2016,15a a 19 años,Femenino,69
+0101,2016,15a a 19 años,Masculino,48
+0101,2016,1a a 4 años,Femenino,22
+0101,2016,1a a 4 años,Masculino,35
+0101,2016,1m a < 2m,Femenino,1
+0101,2016,1m a < 2m,Masculino,4
+0101,2016,20a a 24 años,Femenino,76
+0101,2016,20a a 24 años,Masculino,56
+0101,2016,25a a 39 años,Femenino,169
+0101,2016,25a a 39 años,Masculino,103
+0101,2016,2m a < 1 año,Femenino,13
+0101,2016,2m a < 1 año,Masculino,14
+0101,2016,40a a 49 años,Femenino,67
+0101,2016,40a a 49 años,Masculino,27
+0101,2016,50a a 59 años,Femenino,52
+0101,2016,50a a 59 años,Masculino,22
+0101,2016,5a a 9 años,Femenino,60
+0101,2016,5a a 9 años,Masculino,53
+0101,2016,60a a 64 años,Femenino,14
+0101,2016,60a a 64 años,Masculino,8
+0101,2016,65a a 69 años,Femenino,7
+0101,2016,65a a 69 años,Masculino,4
+0101,2016,70a+,Femenino,12
+0101,2016,70a+,Masculino,9
+0101,2016,< 1 mes,Femenino,2
+0101,2016,< 1 mes,Masculino,1
+0101,2017,10a a 14 años,Femenino,20
+0101,2017,10a a 14 años,Masculino,19
+0101,2017,15a a 19 años,Femenino,28
+0101,2017,15a a 19 años,Masculino,16
+0101,2017,1a a 4 años,Femenino,14
+0101,2017,1a a 4 años,Masculino,24
+0101,2017,1m a < 2m,Femenino,2
+0101,2017,1m a < 2m,Masculino,2
+0101,2017,20a a 24 años,Femenino,24
+0101,2017,20a a 24 años,Masculino,25
+0101,2017,25a a 39 años,Femenino,59
+0101,2017,25a a 39 años,Masculino,31
+0101,2017,2m a < 1 año,Femenino,6
+0101,2017,2m a < 1 año,Masculino,6
+0101,2017,40a a 49 años,Femenino,18
+0101,2017,40a a 49 años,Masculino,5
+0101,2017,50a a 59 años,Femenino,5
+0101,2017,50a a 59 años,Masculino,9
+0101,2017,5a a 9 años,Femenino,35
+0101,2017,5a a 9 años,Masculino,20
+0101,2017,60a a 64 años,Femenino,7
+0101,2017,60a a 64 años,Masculino,4
+0101,2017,65a a 69 años,Femenino,4
+0101,2017,65a a 69 años,Masculino,3
+0101,2017,70a+,Femenino,2
+0101,2017,70a+,Masculino,5
+0101,2017,< 1 mes,Femenino,2
+0101,2017,< 1 mes,Masculino,4
+0101,2018,10a a 14 años,Femenino,28
+0101,2018,10a a 14 años,Masculino,27
+0101,2018,15a a 19 años,Femenino,19
+0101,2018,15a a 19 años,Masculino,15
+0101,2018,1a a 4 años,Femenino,26
+0101,2018,1a a 4 años,Masculino,29
+0101,2018,1m a < 2m,Masculino,1
+0101,2018,20a a 24 años,Femenino,34
+0101,2018,20a a 24 años,Masculino,15
+0101,2018,25a a 39 años,Femenino,41
+0101,2018,25a a 39 años,Masculino,24
+0101,2018,2m a < 1 año,Femenino,9
+0101,2018,2m a < 1 año,Masculino,5
+0101,2018,40a a 49 años,Femenino,15
+0101,2018,40a a 49 años,Masculino,9
+0101,2018,50a a 59 años,Femenino,13
+0101,2018,50a a 59 años,Masculino,3
+0101,2018,5a a 9 años,Femenino,34
+0101,2018,5a a 9 años,Masculino,44
+0101,2018,60a a 64 años,Femenino,3
+0101,2018,60a a 64 años,Masculino,2
+0101,2018,65a a 69 años,Femenino,2
+0101,2018,65a a 69 años,Masculino,1
+0101,2018,70a+,Femenino,7
+0101,2018,70a+,Masculino,3
+0101,2018,< 1 mes,Femenino,4
+0101,2019,10a a 14 años,Femenino,248
+0101,2019,10a a 14 años,Masculino,291
+0101,2019,15a a 19 años,Femenino,163
+0101,2019,15a a 19 años,Masculino,130
+0101,2019,1a a 4 años,Femenino,125
+0101,2019,1a a 4 años,Masculino,147
+0101,2019,1m a < 2m,Femenino,6
+0101,2019,1m a < 2m,Masculino,4
+0101,2019,20a a 24 años,Femenino,163
+0101,2019,20a a 24 años,Masculino,92
+0101,2019,25a a 39 años,Femenino,291
+0101,2019,25a a 39 años,Masculino,135
+0101,2019,2m a < 1 año,Femenino,38
+0101,2019,2m a < 1 año,Masculino,37
+0101,2019,40a a 49 años,Femenino,91
+0101,2019,40a a 49 años,Masculino,49
+0101,2019,50a a 59 años,Femenino,64
+0101,2019,50a a 59 años,Masculino,31
+0101,2019,5a a 9 años,Femenino,338
+0101,2019,5a a 9 años,Masculino,369
+0101,2019,60a a 64 años,Femenino,18
+0101,2019,60a a 64 años,Masculino,10
+0101,2019,65a a 69 años,Femenino,13
+0101,2019,65a a 69 años,Masculino,8
+0101,2019,70a+,Femenino,16
+0101,2019,70a+,Masculino,12
+0101,2019,< 1 mes,Femenino,3
+0101,2019,< 1 mes,Masculino,2
+0101,2020,10a a 14 años,Femenino,22
+0101,2020,10a a 14 años,Masculino,38
+0101,2020,15a a 19 años,Femenino,28
+0101,2020,15a a 19 años,Masculino,8
+0101,2020,1a a 4 años,Femenino,27
+0101,2020,1a a 4 años,Masculino,37
+0101,2020,1m a < 2m,Femenino,1
+0101,2020,1m a < 2m,Masculino,2
+0101,2020,20a a 24 años,Femenino,29
+0101,2020,20a a 24 años,Masculino,8
+0101,2020,25a a 39 años,Femenino,39
+0101,2020,25a a 39 años,Masculino,16
+0101,2020,2m a < 1 año,Femenino,9
+0101,2020,2m a < 1 año,Masculino,9
+0101,2020,40a a 49 años,Femenino,8
+0101,2020,40a a 49 años,Masculino,7
+0101,2020,50a a 59 años,Femenino,11
+0101,2020,50a a 59 años,Masculino,7
+0101,2020,5a a 9 años,Femenino,66
+0101,2020,5a a 9 años,Masculino,69
+0101,2020,60a a 64 años,Femenino,2
+0101,2020,60a a 64 años,Masculino,1
+0101,2020,65a a 69 años,Femenino,1
+0101,2020,65a a 69 años,Masculino,1
+0101,2020,70a+,Femenino,2
+0101,2020,70a+,Masculino,3
+0101,2020,< 1 mes,Masculino,1
+0101,2021,10a a 14 años,Femenino,6
+0101,2021,10a a 14 años,Masculino,6
+0101,2021,15a a 19 años,Femenino,2
+0101,2021,15a a 19 años,Masculino,2
+0101,2021,1a a 4 años,Femenino,1
+0101,2021,1a a 4 años,Masculino,2
+0101,2021,20a a 24 años,Femenino,2
+0101,2021,25a a 39 años,Femenino,2
+0101,2021,25a a 39 años,Masculino,3
+0101,2021,2m a < 1 año,Femenino,2
+0101,2021,2m a < 1 año,Masculino,1
+0101,2021,40a a 49 años,Femenino,1
+0101,2021,50a a 59 años,Masculino,3
+0101,2021,5a a 9 años,Femenino,8
+0101,2021,5a a 9 años,Masculino,9
+0101,2021,70a+,Masculino,1
+0101,2022,10a a 14 años,Femenino,6
+0101,2022,10a a 14 años,Masculino,6
+0101,2022,15a a 19 años,Femenino,1
+0101,2022,15a a 19 años,Masculino,4
+0101,2022,1a a 4 años,Femenino,7
+0101,2022,1a a 4 años,Masculino,1
+0101,2022,20a a 24 años,Femenino,2
+0101,2022,20a a 24 años,Masculino,5
+0101,2022,25a a 39 años,Femenino,4
+0101,2022,25a a 39 años,Masculino,2
+0101,2022,2m a < 1 año,Masculino,2
+0101,2022,40a a 49 años,Femenino,1
+0101,2022,40a a 49 años,Masculino,1
+0101,2022,50a a 59 años,Femenino,3
+0101,2022,50a a 59 años,Masculino,1
+0101,2022,5a a 9 años,Femenino,13
+0101,2022,5a a 9 años,Masculino,11
+0101,2023,10a a 14 años,Femenino,151
+0101,2023,10a a 14 años,Masculino,137
+0101,2023,15a a 19 años,Femenino,122
+0101,2023,15a a 19 años,Masculino,71
+0101,2023,1a a 4 años,Femenino,98
+0101,2023,1a a 4 años,Masculino,127
+0101,2023,20a a 24 años,Femenino,281
+0101,2023,20a a 24 años,Masculino,169
+0101,2023,25a a 39 años,Femenino,117
+0101,2023,25a a 39 años,Masculino,64
+0101,2023,2m a < 1 año,Femenino,22
+0101,2023,2m a < 1 año,Masculino,26
+0101,2023,40a a 49 años,Femenino,78
+0101,2023,40a a 49 años,Masculino,28
+0101,2023,50a a 59 años,Femenino,252
+0101,2023,50a a 59 años,Masculino,275
+0101,2023,5a a 9 años,Femenino,241
+0101,2023,5a a 9 años,Masculino,283
+0101,2023,60a a 64 años,Femenino,18
+0101,2023,60a a 64 años,Masculino,11
+0101,2023,65a a 69 años,Femenino,7
+0101,2023,65a a 69 años,Masculino,8
+0101,2023,70a+,Femenino,10
+0101,2023,70a+,Masculino,14
+0101,2023,< 1 mes,Femenino,1
+0101,2023,< 1 mes,Masculino,1
+0101,2024,10a a 14 años,Femenino,580
+0101,2024,10a a 14 años,Masculino,721
+0101,2024,15a a 19 años,Femenino,348
+0101,2024,15a a 19 años,Masculino,254
+0101,2024,1a a 4 años,Femenino,296
+0101,2024,1a a 4 años,Masculino,387
+0101,2024,1m a < 2m,Femenino,5
+0101,2024,1m a < 2m,Masculino,14
+0101,2024,20a a 24 años,Femenino,338
+0101,2024,20a a 24 años,Masculino,176
+0101,2024,25a a 39 años,Femenino,640
+0101,2024,25a a 39 años,Masculino,298
+0101,2024,2m a < 1 año,Femenino,73
+0101,2024,2m a < 1 año,Masculino,86
+0101,2024,40a a 49 años,Femenino,193
+0101,2024,40a a 49 años,Masculino,111
+0101,2024,50a a 59 años,Femenino,130
+0101,2024,50a a 59 años,Masculino,76
+0101,2024,5a a 9 años,Femenino,892
+0101,2024,5a a 9 años,Masculino,1049
+0101,2024,60a a 64 años,Femenino,42
+0101,2024,60a a 64 años,Masculino,32
+0101,2024,65a a 69 años,Femenino,27
+0101,2024,65a a 69 años,Masculino,18
+0101,2024,70a+,Femenino,47
+0101,2024,70a+,Masculino,42
+0101,2024,< 1 mes,Femenino,20
+0101,2024,< 1 mes,Masculino,7
+0101,2025,10a a 14 años,Femenino,58
+0101,2025,10a a 14 años,Masculino,68
+0101,2025,15a a 19 años,Femenino,62
+0101,2025,15a a 19 años,Masculino,24
+0101,2025,1a a 4 años,Femenino,34
+0101,2025,1a a 4 años,Masculino,62
+0101,2025,1m a < 2m,Femenino,1
+0101,2025,1m a < 2m,Masculino,1
+0101,2025,20a a 24 años,Femenino,75
+0101,2025,20a a 24 años,Masculino,29
+0101,2025,25a a 39 años,Femenino,131
+0101,2025,25a a 39 años,Masculino,67
+0101,2025,2m a < 1 año,Femenino,10
+0101,2025,2m a < 1 año,Masculino,21
+0101,2025,40a a 49 años,Femenino,45
+0101,2025,40a a 49 años,Masculino,37
+0101,2025,50a a 59 años,Femenino,27
+0101,2025,50a a 59 años,Masculino,17
+0101,2025,5a a 9 años,Femenino,93
+0101,2025,5a a 9 años,Masculino,125
+0101,2025,60a a 64 años,Femenino,6
+0101,2025,60a a 64 años,Masculino,6
+0101,2025,65a a 69 años,Femenino,12
+0101,2025,65a a 69 años,Masculino,5
+0101,2025,70a+,Femenino,10
+0101,2025,70a+,Masculino,11
+0101,2025,< 1 mes,Femenino,1
+0101,2025,< 1 mes,Masculino,3
+0102,2012,1a a 4 años,Masculino,2
+0102,2012,5a a 9 años,Femenino,1
+0102,2013,10a a 14 años,Masculino,3
+0102,2013,15a a 19 años,Femenino,2
+0102,2013,20a a 24 años,Femenino,5
+0102,2013,20a a 24 años,Masculino,2
+0102,2013,25a a 39 años,Femenino,7
+0102,2013,25a a 39 años,Masculino,2
+0102,2013,60a a 64 años,Femenino,1
+0102,2018,25a a 39 años,Femenino,1
+0102,2019,10a a 14 años,Femenino,1
+0102,2019,10a a 14 años,Masculino,1
+0102,2019,15a a 19 años,Femenino,2
+0102,2019,20a a 24 años,Femenino,1
+0102,2019,25a a 39 años,Femenino,1
+0102,2019,50a a 59 años,Femenino,1
+0102,2019,5a a 9 años,Femenino,1
+0102,2021,50a a 59 años,Masculino,1
+0102,2023,10a a 14 años,Femenino,42
+0102,2023,10a a 14 años,Masculino,22
+0102,2023,15a a 19 años,Femenino,29
+0102,2023,15a a 19 años,Masculino,24
+0102,2023,1a a 4 años,Femenino,4
+0102,2023,1a a 4 años,Masculino,9
+0102,2023,20a a 24 años,Femenino,92
+0102,2023,20a a 24 años,Masculino,51
+0102,2023,25a a 39 años,Femenino,44
+0102,2023,25a a 39 años,Masculino,11
+0102,2023,2m a < 1 año,Femenino,3
+0102,2023,2m a < 1 año,Masculino,3
+0102,2023,40a a 49 años,Femenino,31
+0102,2023,40a a 49 años,Masculino,10
+0102,2023,50a a 59 años,Femenino,18
+0102,2023,50a a 59 años,Masculino,18
+0102,2023,5a a 9 años,Femenino,30
+0102,2023,5a a 9 años,Masculino,32
+0102,2023,60a a 64 años,Femenino,5
+0102,2023,60a a 64 años,Masculino,1
+0102,2023,65a a 69 años,Femenino,6
+0102,2023,65a a 69 años,Masculino,3
+0102,2023,70a+,Femenino,2
+0102,2023,70a+,Masculino,2
+0102,2024,10a a 14 años,Femenino,22
+0102,2024,10a a 14 años,Masculino,37
+0102,2024,15a a 19 años,Femenino,25
+0102,2024,15a a 19 años,Masculino,33
+0102,2024,1a a 4 años,Femenino,7
+0102,2024,1a a 4 años,Masculino,11
+0102,2024,20a a 24 años,Femenino,28
+0102,2024,20a a 24 años,Masculino,29
+0102,2024,25a a 39 años,Femenino,63
+0102,2024,25a a 39 años,Masculino,45
+0102,2024,2m a < 1 año,Femenino,1
+0102,2024,2m a < 1 año,Masculino,1
+0102,2024,40a a 49 años,Femenino,28
+0102,2024,40a a 49 años,Masculino,14
+0102,2024,50a a 59 años,Femenino,10
+0102,2024,50a a 59 años,Masculino,4
+0102,2024,5a a 9 años,Femenino,31
+0102,2024,5a a 9 años,Masculino,24
+0102,2024,60a a 64 años,Femenino,5
+0102,2024,60a a 64 años,Masculino,3
+0102,2024,65a a 69 años,Femenino,1
+0102,2024,70a+,Femenino,2
+0102,2024,70a+,Masculino,2
+0102,2025,10a a 14 años,Femenino,5
+0102,2025,10a a 14 años,Masculino,8
+0102,2025,15a a 19 años,Femenino,7
+0102,2025,15a a 19 años,Masculino,17
+0102,2025,1a a 4 años,Femenino,3
+0102,2025,1a a 4 años,Masculino,4
+0102,2025,20a a 24 años,Femenino,1
+0102,2025,20a a 24 años,Masculino,6
+0102,2025,25a a 39 años,Femenino,11
+0102,2025,25a a 39 años,Masculino,15
+0102,2025,40a a 49 años,Femenino,10
+0102,2025,40a a 49 años,Masculino,6
+0102,2025,50a a 59 años,Masculino,5
+0102,2025,5a a 9 años,Femenino,4
+0102,2025,5a a 9 años,Masculino,11
+0102,2025,60a a 64 años,Masculino,1
+0102,2025,65a a 69 años,Femenino,1
+0102,2025,65a a 69 años,Masculino,1
+0102,2025,70a+,Femenino,2
+0102,2025,70a+,Masculino,1
+0103,2012,10a a 14 años,Femenino,1
+0103,2012,20a a 24 años,Masculino,1
+0103,2013,2m a < 1 año,Femenino,1
+0103,2014,15a a 19 años,Masculino,1
+0103,2014,40a a 49 años,Femenino,1
+0103,2015,15a a 19 años,Femenino,1
+0103,2015,40a a 49 años,Masculino,1
+0103,2015,50a a 59 años,Femenino,1
+0103,2016,20a a 24 años,Femenino,1
+0103,2019,15a a 19 años,Masculino,2
+0103,2019,20a a 24 años,Femenino,1
+0103,2019,20a a 24 años,Masculino,1
+0103,2019,25a a 39 años,Femenino,1
+0103,2019,25a a 39 años,Masculino,3
+0103,2019,40a a 49 años,Femenino,2
+0103,2019,50a a 59 años,Femenino,1
+0103,2019,5a a 9 años,Femenino,2
+0103,2021,25a a 39 años,Femenino,1
+0103,2022,15a a 19 años,Masculino,1
+0103,2022,25a a 39 años,Femenino,1
+0103,2022,25a a 39 años,Masculino,1
+0103,2022,50a a 59 años,Femenino,1
+0103,2023,10a a 14 años,Femenino,29
+0103,2023,10a a 14 años,Masculino,32
+0103,2023,15a a 19 años,Femenino,22
+0103,2023,15a a 19 años,Masculino,24
+0103,2023,1a a 4 años,Femenino,9
+0103,2023,1a a 4 años,Masculino,8
+0103,2023,20a a 24 años,Femenino,65
+0103,2023,20a a 24 años,Masculino,45
+0103,2023,25a a 39 años,Femenino,25
+0103,2023,25a a 39 años,Masculino,22
+0103,2023,2m a < 1 año,Femenino,2
+0103,2023,2m a < 1 año,Masculino,1
+0103,2023,40a a 49 años,Femenino,17
+0103,2023,40a a 49 años,Masculino,6
+0103,2023,50a a 59 años,Femenino,29
+0103,2023,50a a 59 años,Masculino,25
+0103,2023,5a a 9 años,Femenino,23
+0103,2023,5a a 9 años,Masculino,28
+0103,2023,60a a 64 años,Femenino,5
+0103,2023,60a a 64 años,Masculino,3
+0103,2023,65a a 69 años,Femenino,3
+0103,2023,65a a 69 años,Masculino,1
+0103,2023,70a+,Femenino,2
+0103,2023,70a+,Masculino,1
+0103,2024,10a a 14 años,Femenino,57
+0103,2024,10a a 14 años,Masculino,60
+0103,2024,15a a 19 años,Femenino,42
+0103,2024,15a a 19 años,Masculino,51
+0103,2024,1a a 4 años,Femenino,27
+0103,2024,1a a 4 años,Masculino,27
+0103,2024,20a a 24 años,Femenino,34
+0103,2024,20a a 24 años,Masculino,49
+0103,2024,25a a 39 años,Femenino,115
+0103,2024,25a a 39 años,Masculino,106
+0103,2024,2m a < 1 año,Femenino,3
+0103,2024,2m a < 1 año,Masculino,4
+0103,2024,40a a 49 años,Femenino,50
+0103,2024,40a a 49 años,Masculino,26
+0103,2024,50a a 59 años,Femenino,30
+0103,2024,50a a 59 años,Masculino,10
+0103,2024,5a a 9 años,Femenino,63
+0103,2024,5a a 9 años,Masculino,61
+0103,2024,60a a 64 años,Femenino,7
+0103,2024,60a a 64 años,Masculino,4
+0103,2024,65a a 69 años,Femenino,3
+0103,2024,65a a 69 años,Masculino,6
+0103,2024,70a+,Femenino,6
+0103,2024,70a+,Masculino,4
+0103,2025,10a a 14 años,Femenino,3
+0103,2025,10a a 14 años,Masculino,2
+0103,2025,15a a 19 años,Femenino,1
+0103,2025,15a a 19 años,Masculino,4
+0103,2025,1a a 4 años,Femenino,1
+0103,2025,1a a 4 años,Masculino,1
+0103,2025,20a a 24 años,Femenino,1
+0103,2025,20a a 24 años,Masculino,2
+0103,2025,25a a 39 años,Femenino,11
+0103,2025,25a a 39 años,Masculino,7
+0103,2025,2m a < 1 año,Femenino,1
+0103,2025,40a a 49 años,Femenino,1
+0103,2025,40a a 49 años,Masculino,3
+0103,2025,50a a 59 años,Masculino,2
+0103,2025,5a a 9 años,Femenino,3
+0103,2025,5a a 9 años,Masculino,3
+0103,2025,60a a 64 años,Femenino,1
+0103,2025,65a a 69 años,Femenino,1
+0104,2012,10a a 14 años,Masculino,1
+0104,2012,15a a 19 años,Femenino,1
+0104,2012,15a a 19 años,Masculino,5
+0104,2012,20a a 24 años,Femenino,2
+0104,2012,20a a 24 años,Masculino,4
+0104,2012,25a a 39 años,Femenino,2
+0104,2012,25a a 39 años,Masculino,7
+0104,2012,40a a 49 años,Femenino,2
+0104,2012,40a a 49 años,Masculino,3
+0104,2012,50a a 59 años,Masculino,2
+0104,2012,5a a 9 años,Femenino,1
+0104,2012,5a a 9 años,Masculino,1
+0104,2012,70a+,Femenino,1
+0104,2013,10a a 14 años,Femenino,15
+0104,2013,10a a 14 años,Masculino,18
+0104,2013,15a a 19 años,Femenino,10
+0104,2013,15a a 19 años,Masculino,22
+0104,2013,1a a 4 años,Femenino,3
+0104,2013,1a a 4 años,Masculino,5
+0104,2013,20a a 24 años,Femenino,8
+0104,2013,20a a 24 años,Masculino,4
+0104,2013,25a a 39 años,Femenino,21
+0104,2013,25a a 39 años,Masculino,15
+0104,2013,40a a 49 años,Femenino,8
+0104,2013,40a a 49 años,Masculino,5
+0104,2013,50a a 59 años,Femenino,5
+0104,2013,50a a 59 años,Masculino,4
+0104,2013,5a a 9 años,Femenino,7
+0104,2013,5a a 9 años,Masculino,7
+0104,2013,60a a 64 años,Masculino,5
+0104,2013,70a+,Femenino,1
+0104,2013,70a+,Masculino,1
+0104,2014,10a a 14 años,Femenino,2
+0104,2014,10a a 14 años,Masculino,7
+0104,2014,15a a 19 años,Femenino,2
+0104,2014,15a a 19 años,Masculino,5
+0104,2014,1a a 4 años,Femenino,3
+0104,2014,1a a 4 años,Masculino,1
+0104,2014,20a a 24 años,Femenino,1
+0104,2014,20a a 24 años,Masculino,2
+0104,2014,25a a 39 años,Femenino,3
+0104,2014,25a a 39 años,Masculino,8
+0104,2014,2m a < 1 año,Femenino,1
+0104,2014,40a a 49 años,Femenino,11
+0104,2014,40a a 49 años,Masculino,2
+0104,2014,50a a 59 años,Femenino,2
+0104,2014,50a a 59 años,Masculino,4
+0104,2014,5a a 9 años,Femenino,1
+0104,2014,5a a 9 años,Masculino,1
+0104,2014,60a a 64 años,Femenino,3
+0104,2014,70a+,Femenino,1
+0104,2015,10a a 14 años,Femenino,1
+0104,2015,10a a 14 años,Masculino,1
+0104,2015,15a a 19 años,Femenino,2
+0104,2015,15a a 19 años,Masculino,1
+0104,2015,1a a 4 años,Femenino,1
+0104,2015,1a a 4 años,Masculino,1
+0104,2015,20a a 24 años,Femenino,2
+0104,2015,25a a 39 años,Femenino,7
+0104,2015,50a a 59 años,Masculino,1
+0104,2015,5a a 9 años,Masculino,1
+0104,2016,10a a 14 años,Femenino,1
+0104,2016,15a a 19 años,Femenino,1
+0104,2016,25a a 39 años,Femenino,3
+0104,2016,40a a 49 años,Femenino,1
+0104,2016,5a a 9 años,Masculino,1
+0104,2017,15a a 19 años,Femenino,1
+0104,2017,1a a 4 años,Masculino,1
+0104,2017,20a a 24 años,Femenino,2
+0104,2017,25a a 39 años,Masculino,1
+0104,2017,2m a < 1 año,Femenino,1
+0104,2017,5a a 9 años,Femenino,1
+0104,2018,10a a 14 años,Femenino,1
+0104,2018,15a a 19 años,Femenino,1
+0104,2018,15a a 19 años,Masculino,1
+0104,2018,1a a 4 años,Femenino,3
+0104,2018,25a a 39 años,Femenino,2
+0104,2018,25a a 39 años,Masculino,1
+0104,2018,2m a < 1 año,Femenino,1
+0104,2018,2m a < 1 año,Masculino,1
+0104,2018,5a a 9 años,Femenino,1
+0104,2018,5a a 9 años,Masculino,1
+0104,2019,10a a 14 años,Femenino,35
+0104,2019,10a a 14 años,Masculino,58
+0104,2019,15a a 19 años,Femenino,29
+0104,2019,15a a 19 años,Masculino,28
+0104,2019,1a a 4 años,Femenino,25
+0104,2019,1a a 4 años,Masculino,28
+0104,2019,1m a < 2m,Femenino,1
+0104,2019,1m a < 2m,Masculino,1
+0104,2019,20a a 24 años,Femenino,19
+0104,2019,20a a 24 años,Masculino,21
+0104,2019,25a a 39 años,Femenino,50
+0104,2019,25a a 39 años,Masculino,34
+0104,2019,2m a < 1 año,Femenino,1
+0104,2019,2m a < 1 año,Masculino,6
+0104,2019,40a a 49 años,Femenino,18
+0104,2019,40a a 49 años,Masculino,3
+0104,2019,50a a 59 años,Femenino,5
+0104,2019,50a a 59 años,Masculino,7
+0104,2019,5a a 9 años,Femenino,49
+0104,2019,5a a 9 años,Masculino,49
+0104,2019,60a a 64 años,Masculino,5
+0104,2019,65a a 69 años,Femenino,1
+0104,2019,65a a 69 años,Masculino,4
+0104,2019,70a+,Femenino,2
+0104,2019,70a+,Masculino,1
+0104,2020,10a a 14 años,Masculino,3
+0104,2020,15a a 19 años,Femenino,2
+0104,2020,15a a 19 años,Masculino,1
+0104,2020,1a a 4 años,Femenino,2
+0104,2020,1a a 4 años,Masculino,1
+0104,2020,20a a 24 años,Femenino,2
+0104,2020,20a a 24 años,Masculino,2
+0104,2020,25a a 39 años,Femenino,9
+0104,2020,25a a 39 años,Masculino,5
+0104,2020,40a a 49 años,Femenino,2
+0104,2020,40a a 49 años,Masculino,1
+0104,2020,5a a 9 años,Femenino,1
+0104,2020,5a a 9 años,Masculino,2
+0104,2021,10a a 14 años,Masculino,2
+0104,2021,1a a 4 años,Femenino,2
+0104,2021,25a a 39 años,Femenino,1
+0104,2021,40a a 49 años,Femenino,1
+0104,2021,5a a 9 años,Masculino,1
+0104,2022,10a a 14 años,Femenino,2
+0104,2022,15a a 19 años,Masculino,1
+0104,2022,20a a 24 años,Femenino,1
+0104,2022,20a a 24 años,Masculino,1
+0104,2022,25a a 39 años,Femenino,2
+0104,2022,40a a 49 años,Femenino,1
+0104,2022,5a a 9 años,Femenino,1
+0104,2022,60a a 64 años,Femenino,1
+0104,2023,10a a 14 años,Femenino,28
+0104,2023,10a a 14 años,Masculino,33
+0104,2023,15a a 19 años,Femenino,20
+0104,2023,15a a 19 años,Masculino,15
+0104,2023,1a a 4 años,Femenino,22
+0104,2023,1a a 4 años,Masculino,24
+0104,2023,20a a 24 años,Femenino,49
+0104,2023,20a a 24 años,Masculino,19
+0104,2023,25a a 39 años,Femenino,9
+0104,2023,25a a 39 años,Masculino,4
+0104,2023,2m a < 1 año,Femenino,3
+0104,2023,40a a 49 años,Femenino,12
+0104,2023,40a a 49 años,Masculino,3
+0104,2023,50a a 59 años,Femenino,39
+0104,2023,50a a 59 años,Masculino,33
+0104,2023,5a a 9 años,Femenino,33
+0104,2023,5a a 9 años,Masculino,49
+0104,2023,60a a 64 años,Femenino,7
+0104,2023,65a a 69 años,Femenino,3
+0104,2023,65a a 69 años,Masculino,1
+0104,2023,70a+,Masculino,2
+0104,2024,10a a 14 años,Femenino,34
+0104,2024,10a a 14 años,Masculino,46
+0104,2024,15a a 19 años,Femenino,22
+0104,2024,15a a 19 años,Masculino,19
+0104,2024,1a a 4 años,Femenino,14
+0104,2024,1a a 4 años,Masculino,18
+0104,2024,20a a 24 años,Femenino,18
+0104,2024,20a a 24 años,Masculino,5
+0104,2024,25a a 39 años,Femenino,27
+0104,2024,25a a 39 años,Masculino,17
+0104,2024,2m a < 1 año,Femenino,9
+0104,2024,40a a 49 años,Femenino,10
+0104,2024,40a a 49 años,Masculino,3
+0104,2024,50a a 59 años,Femenino,12
+0104,2024,50a a 59 años,Masculino,2
+0104,2024,5a a 9 años,Femenino,46
+0104,2024,5a a 9 años,Masculino,56
+0104,2024,60a a 64 años,Femenino,1
+0104,2024,60a a 64 años,Masculino,1
+0104,2024,65a a 69 años,Femenino,2
+0104,2024,65a a 69 años,Masculino,1
+0104,2024,70a+,Femenino,2
+0104,2024,70a+,Masculino,2
+0104,2025,10a a 14 años,Femenino,7
+0104,2025,10a a 14 años,Masculino,8
+0104,2025,15a a 19 años,Femenino,3
+0104,2025,15a a 19 años,Masculino,8
+0104,2025,1a a 4 años,Femenino,7
+0104,2025,1a a 4 años,Masculino,7
+0104,2025,20a a 24 años,Femenino,4
+0104,2025,20a a 24 años,Masculino,7
+0104,2025,25a a 39 años,Femenino,11
+0104,2025,25a a 39 años,Masculino,9
+0104,2025,2m a < 1 año,Femenino,1
+0104,2025,40a a 49 años,Femenino,4
+0104,2025,40a a 49 años,Masculino,5
+0104,2025,50a a 59 años,Femenino,1
+0104,2025,50a a 59 años,Masculino,1
+0104,2025,5a a 9 años,Femenino,6
+0104,2025,5a a 9 años,Masculino,14
+0104,2025,65a a 69 años,Femenino,1
+0105,2012,10a a 14 años,Femenino,1
+0105,2012,20a a 24 años,Femenino,2
+0105,2012,25a a 39 años,Femenino,3
+0105,2012,25a a 39 años,Masculino,1
+0105,2012,40a a 49 años,Femenino,1
+0105,2012,5a a 9 años,Masculino,1
+0105,2013,10a a 14 años,Femenino,1
+0105,2013,10a a 14 años,Masculino,1
+0105,2013,15a a 19 años,Femenino,2
+0105,2013,15a a 19 años,Masculino,4
+0105,2013,20a a 24 años,Femenino,3
+0105,2013,20a a 24 años,Masculino,2
+0105,2013,25a a 39 años,Femenino,3
+0105,2013,2m a < 1 año,Femenino,1
+0105,2013,40a a 49 años,Femenino,2
+0105,2013,40a a 49 años,Masculino,3
+0105,2013,50a a 59 años,Masculino,1
+0105,2013,5a a 9 años,Femenino,2
+0105,2013,5a a 9 años,Masculino,1
+0105,2013,65a a 69 años,Femenino,1
+0105,2014,15a a 19 años,Masculino,2
+0105,2014,1a a 4 años,Femenino,1
+0105,2014,20a a 24 años,Masculino,1
+0105,2014,25a a 39 años,Masculino,1
+0105,2014,40a a 49 años,Femenino,1
+0105,2014,5a a 9 años,Femenino,1
+0105,2015,10a a 14 años,Masculino,1
+0105,2015,20a a 24 años,Femenino,1
+0105,2015,5a a 9 años,Masculino,1
+0105,2016,1a a 4 años,Femenino,1
+0105,2016,20a a 24 años,Femenino,1
+0105,2016,25a a 39 años,Femenino,1
+0105,2018,50a a 59 años,Femenino,1
+0105,2019,10a a 14 años,Femenino,14
+0105,2019,10a a 14 años,Masculino,9
+0105,2019,15a a 19 años,Femenino,11
+0105,2019,15a a 19 años,Masculino,6
+0105,2019,1a a 4 años,Femenino,10
+0105,2019,1a a 4 años,Masculino,9
+0105,2019,20a a 24 años,Femenino,12
+0105,2019,20a a 24 años,Masculino,3
+0105,2019,25a a 39 años,Femenino,16
+0105,2019,25a a 39 años,Masculino,8
+0105,2019,2m a < 1 año,Femenino,3
+0105,2019,40a a 49 años,Femenino,8
+0105,2019,40a a 49 años,Masculino,4
+0105,2019,50a a 59 años,Femenino,5
+0105,2019,50a a 59 años,Masculino,3
+0105,2019,5a a 9 años,Femenino,11
+0105,2019,5a a 9 años,Masculino,11
+0105,2020,1a a 4 años,Femenino,1
+0105,2020,1a a 4 años,Masculino,1
+0105,2020,2m a < 1 año,Masculino,1
+0105,2020,50a a 59 años,Masculino,1
+0105,2021,1a a 4 años,Femenino,1
+0105,2021,1a a 4 años,Masculino,1
+0105,2021,25a a 39 años,Masculino,1
+0105,2021,2m a < 1 año,Femenino,1
+0105,2021,5a a 9 años,Femenino,1
+0105,2021,5a a 9 años,Masculino,1
+0105,2022,10a a 14 años,Femenino,1
+0105,2022,10a a 14 años,Masculino,1
+0105,2022,25a a 39 años,Femenino,1
+0105,2022,25a a 39 años,Masculino,1
+0105,2022,40a a 49 años,Femenino,1
+0105,2022,5a a 9 años,Femenino,3
+0105,2022,5a a 9 años,Masculino,2
+0105,2023,10a a 14 años,Femenino,33
+0105,2023,10a a 14 años,Masculino,29
+0105,2023,15a a 19 años,Femenino,30
+0105,2023,15a a 19 años,Masculino,30
+0105,2023,1a a 4 años,Femenino,43
+0105,2023,1a a 4 años,Masculino,42
+0105,2023,20a a 24 años,Femenino,69
+0105,2023,20a a 24 años,Masculino,50
+0105,2023,25a a 39 años,Femenino,27
+0105,2023,25a a 39 años,Masculino,10
+0105,2023,2m a < 1 año,Femenino,7
+0105,2023,2m a < 1 año,Masculino,6
+0105,2023,40a a 49 años,Femenino,20
+0105,2023,40a a 49 años,Masculino,8
+0105,2023,50a a 59 años,Femenino,56
+0105,2023,50a a 59 años,Masculino,57
+0105,2023,5a a 9 años,Femenino,55
+0105,2023,5a a 9 años,Masculino,46
+0105,2023,60a a 64 años,Femenino,8
+0105,2023,60a a 64 años,Masculino,2
+0105,2023,65a a 69 años,Femenino,4
+0105,2023,65a a 69 años,Masculino,2
+0105,2023,70a+,Femenino,6
+0105,2023,70a+,Masculino,1
+0105,2024,10a a 14 años,Femenino,86
+0105,2024,10a a 14 años,Masculino,73
+0105,2024,15a a 19 años,Femenino,49
+0105,2024,15a a 19 años,Masculino,41
+0105,2024,1a a 4 años,Femenino,76
+0105,2024,1a a 4 años,Masculino,80
+0105,2024,1m a < 2m,Femenino,1
+0105,2024,1m a < 2m,Masculino,2
+0105,2024,20a a 24 años,Femenino,43
+0105,2024,20a a 24 años,Masculino,37
+0105,2024,25a a 39 años,Femenino,75
+0105,2024,25a a 39 años,Masculino,45
+0105,2024,2m a < 1 año,Femenino,15
+0105,2024,2m a < 1 año,Masculino,14
+0105,2024,40a a 49 años,Femenino,25
+0105,2024,40a a 49 años,Masculino,15
+0105,2024,50a a 59 años,Femenino,14
+0105,2024,50a a 59 años,Masculino,8
+0105,2024,5a a 9 años,Femenino,116
+0105,2024,5a a 9 años,Masculino,104
+0105,2024,60a a 64 años,Femenino,7
+0105,2024,60a a 64 años,Masculino,4
+0105,2024,65a a 69 años,Femenino,4
+0105,2024,65a a 69 años,Masculino,2
+0105,2024,70a+,Femenino,2
+0105,2024,70a+,Masculino,5
+0105,2024,< 1 mes,Femenino,1
+0105,2025,10a a 14 años,Femenino,19
+0105,2025,10a a 14 años,Masculino,9
+0105,2025,15a a 19 años,Femenino,13
+0105,2025,15a a 19 años,Masculino,11
+0105,2025,1a a 4 años,Femenino,8
+0105,2025,1a a 4 años,Masculino,8
+0105,2025,1m a < 2m,Masculino,1
+0105,2025,20a a 24 años,Femenino,4
+0105,2025,20a a 24 años,Masculino,7
+0105,2025,25a a 39 años,Femenino,19
+0105,2025,25a a 39 años,Masculino,12
+0105,2025,2m a < 1 año,Femenino,1
+0105,2025,2m a < 1 año,Masculino,3
+0105,2025,40a a 49 años,Femenino,5
+0105,2025,40a a 49 años,Masculino,6
+0105,2025,50a a 59 años,Femenino,3
+0105,2025,50a a 59 años,Masculino,2
+0105,2025,5a a 9 años,Femenino,16
+0105,2025,5a a 9 años,Masculino,13
+0105,2025,60a a 64 años,Femenino,1
+0105,2025,70a+,Femenino,1
+0105,2025,70a+,Masculino,1
+0106,2012,10a a 14 años,Femenino,1
+0106,2012,15a a 19 años,Femenino,1
+0106,2012,15a a 19 años,Masculino,1
+0106,2012,25a a 39 años,Femenino,2
+0106,2012,25a a 39 años,Masculino,3
+0106,2013,10a a 14 años,Femenino,2
+0106,2013,10a a 14 años,Masculino,1
+0106,2013,15a a 19 años,Femenino,3
+0106,2013,15a a 19 años,Masculino,1
+0106,2013,20a a 24 años,Femenino,1
+0106,2013,20a a 24 años,Masculino,1
+0106,2013,25a a 39 años,Femenino,1
+0106,2013,25a a 39 años,Masculino,3
+0106,2013,40a a 49 años,Femenino,1
+0106,2013,40a a 49 años,Masculino,1
+0106,2013,50a a 59 años,Femenino,1
+0106,2013,5a a 9 años,Femenino,5
+0106,2013,5a a 9 años,Masculino,1
+0106,2013,65a a 69 años,Femenino,1
+0106,2014,10a a 14 años,Femenino,1
+0106,2014,10a a 14 años,Masculino,1
+0106,2014,15a a 19 años,Femenino,1
+0106,2014,15a a 19 años,Masculino,1
+0106,2014,20a a 24 años,Femenino,3
+0106,2014,25a a 39 años,Femenino,2
+0106,2014,25a a 39 años,Masculino,1
+0106,2015,10a a 14 años,Femenino,6
+0106,2015,10a a 14 años,Masculino,24
+0106,2015,15a a 19 años,Femenino,16
+0106,2015,15a a 19 años,Masculino,17
+0106,2015,1a a 4 años,Femenino,5
+0106,2015,1a a 4 años,Masculino,8
+0106,2015,20a a 24 años,Femenino,10
+0106,2015,20a a 24 años,Masculino,15
+0106,2015,25a a 39 años,Femenino,27
+0106,2015,25a a 39 años,Masculino,11
+0106,2015,2m a < 1 año,Femenino,1
+0106,2015,2m a < 1 año,Masculino,1
+0106,2015,40a a 49 años,Femenino,8
+0106,2015,40a a 49 años,Masculino,5
+0106,2015,50a a 59 años,Femenino,8
+0106,2015,50a a 59 años,Masculino,3
+0106,2015,5a a 9 años,Femenino,12
+0106,2015,5a a 9 años,Masculino,13
+0106,2015,60a a 64 años,Femenino,1
+0106,2015,60a a 64 años,Masculino,2
+0106,2015,65a a 69 años,Femenino,1
+0106,2015,70a+,Femenino,1
+0106,2016,10a a 14 años,Femenino,1
+0106,2016,10a a 14 años,Masculino,1
+0106,2016,15a a 19 años,Femenino,1
+0106,2016,15a a 19 años,Masculino,1
+0106,2016,1a a 4 años,Femenino,1
+0106,2016,20a a 24 años,Femenino,1
+0106,2016,25a a 39 años,Femenino,2
+0106,2016,25a a 39 años,Masculino,2
+0106,2016,40a a 49 años,Masculino,1
+0106,2016,5a a 9 años,Femenino,1
+0106,2016,65a a 69 años,Femenino,1
+0106,2018,25a a 39 años,Masculino,1
+0106,2019,10a a 14 años,Femenino,26
+0106,2019,10a a 14 años,Masculino,32
+0106,2019,15a a 19 años,Femenino,13
+0106,2019,15a a 19 años,Masculino,18
+0106,2019,1a a 4 años,Femenino,14
+0106,2019,1a a 4 años,Masculino,9
+0106,2019,20a a 24 años,Femenino,19
+0106,2019,20a a 24 años,Masculino,6
+0106,2019,25a a 39 años,Femenino,36
+0106,2019,25a a 39 años,Masculino,10
+0106,2019,2m a < 1 año,Femenino,1
+0106,2019,40a a 49 años,Femenino,7
+0106,2019,40a a 49 años,Masculino,6
+0106,2019,50a a 59 años,Femenino,2
+0106,2019,50a a 59 años,Masculino,2
+0106,2019,5a a 9 años,Femenino,26
+0106,2019,5a a 9 años,Masculino,27
+0106,2019,60a a 64 años,Femenino,3
+0106,2019,65a a 69 años,Femenino,1
+0106,2020,10a a 14 años,Masculino,2
+0106,2020,15a a 19 años,Masculino,1
+0106,2020,20a a 24 años,Masculino,1
+0106,2020,25a a 39 años,Femenino,3
+0106,2021,25a a 39 años,Femenino,1
+0106,2021,40a a 49 años,Masculino,1
+0106,2021,50a a 59 años,Masculino,1
+0106,2022,20a a 24 años,Femenino,1
+0106,2022,5a a 9 años,Femenino,1
+0106,2023,10a a 14 años,Femenino,37
+0106,2023,10a a 14 años,Masculino,20
+0106,2023,15a a 19 años,Femenino,24
+0106,2023,15a a 19 años,Masculino,13
+0106,2023,1a a 4 años,Femenino,10
+0106,2023,1a a 4 años,Masculino,10
+0106,2023,20a a 24 años,Femenino,48
+0106,2023,20a a 24 años,Masculino,25
+0106,2023,25a a 39 años,Femenino,31
+0106,2023,25a a 39 años,Masculino,9
+0106,2023,2m a < 1 año,Femenino,1
+0106,2023,40a a 49 años,Femenino,14
+0106,2023,40a a 49 años,Masculino,10
+0106,2023,50a a 59 años,Femenino,33
+0106,2023,50a a 59 años,Masculino,36
+0106,2023,5a a 9 años,Femenino,42
+0106,2023,5a a 9 años,Masculino,41
+0106,2023,60a a 64 años,Femenino,5
+0106,2023,60a a 64 años,Masculino,4
+0106,2023,65a a 69 años,Femenino,3
+0106,2023,65a a 69 años,Masculino,1
+0106,2023,70a+,Femenino,1
+0106,2024,10a a 14 años,Femenino,80
+0106,2024,10a a 14 años,Masculino,93
+0106,2024,15a a 19 años,Femenino,64
+0106,2024,15a a 19 años,Masculino,53
+0106,2024,1a a 4 años,Femenino,23
+0106,2024,1a a 4 años,Masculino,34
+0106,2024,20a a 24 años,Femenino,33
+0106,2024,20a a 24 años,Masculino,29
+0106,2024,25a a 39 años,Femenino,97
+0106,2024,25a a 39 años,Masculino,47
+0106,2024,2m a < 1 año,Femenino,5
+0106,2024,2m a < 1 año,Masculino,3
+0106,2024,40a a 49 años,Femenino,30
+0106,2024,40a a 49 años,Masculino,22
+0106,2024,50a a 59 años,Femenino,10
+0106,2024,50a a 59 años,Masculino,8
+0106,2024,5a a 9 años,Femenino,72
+0106,2024,5a a 9 años,Masculino,85
+0106,2024,60a a 64 años,Femenino,3
+0106,2024,60a a 64 años,Masculino,2
+0106,2024,65a a 69 años,Femenino,1
+0106,2024,70a+,Femenino,5
+0106,2024,70a+,Masculino,1
+0106,2024,< 1 mes,Masculino,3
+0106,2025,10a a 14 años,Femenino,9
+0106,2025,10a a 14 años,Masculino,9
+0106,2025,15a a 19 años,Femenino,9
+0106,2025,15a a 19 años,Masculino,3
+0106,2025,1a a 4 años,Femenino,2
+0106,2025,1a a 4 años,Masculino,5
+0106,2025,20a a 24 años,Femenino,2
+0106,2025,20a a 24 años,Masculino,4
+0106,2025,25a a 39 años,Femenino,21
+0106,2025,25a a 39 años,Masculino,6
+0106,2025,2m a < 1 año,Masculino,1
+0106,2025,40a a 49 años,Femenino,4
+0106,2025,50a a 59 años,Femenino,7
+0106,2025,50a a 59 años,Masculino,4
+0106,2025,5a a 9 años,Femenino,9
+0106,2025,5a a 9 años,Masculino,9
+0106,2025,60a a 64 años,Masculino,1
+0106,2025,65a a 69 años,Femenino,1
+0106,2025,70a+,Femenino,1
+0107,2012,40a a 49 años,Masculino,1
+0107,2013,10a a 14 años,Femenino,4
+0107,2013,10a a 14 años,Masculino,2
+0107,2013,15a a 19 años,Femenino,5
+0107,2013,15a a 19 años,Masculino,2
+0107,2013,1a a 4 años,Femenino,1
+0107,2013,20a a 24 años,Femenino,5
+0107,2013,25a a 39 años,Femenino,10
+0107,2013,25a a 39 años,Masculino,8
+0107,2013,40a a 49 años,Femenino,2
+0107,2013,40a a 49 años,Masculino,2
+0107,2013,50a a 59 años,Masculino,1
+0107,2013,5a a 9 años,Femenino,3
+0107,2013,5a a 9 años,Masculino,4
+0107,2013,65a a 69 años,Femenino,1
+0107,2014,15a a 19 años,Masculino,1
+0107,2014,25a a 39 años,Femenino,1
+0107,2014,50a a 59 años,Masculino,1
+0107,2015,10a a 14 años,Femenino,14
+0107,2015,10a a 14 años,Masculino,13
+0107,2015,15a a 19 años,Femenino,17
+0107,2015,15a a 19 años,Masculino,14
+0107,2015,1a a 4 años,Femenino,2
+0107,2015,1a a 4 años,Masculino,7
+0107,2015,1m a < 2m,Masculino,1
+0107,2015,20a a 24 años,Femenino,11
+0107,2015,20a a 24 años,Masculino,8
+0107,2015,25a a 39 años,Femenino,24
+0107,2015,25a a 39 años,Masculino,15
+0107,2015,40a a 49 años,Femenino,12
+0107,2015,40a a 49 años,Masculino,6
+0107,2015,50a a 59 años,Femenino,11
+0107,2015,50a a 59 años,Masculino,7
+0107,2015,5a a 9 años,Femenino,9
+0107,2015,5a a 9 años,Masculino,10
+0107,2015,60a a 64 años,Femenino,4
+0107,2015,60a a 64 años,Masculino,2
+0107,2015,65a a 69 años,Femenino,2
+0107,2015,65a a 69 años,Masculino,4
+0107,2015,70a+,Femenino,1
+0107,2015,70a+,Masculino,1
+0107,2016,10a a 14 años,Femenino,3
+0107,2016,10a a 14 años,Masculino,2
+0107,2016,15a a 19 años,Femenino,4
+0107,2016,15a a 19 años,Masculino,3
+0107,2016,1a a 4 años,Femenino,4
+0107,2016,1a a 4 años,Masculino,2
+0107,2016,20a a 24 años,Femenino,3
+0107,2016,20a a 24 años,Masculino,2
+0107,2016,25a a 39 años,Femenino,12
+0107,2016,25a a 39 años,Masculino,2
+0107,2016,2m a < 1 año,Femenino,2
+0107,2016,40a a 49 años,Femenino,6
+0107,2016,50a a 59 años,Femenino,1
+0107,2016,5a a 9 años,Femenino,3
+0107,2016,65a a 69 años,Femenino,1
+0107,2016,70a+,Masculino,1
+0107,2017,15a a 19 años,Femenino,2
+0107,2017,1a a 4 años,Masculino,1
+0107,2017,20a a 24 años,Femenino,1
+0107,2017,20a a 24 años,Masculino,1
+0107,2017,5a a 9 años,Masculino,1
+0107,2017,60a a 64 años,Masculino,1
+0107,2018,10a a 14 años,Masculino,1
+0107,2018,1a a 4 años,Masculino,1
+0107,2018,20a a 24 años,Femenino,1
+0107,2019,10a a 14 años,Femenino,16
+0107,2019,10a a 14 años,Masculino,14
+0107,2019,15a a 19 años,Femenino,6
+0107,2019,15a a 19 años,Masculino,7
+0107,2019,1a a 4 años,Femenino,15
+0107,2019,1a a 4 años,Masculino,3
+0107,2019,20a a 24 años,Femenino,5
+0107,2019,20a a 24 años,Masculino,4
+0107,2019,25a a 39 años,Femenino,5
+0107,2019,25a a 39 años,Masculino,4
+0107,2019,2m a < 1 año,Femenino,3
+0107,2019,2m a < 1 año,Masculino,1
+0107,2019,40a a 49 años,Femenino,1
+0107,2019,40a a 49 años,Masculino,3
+0107,2019,5a a 9 años,Femenino,16
+0107,2019,5a a 9 años,Masculino,20
+0107,2019,60a a 64 años,Femenino,1
+0107,2019,70a+,Femenino,1
+0107,2019,70a+,Masculino,1
+0107,2020,1a a 4 años,Femenino,1
+0107,2020,20a a 24 años,Femenino,1
+0107,2020,20a a 24 años,Masculino,1
+0107,2020,25a a 39 años,Masculino,2
+0107,2022,25a a 39 años,Femenino,1
+0107,2023,10a a 14 años,Femenino,9
+0107,2023,10a a 14 años,Masculino,7
+0107,2023,15a a 19 años,Femenino,8
+0107,2023,15a a 19 años,Masculino,4
+0107,2023,1a a 4 años,Femenino,10
+0107,2023,1a a 4 años,Masculino,5
+0107,2023,20a a 24 años,Femenino,12
+0107,2023,20a a 24 años,Masculino,8
+0107,2023,25a a 39 años,Femenino,4
+0107,2023,25a a 39 años,Masculino,3
+0107,2023,40a a 49 años,Femenino,4
+0107,2023,40a a 49 años,Masculino,5
+0107,2023,50a a 59 años,Femenino,7
+0107,2023,50a a 59 años,Masculino,20
+0107,2023,5a a 9 años,Femenino,7
+0107,2023,5a a 9 años,Masculino,17
+0107,2023,60a a 64 años,Femenino,3
+0107,2024,10a a 14 años,Femenino,34
+0107,2024,10a a 14 años,Masculino,44
+0107,2024,15a a 19 años,Femenino,31
+0107,2024,15a a 19 años,Masculino,18
+0107,2024,1a a 4 años,Femenino,30
+0107,2024,1a a 4 años,Masculino,23
+0107,2024,20a a 24 años,Femenino,19
+0107,2024,20a a 24 años,Masculino,10
+0107,2024,25a a 39 años,Femenino,32
+0107,2024,25a a 39 años,Masculino,20
+0107,2024,2m a < 1 año,Femenino,6
+0107,2024,2m a < 1 año,Masculino,3
+0107,2024,40a a 49 años,Femenino,18
+0107,2024,40a a 49 años,Masculino,4
+0107,2024,50a a 59 años,Femenino,8
+0107,2024,50a a 59 años,Masculino,4
+0107,2024,5a a 9 años,Femenino,44
+0107,2024,5a a 9 años,Masculino,48
+0107,2024,60a a 64 años,Femenino,7
+0107,2024,60a a 64 años,Masculino,1
+0107,2024,65a a 69 años,Femenino,1
+0107,2024,65a a 69 años,Masculino,1
+0107,2025,10a a 14 años,Femenino,1
+0107,2025,15a a 19 años,Masculino,2
+0107,2025,20a a 24 años,Masculino,1
+0107,2025,25a a 39 años,Femenino,2
+0107,2025,50a a 59 años,Masculino,1
+0107,2025,5a a 9 años,Femenino,1
+0107,2025,5a a 9 años,Masculino,3
+0108,2012,10a a 14 años,Femenino,2
+0108,2012,10a a 14 años,Masculino,5
+0108,2012,15a a 19 años,Femenino,2
+0108,2012,15a a 19 años,Masculino,6
+0108,2012,1a a 4 años,Femenino,1
+0108,2012,1a a 4 años,Masculino,2
+0108,2012,20a a 24 años,Femenino,3
+0108,2012,20a a 24 años,Masculino,3
+0108,2012,25a a 39 años,Femenino,12
+0108,2012,25a a 39 años,Masculino,12
+0108,2012,40a a 49 años,Femenino,7
+0108,2012,40a a 49 años,Masculino,3
+0108,2012,50a a 59 años,Femenino,4
+0108,2012,5a a 9 años,Femenino,2
+0108,2012,5a a 9 años,Masculino,5
+0108,2012,60a a 64 años,Femenino,1
+0108,2012,60a a 64 años,Masculino,1
+0108,2013,10a a 14 años,Femenino,13
+0108,2013,10a a 14 años,Masculino,18
+0108,2013,15a a 19 años,Femenino,26
+0108,2013,15a a 19 años,Masculino,29
+0108,2013,1a a 4 años,Femenino,3
+0108,2013,1a a 4 años,Masculino,4
+0108,2013,20a a 24 años,Femenino,19
+0108,2013,20a a 24 años,Masculino,23
+0108,2013,25a a 39 años,Femenino,63
+0108,2013,25a a 39 años,Masculino,41
+0108,2013,40a a 49 años,Femenino,32
+0108,2013,40a a 49 años,Masculino,13
+0108,2013,50a a 59 años,Femenino,17
+0108,2013,50a a 59 años,Masculino,9
+0108,2013,5a a 9 años,Femenino,2
+0108,2013,5a a 9 años,Masculino,12
+0108,2013,60a a 64 años,Femenino,2
+0108,2013,60a a 64 años,Masculino,1
+0108,2013,65a a 69 años,Femenino,3
+0108,2013,65a a 69 años,Masculino,2
+0108,2013,70a+,Femenino,1
+0108,2013,70a+,Masculino,1
+0108,2014,10a a 14 años,Femenino,44
+0108,2014,10a a 14 años,Masculino,46
+0108,2014,15a a 19 años,Femenino,56
+0108,2014,15a a 19 años,Masculino,38
+0108,2014,1a a 4 años,Femenino,9
+0108,2014,1a a 4 años,Masculino,7
+0108,2014,20a a 24 años,Femenino,45
+0108,2014,20a a 24 años,Masculino,36
+0108,2014,25a a 39 años,Femenino,119
+0108,2014,25a a 39 años,Masculino,84
+0108,2014,2m a < 1 año,Masculino,2
+0108,2014,40a a 49 años,Femenino,54
+0108,2014,40a a 49 años,Masculino,34
+0108,2014,50a a 59 años,Femenino,31
+0108,2014,50a a 59 años,Masculino,18
+0108,2014,5a a 9 años,Femenino,16
+0108,2014,5a a 9 años,Masculino,18
+0108,2014,60a a 64 años,Femenino,9
+0108,2014,60a a 64 años,Masculino,3
+0108,2014,65a a 69 años,Femenino,2
+0108,2014,65a a 69 años,Masculino,3
+0108,2014,70a+,Femenino,4
+0108,2014,70a+,Masculino,3
+0108,2015,10a a 14 años,Femenino,195
+0108,2015,10a a 14 años,Masculino,226
+0108,2015,15a a 19 años,Femenino,177
+0108,2015,15a a 19 años,Masculino,176
+0108,2015,1a a 4 años,Femenino,81
+0108,2015,1a a 4 años,Masculino,67
+0108,2015,1m a < 2m,Femenino,1
+0108,2015,1m a < 2m,Masculino,2
+0108,2015,20a a 24 años,Femenino,174
+0108,2015,20a a 24 años,Masculino,123
+0108,2015,25a a 39 años,Femenino,446
+0108,2015,25a a 39 años,Masculino,255
+0108,2015,2m a < 1 año,Femenino,7
+0108,2015,2m a < 1 año,Masculino,11
+0108,2015,40a a 49 años,Femenino,168
+0108,2015,40a a 49 años,Masculino,81
+0108,2015,50a a 59 años,Femenino,105
+0108,2015,50a a 59 años,Masculino,58
+0108,2015,5a a 9 años,Femenino,135
+0108,2015,5a a 9 años,Masculino,158
+0108,2015,60a a 64 años,Femenino,31
+0108,2015,60a a 64 años,Masculino,13
+0108,2015,65a a 69 años,Femenino,17
+0108,2015,65a a 69 años,Masculino,10
+0108,2015,70a+,Femenino,29
+0108,2015,70a+,Masculino,28
+0108,2015,< 1 mes,Femenino,1
+0108,2015,< 1 mes,Masculino,2
+0108,2016,10a a 14 años,Femenino,87
+0108,2016,10a a 14 años,Masculino,85
+0108,2016,15a a 19 años,Femenino,96
+0108,2016,15a a 19 años,Masculino,79
+0108,2016,1a a 4 años,Femenino,26
+0108,2016,1a a 4 años,Masculino,33
+0108,2016,1m a < 2m,Femenino,1
+0108,2016,20a a 24 años,Femenino,86
+0108,2016,20a a 24 años,Masculino,48
+0108,2016,25a a 39 años,Femenino,220
+0108,2016,25a a 39 años,Masculino,99
+0108,2016,2m a < 1 año,Femenino,4
+0108,2016,2m a < 1 año,Masculino,7
+0108,2016,40a a 49 años,Femenino,97
+0108,2016,40a a 49 años,Masculino,41
+0108,2016,50a a 59 años,Femenino,44
+0108,2016,50a a 59 años,Masculino,22
+0108,2016,5a a 9 años,Femenino,56
+0108,2016,5a a 9 años,Masculino,47
+0108,2016,60a a 64 años,Femenino,17
+0108,2016,60a a 64 años,Masculino,5
+0108,2016,65a a 69 años,Femenino,11
+0108,2016,65a a 69 años,Masculino,6
+0108,2016,70a+,Femenino,9
+0108,2016,70a+,Masculino,4
+0108,2017,10a a 14 años,Femenino,2
+0108,2017,10a a 14 años,Masculino,4
+0108,2017,15a a 19 años,Femenino,6
+0108,2017,15a a 19 años,Masculino,3
+0108,2017,1a a 4 años,Femenino,2
+0108,2017,20a a 24 años,Femenino,5
+0108,2017,20a a 24 años,Masculino,1
+0108,2017,25a a 39 años,Femenino,11
+0108,2017,25a a 39 años,Masculino,6
+0108,2017,40a a 49 años,Femenino,4
+0108,2017,40a a 49 años,Masculino,5
+0108,2017,50a a 59 años,Femenino,5
+0108,2017,50a a 59 años,Masculino,1
+0108,2017,5a a 9 años,Femenino,7
+0108,2017,5a a 9 años,Masculino,7
+0108,2017,60a a 64 años,Masculino,1
+0108,2017,70a+,Masculino,1
+0108,2018,10a a 14 años,Femenino,1
+0108,2018,10a a 14 años,Masculino,3
+0108,2018,15a a 19 años,Femenino,5
+0108,2018,15a a 19 años,Masculino,3
+0108,2018,1a a 4 años,Masculino,5
+0108,2018,20a a 24 años,Femenino,2
+0108,2018,20a a 24 años,Masculino,4
+0108,2018,25a a 39 años,Femenino,16
+0108,2018,25a a 39 años,Masculino,11
+0108,2018,2m a < 1 año,Masculino,2
+0108,2018,40a a 49 años,Femenino,4
+0108,2018,40a a 49 años,Masculino,2
+0108,2018,50a a 59 años,Femenino,4
+0108,2018,50a a 59 años,Masculino,1
+0108,2018,5a a 9 años,Femenino,2
+0108,2018,5a a 9 años,Masculino,1
+0108,2018,60a a 64 años,Femenino,2
+0108,2018,60a a 64 años,Masculino,1
+0108,2018,65a a 69 años,Femenino,1
+0108,2018,65a a 69 años,Masculino,1
+0108,2018,70a+,Masculino,1
+0108,2019,10a a 14 años,Femenino,52
+0108,2019,10a a 14 años,Masculino,74
+0108,2019,15a a 19 años,Femenino,31
+0108,2019,15a a 19 años,Masculino,42
+0108,2019,1a a 4 años,Femenino,21
+0108,2019,1a a 4 años,Masculino,14
+0108,2019,20a a 24 años,Femenino,29
+0108,2019,20a a 24 años,Masculino,27
+0108,2019,25a a 39 años,Femenino,101
+0108,2019,25a a 39 años,Masculino,58
+0108,2019,2m a < 1 año,Femenino,4
+0108,2019,2m a < 1 año,Masculino,3
+0108,2019,40a a 49 años,Femenino,58
+0108,2019,40a a 49 años,Masculino,18
+0108,2019,50a a 59 años,Femenino,25
+0108,2019,50a a 59 años,Masculino,19
+0108,2019,5a a 9 años,Femenino,29
+0108,2019,5a a 9 años,Masculino,40
+0108,2019,60a a 64 años,Femenino,3
+0108,2019,60a a 64 años,Masculino,5
+0108,2019,65a a 69 años,Femenino,1
+0108,2019,65a a 69 años,Masculino,1
+0108,2019,70a+,Masculino,3
+0108,2019,< 1 mes,Femenino,1
+0108,2019,< 1 mes,Masculino,1
+0108,2020,10a a 14 años,Femenino,5
+0108,2020,10a a 14 años,Masculino,4
+0108,2020,15a a 19 años,Femenino,5
+0108,2020,15a a 19 años,Masculino,9
+0108,2020,1a a 4 años,Femenino,1
+0108,2020,1a a 4 años,Masculino,3
+0108,2020,20a a 24 años,Masculino,10
+0108,2020,25a a 39 años,Femenino,18
+0108,2020,25a a 39 años,Masculino,11
+0108,2020,2m a < 1 año,Femenino,1
+0108,2020,2m a < 1 año,Masculino,1
+0108,2020,40a a 49 años,Femenino,7
+0108,2020,40a a 49 años,Masculino,12
+0108,2020,50a a 59 años,Femenino,8
+0108,2020,50a a 59 años,Masculino,1
+0108,2020,5a a 9 años,Masculino,2
+0108,2020,60a a 64 años,Femenino,1
+0108,2020,60a a 64 años,Masculino,3
+0108,2020,70a+,Masculino,2
+0108,2021,10a a 14 años,Masculino,2
+0108,2021,1a a 4 años,Masculino,2
+0108,2021,20a a 24 años,Femenino,3
+0108,2021,20a a 24 años,Masculino,2
+0108,2021,25a a 39 años,Femenino,11
+0108,2021,25a a 39 años,Masculino,3
+0108,2021,40a a 49 años,Femenino,5
+0108,2021,40a a 49 años,Masculino,3
+0108,2021,50a a 59 años,Femenino,2
+0108,2021,50a a 59 años,Masculino,4
+0108,2021,5a a 9 años,Femenino,2
+0108,2021,5a a 9 años,Masculino,1
+0108,2021,60a a 64 años,Femenino,1
+0108,2021,60a a 64 años,Masculino,1
+0108,2021,65a a 69 años,Femenino,1
+0108,2022,10a a 14 años,Femenino,8
+0108,2022,10a a 14 años,Masculino,5
+0108,2022,15a a 19 años,Femenino,2
+0108,2022,15a a 19 años,Masculino,1
+0108,2022,1a a 4 años,Femenino,2
+0108,2022,1a a 4 años,Masculino,3
+0108,2022,20a a 24 años,Femenino,2
+0108,2022,20a a 24 años,Masculino,4
+0108,2022,25a a 39 años,Femenino,12
+0108,2022,25a a 39 años,Masculino,6
+0108,2022,40a a 49 años,Femenino,7
+0108,2022,40a a 49 años,Masculino,7
+0108,2022,50a a 59 años,Femenino,5
+0108,2022,50a a 59 años,Masculino,5
+0108,2022,5a a 9 años,Femenino,4
+0108,2022,5a a 9 años,Masculino,5
+0108,2022,60a a 64 años,Femenino,1
+0108,2022,60a a 64 años,Masculino,1
+0108,2022,65a a 69 años,Femenino,2
+0108,2022,70a+,Masculino,2
+0108,2023,10a a 14 años,Femenino,291
+0108,2023,10a a 14 años,Masculino,310
+0108,2023,15a a 19 años,Femenino,247
+0108,2023,15a a 19 años,Masculino,198
+0108,2023,1a a 4 años,Femenino,54
+0108,2023,1a a 4 años,Masculino,67
+0108,2023,20a a 24 años,Femenino,596
+0108,2023,20a a 24 años,Masculino,390
+0108,2023,25a a 39 años,Femenino,290
+0108,2023,25a a 39 años,Masculino,163
+0108,2023,2m a < 1 año,Femenino,2
+0108,2023,2m a < 1 año,Masculino,14
+0108,2023,40a a 49 años,Femenino,167
+0108,2023,40a a 49 años,Masculino,103
+0108,2023,50a a 59 años,Femenino,175
+0108,2023,50a a 59 años,Masculino,207
+0108,2023,5a a 9 años,Femenino,303
+0108,2023,5a a 9 años,Masculino,400
+0108,2023,60a a 64 años,Femenino,47
+0108,2023,60a a 64 años,Masculino,27
+0108,2023,65a a 69 años,Femenino,42
+0108,2023,65a a 69 años,Masculino,21
+0108,2023,70a+,Femenino,48
+0108,2023,70a+,Masculino,36
+0108,2023,< 1 mes,Femenino,1
+0108,2023,< 1 mes,Masculino,1
+0108,2024,10a a 14 años,Femenino,505
+0108,2024,10a a 14 años,Masculino,571
+0108,2024,15a a 19 años,Femenino,427
+0108,2024,15a a 19 años,Masculino,430
+0108,2024,1a a 4 años,Femenino,124
+0108,2024,1a a 4 años,Masculino,170
+0108,2024,1m a < 2m,Masculino,2
+0108,2024,20a a 24 años,Femenino,325
+0108,2024,20a a 24 años,Masculino,249
+0108,2024,25a a 39 años,Femenino,830
+0108,2024,25a a 39 años,Masculino,521
+0108,2024,2m a < 1 año,Femenino,16
+0108,2024,2m a < 1 año,Masculino,28
+0108,2024,40a a 49 años,Femenino,374
+0108,2024,40a a 49 años,Masculino,209
+0108,2024,50a a 59 años,Femenino,235
+0108,2024,50a a 59 años,Masculino,122
+0108,2024,5a a 9 años,Femenino,430
+0108,2024,5a a 9 años,Masculino,451
+0108,2024,60a a 64 años,Femenino,68
+0108,2024,60a a 64 años,Masculino,35
+0108,2024,65a a 69 años,Femenino,28
+0108,2024,65a a 69 años,Masculino,28
+0108,2024,70a+,Femenino,61
+0108,2024,70a+,Masculino,41
+0108,2025,10a a 14 años,Femenino,48
+0108,2025,10a a 14 años,Masculino,59
+0108,2025,15a a 19 años,Femenino,33
+0108,2025,15a a 19 años,Masculino,38
+0108,2025,1a a 4 años,Femenino,18
+0108,2025,1a a 4 años,Masculino,16
+0108,2025,20a a 24 años,Femenino,38
+0108,2025,20a a 24 años,Masculino,29
+0108,2025,25a a 39 años,Femenino,64
+0108,2025,25a a 39 años,Masculino,53
+0108,2025,2m a < 1 año,Masculino,1
+0108,2025,40a a 49 años,Femenino,45
+0108,2025,40a a 49 años,Masculino,25
+0108,2025,50a a 59 años,Femenino,22
+0108,2025,50a a 59 años,Masculino,12
+0108,2025,5a a 9 años,Femenino,48
+0108,2025,5a a 9 años,Masculino,45
+0108,2025,60a a 64 años,Femenino,6
+0108,2025,60a a 64 años,Masculino,5
+0108,2025,65a a 69 años,Femenino,10
+0108,2025,65a a 69 años,Masculino,5
+0108,2025,70a+,Femenino,6
+0108,2025,70a+,Masculino,12
+0109,2014,15a a 19 años,Masculino,1
+0109,2014,25a a 39 años,Femenino,1
+0109,2014,40a a 49 años,Femenino,1
+0109,2014,5a a 9 años,Femenino,1
+0109,2015,10a a 14 años,Femenino,1
+0109,2015,10a a 14 años,Masculino,1
+0109,2015,15a a 19 años,Masculino,1
+0109,2015,1a a 4 años,Femenino,1
+0109,2015,1a a 4 años,Masculino,1
+0109,2015,20a a 24 años,Femenino,1
+0109,2015,25a a 39 años,Femenino,4
+0109,2015,25a a 39 años,Masculino,1
+0109,2015,50a a 59 años,Femenino,2
+0109,2015,5a a 9 años,Femenino,3
+0109,2015,5a a 9 años,Masculino,3
+0109,2015,70a+,Femenino,1
+0109,2016,10a a 14 años,Masculino,3
+0109,2016,25a a 39 años,Femenino,1
+0109,2016,25a a 39 años,Masculino,1
+0109,2016,40a a 49 años,Femenino,1
+0109,2016,50a a 59 años,Femenino,1
+0109,2016,5a a 9 años,Femenino,1
+0109,2018,25a a 39 años,Femenino,1
+0109,2019,10a a 14 años,Femenino,1
+0109,2019,10a a 14 años,Masculino,2
+0109,2019,15a a 19 años,Femenino,2
+0109,2019,15a a 19 años,Masculino,1
+0109,2019,1m a < 2m,Femenino,1
+0109,2019,20a a 24 años,Masculino,2
+0109,2019,25a a 39 años,Femenino,6
+0109,2019,25a a 39 años,Masculino,2
+0109,2019,40a a 49 años,Femenino,1
+0109,2019,50a a 59 años,Masculino,1
+0109,2020,25a a 39 años,Masculino,1
+0109,2020,40a a 49 años,Masculino,1
+0109,2023,10a a 14 años,Femenino,2
+0109,2023,10a a 14 años,Masculino,2
+0109,2023,15a a 19 años,Femenino,2
+0109,2023,15a a 19 años,Masculino,1
+0109,2023,1a a 4 años,Masculino,1
+0109,2023,20a a 24 años,Femenino,5
+0109,2023,20a a 24 años,Masculino,3
+0109,2023,25a a 39 años,Femenino,4
+0109,2023,25a a 39 años,Masculino,4
+0109,2023,40a a 49 años,Femenino,1
+0109,2023,50a a 59 años,Femenino,1
+0109,2023,50a a 59 años,Masculino,2
+0109,2023,5a a 9 años,Femenino,1
+0109,2023,5a a 9 años,Masculino,3
+0109,2024,10a a 14 años,Femenino,21
+0109,2024,10a a 14 años,Masculino,22
+0109,2024,15a a 19 años,Femenino,21
+0109,2024,15a a 19 años,Masculino,3
+0109,2024,1a a 4 años,Femenino,9
+0109,2024,1a a 4 años,Masculino,11
+0109,2024,20a a 24 años,Femenino,10
+0109,2024,20a a 24 años,Masculino,11
+0109,2024,25a a 39 años,Femenino,27
+0109,2024,25a a 39 años,Masculino,12
+0109,2024,2m a < 1 año,Femenino,1
+0109,2024,2m a < 1 año,Masculino,3
+0109,2024,40a a 49 años,Femenino,11
+0109,2024,40a a 49 años,Masculino,6
+0109,2024,50a a 59 años,Femenino,1
+0109,2024,50a a 59 años,Masculino,2
+0109,2024,5a a 9 años,Femenino,24
+0109,2024,5a a 9 años,Masculino,17
+0109,2024,60a a 64 años,Femenino,2
+0109,2024,65a a 69 años,Masculino,1
+0109,2024,70a+,Femenino,2
+0109,2024,70a+,Masculino,1
+0109,2025,10a a 14 años,Masculino,1
+0109,2025,15a a 19 años,Masculino,2
+0109,2025,1a a 4 años,Masculino,1
+0109,2025,20a a 24 años,Femenino,2
+0109,2025,40a a 49 años,Femenino,2
+0109,2025,40a a 49 años,Masculino,1
+0109,2025,50a a 59 años,Femenino,2
+0109,2025,5a a 9 años,Femenino,1
+0109,2025,5a a 9 años,Masculino,1
+0110,2012,10a a 14 años,Masculino,1
+0110,2012,25a a 39 años,Femenino,3
+0110,2012,5a a 9 años,Femenino,2
+0110,2012,5a a 9 años,Masculino,1
+0110,2013,10a a 14 años,Femenino,1
+0110,2013,15a a 19 años,Femenino,1
+0110,2013,25a a 39 años,Femenino,4
+0110,2013,50a a 59 años,Masculino,1
+0110,2013,5a a 9 años,Femenino,1
+0110,2013,5a a 9 años,Masculino,1
+0110,2014,10a a 14 años,Femenino,2
+0110,2014,10a a 14 años,Masculino,3
+0110,2014,15a a 19 años,Femenino,5
+0110,2014,15a a 19 años,Masculino,2
+0110,2014,1a a 4 años,Femenino,2
+0110,2014,20a a 24 años,Femenino,4
+0110,2014,25a a 39 años,Femenino,3
+0110,2014,25a a 39 años,Masculino,2
+0110,2014,40a a 49 años,Femenino,2
+0110,2014,50a a 59 años,Femenino,1
+0110,2014,5a a 9 años,Femenino,3
+0110,2014,60a a 64 años,Masculino,1
+0110,2015,10a a 14 años,Femenino,32
+0110,2015,10a a 14 años,Masculino,39
+0110,2015,15a a 19 años,Femenino,18
+0110,2015,15a a 19 años,Masculino,21
+0110,2015,1a a 4 años,Femenino,10
+0110,2015,1a a 4 años,Masculino,9
+0110,2015,20a a 24 años,Femenino,41
+0110,2015,20a a 24 años,Masculino,14
+0110,2015,25a a 39 años,Femenino,81
+0110,2015,25a a 39 años,Masculino,32
+0110,2015,2m a < 1 año,Femenino,2
+0110,2015,2m a < 1 año,Masculino,4
+0110,2015,40a a 49 años,Femenino,15
+0110,2015,40a a 49 años,Masculino,5
+0110,2015,50a a 59 años,Femenino,15
+0110,2015,50a a 59 años,Masculino,5
+0110,2015,5a a 9 años,Femenino,42
+0110,2015,5a a 9 años,Masculino,30
+0110,2015,60a a 64 años,Femenino,4
+0110,2015,60a a 64 años,Masculino,1
+0110,2015,65a a 69 años,Femenino,1
+0110,2015,65a a 69 años,Masculino,1
+0110,2015,70a+,Femenino,3
+0110,2015,70a+,Masculino,4
+0110,2016,10a a 14 años,Femenino,11
+0110,2016,10a a 14 años,Masculino,4
+0110,2016,15a a 19 años,Femenino,2
+0110,2016,15a a 19 años,Masculino,1
+0110,2016,1a a 4 años,Femenino,5
+0110,2016,1a a 4 años,Masculino,5
+0110,2016,20a a 24 años,Femenino,4
+0110,2016,20a a 24 años,Masculino,2
+0110,2016,25a a 39 años,Femenino,14
+0110,2016,25a a 39 años,Masculino,6
+0110,2016,2m a < 1 año,Femenino,1
+0110,2016,2m a < 1 año,Masculino,1
+0110,2016,40a a 49 años,Femenino,3
+0110,2016,50a a 59 años,Femenino,4
+0110,2016,50a a 59 años,Masculino,1
+0110,2016,5a a 9 años,Femenino,5
+0110,2016,5a a 9 años,Masculino,3
+0110,2016,65a a 69 años,Femenino,1
+0110,2017,15a a 19 años,Femenino,1
+0110,2017,1a a 4 años,Femenino,1
+0110,2017,20a a 24 años,Femenino,1
+0110,2017,25a a 39 años,Femenino,3
+0110,2017,25a a 39 años,Masculino,2
+0110,2017,2m a < 1 año,Femenino,1
+0110,2017,5a a 9 años,Femenino,1
+0110,2018,10a a 14 años,Femenino,1
+0110,2018,10a a 14 años,Masculino,1
+0110,2018,15a a 19 años,Masculino,2
+0110,2018,1a a 4 años,Femenino,2
+0110,2018,1a a 4 años,Masculino,1
+0110,2018,20a a 24 años,Femenino,3
+0110,2018,20a a 24 años,Masculino,1
+0110,2018,25a a 39 años,Femenino,3
+0110,2018,25a a 39 años,Masculino,1
+0110,2018,2m a < 1 año,Femenino,1
+0110,2018,40a a 49 años,Femenino,4
+0110,2018,50a a 59 años,Femenino,1
+0110,2018,5a a 9 años,Femenino,1
+0110,2019,10a a 14 años,Femenino,12
+0110,2019,10a a 14 años,Masculino,11
+0110,2019,15a a 19 años,Femenino,12
+0110,2019,15a a 19 años,Masculino,5
+0110,2019,1a a 4 años,Femenino,3
+0110,2019,1a a 4 años,Masculino,3
+0110,2019,20a a 24 años,Femenino,8
+0110,2019,20a a 24 años,Masculino,2
+0110,2019,25a a 39 años,Femenino,16
+0110,2019,25a a 39 años,Masculino,4
+0110,2019,2m a < 1 año,Masculino,1
+0110,2019,40a a 49 años,Femenino,6
+0110,2019,40a a 49 años,Masculino,2
+0110,2019,50a a 59 años,Femenino,2
+0110,2019,50a a 59 años,Masculino,1
+0110,2019,5a a 9 años,Femenino,14
+0110,2019,5a a 9 años,Masculino,13
+0110,2020,10a a 14 años,Femenino,2
+0110,2020,10a a 14 años,Masculino,1
+0110,2020,15a a 19 años,Femenino,1
+0110,2020,15a a 19 años,Masculino,1
+0110,2020,20a a 24 años,Masculino,1
+0110,2020,25a a 39 años,Femenino,2
+0110,2020,25a a 39 años,Masculino,1
+0110,2020,40a a 49 años,Femenino,1
+0110,2020,50a a 59 años,Femenino,1
+0110,2020,5a a 9 años,Femenino,2
+0110,2022,15a a 19 años,Masculino,1
+0110,2022,1a a 4 años,Femenino,1
+0110,2022,20a a 24 años,Masculino,1
+0110,2022,25a a 39 años,Femenino,1
+0110,2022,25a a 39 años,Masculino,1
+0110,2022,40a a 49 años,Femenino,3
+0110,2022,40a a 49 años,Masculino,2
+0110,2022,50a a 59 años,Femenino,1
+0110,2022,5a a 9 años,Masculino,2
+0110,2023,10a a 14 años,Femenino,88
+0110,2023,10a a 14 años,Masculino,78
+0110,2023,15a a 19 años,Femenino,81
+0110,2023,15a a 19 años,Masculino,44
+0110,2023,1a a 4 años,Femenino,55
+0110,2023,1a a 4 años,Masculino,73
+0110,2023,20a a 24 años,Femenino,192
+0110,2023,20a a 24 años,Masculino,96
+0110,2023,25a a 39 años,Femenino,73
+0110,2023,25a a 39 años,Masculino,42
+0110,2023,2m a < 1 año,Femenino,9
+0110,2023,2m a < 1 año,Masculino,14
+0110,2023,40a a 49 años,Femenino,47
+0110,2023,40a a 49 años,Masculino,17
+0110,2023,50a a 59 años,Femenino,139
+0110,2023,50a a 59 años,Masculino,131
+0110,2023,5a a 9 años,Femenino,120
+0110,2023,5a a 9 años,Masculino,129
+0110,2023,60a a 64 años,Femenino,21
+0110,2023,60a a 64 años,Masculino,3
+0110,2023,65a a 69 años,Femenino,11
+0110,2023,65a a 69 años,Masculino,5
+0110,2023,70a+,Femenino,9
+0110,2023,70a+,Masculino,11
+0110,2023,< 1 mes,Masculino,1
+0110,2024,10a a 14 años,Femenino,185
+0110,2024,10a a 14 años,Masculino,143
+0110,2024,15a a 19 años,Femenino,135
+0110,2024,15a a 19 años,Masculino,86
+0110,2024,1a a 4 años,Femenino,68
+0110,2024,1a a 4 años,Masculino,85
+0110,2024,20a a 24 años,Femenino,82
+0110,2024,20a a 24 años,Masculino,45
+0110,2024,25a a 39 años,Femenino,217
+0110,2024,25a a 39 años,Masculino,105
+0110,2024,2m a < 1 año,Femenino,13
+0110,2024,2m a < 1 año,Masculino,14
+0110,2024,40a a 49 años,Femenino,74
+0110,2024,40a a 49 años,Masculino,43
+0110,2024,50a a 59 años,Femenino,55
+0110,2024,50a a 59 años,Masculino,22
+0110,2024,5a a 9 años,Femenino,168
+0110,2024,5a a 9 años,Masculino,195
+0110,2024,60a a 64 años,Femenino,16
+0110,2024,60a a 64 años,Masculino,5
+0110,2024,65a a 69 años,Femenino,11
+0110,2024,65a a 69 años,Masculino,5
+0110,2024,70a+,Femenino,9
+0110,2024,70a+,Masculino,2
+0110,2024,< 1 mes,Masculino,2
+0110,2025,10a a 14 años,Femenino,18
+0110,2025,10a a 14 años,Masculino,21
+0110,2025,15a a 19 años,Femenino,4
+0110,2025,15a a 19 años,Masculino,8
+0110,2025,1a a 4 años,Femenino,11
+0110,2025,1a a 4 años,Masculino,20
+0110,2025,20a a 24 años,Femenino,12
+0110,2025,20a a 24 años,Masculino,4
+0110,2025,25a a 39 años,Femenino,17
+0110,2025,25a a 39 años,Masculino,12
+0110,2025,2m a < 1 año,Femenino,3
+0110,2025,2m a < 1 año,Masculino,2
+0110,2025,40a a 49 años,Femenino,13
+0110,2025,40a a 49 años,Masculino,6
+0110,2025,50a a 59 años,Femenino,12
+0110,2025,50a a 59 años,Masculino,3
+0110,2025,5a a 9 años,Femenino,25
+0110,2025,5a a 9 años,Masculino,23
+0110,2025,60a a 64 años,Femenino,2
+0110,2025,65a a 69 años,Femenino,4
+0110,2025,70a+,Masculino,2
+0111,2014,10a a 14 años,Masculino,1
+0111,2014,15a a 19 años,Femenino,1
+0111,2014,20a a 24 años,Femenino,2
+0111,2014,40a a 49 años,Femenino,1
+0111,2015,10a a 14 años,Femenino,3
+0111,2015,15a a 19 años,Femenino,4
+0111,2015,20a a 24 años,Femenino,1
+0111,2015,20a a 24 años,Masculino,2
+0111,2015,25a a 39 años,Femenino,5
+0111,2015,25a a 39 años,Masculino,2
+0111,2015,2m a < 1 año,Masculino,1
+0111,2015,40a a 49 años,Femenino,4
+0111,2015,50a a 59 años,Masculino,2
+0111,2015,5a a 9 años,Masculino,2
+0111,2015,60a a 64 años,Masculino,2
+0111,2016,10a a 14 años,Femenino,2
+0111,2016,10a a 14 años,Masculino,1
+0111,2016,15a a 19 años,Femenino,6
+0111,2016,15a a 19 años,Masculino,2
+0111,2016,1a a 4 años,Femenino,1
+0111,2016,1a a 4 años,Masculino,3
+0111,2016,20a a 24 años,Femenino,2
+0111,2016,25a a 39 años,Femenino,7
+0111,2016,2m a < 1 año,Masculino,1
+0111,2016,40a a 49 años,Femenino,2
+0111,2016,40a a 49 años,Masculino,1
+0111,2016,50a a 59 años,Femenino,1
+0111,2016,5a a 9 años,Femenino,2
+0111,2016,65a a 69 años,Femenino,1
+0111,2017,15a a 19 años,Femenino,1
+0111,2017,20a a 24 años,Femenino,1
+0111,2017,25a a 39 años,Femenino,1
+0111,2017,25a a 39 años,Masculino,3
+0111,2017,50a a 59 años,Femenino,1
+0111,2018,50a a 59 años,Femenino,1
+0111,2019,15a a 19 años,Masculino,1
+0111,2019,1a a 4 años,Masculino,1
+0111,2019,20a a 24 años,Masculino,1
+0111,2019,25a a 39 años,Femenino,3
+0111,2019,25a a 39 años,Masculino,1
+0111,2019,50a a 59 años,Femenino,1
+0111,2019,50a a 59 años,Masculino,2
+0111,2019,5a a 9 años,Masculino,2
+0111,2019,60a a 64 años,Masculino,1
+0111,2020,15a a 19 años,Masculino,1
+0111,2020,1a a 4 años,Masculino,1
+0111,2020,20a a 24 años,Femenino,2
+0111,2020,20a a 24 años,Masculino,1
+0111,2020,25a a 39 años,Femenino,2
+0111,2020,5a a 9 años,Femenino,2
+0111,2020,60a a 64 años,Masculino,1
+0111,2020,65a a 69 años,Femenino,1
+0111,2021,25a a 39 años,Masculino,2
+0111,2021,40a a 49 años,Femenino,1
+0111,2021,40a a 49 años,Masculino,1
+0111,2021,5a a 9 años,Femenino,1
+0111,2023,10a a 14 años,Femenino,1
+0111,2023,10a a 14 años,Masculino,3
+0111,2023,15a a 19 años,Femenino,4
+0111,2023,1a a 4 años,Masculino,1
+0111,2023,20a a 24 años,Femenino,11
+0111,2023,20a a 24 años,Masculino,3
+0111,2023,25a a 39 años,Femenino,6
+0111,2023,25a a 39 años,Masculino,4
+0111,2023,40a a 49 años,Masculino,3
+0111,2023,50a a 59 años,Femenino,7
+0111,2023,50a a 59 años,Masculino,2
+0111,2023,5a a 9 años,Femenino,7
+0111,2023,5a a 9 años,Masculino,3
+0111,2023,60a a 64 años,Femenino,1
+0111,2023,60a a 64 años,Masculino,1
+0111,2023,65a a 69 años,Femenino,1
+0111,2024,10a a 14 años,Femenino,13
+0111,2024,10a a 14 años,Masculino,21
+0111,2024,15a a 19 años,Femenino,12
+0111,2024,15a a 19 años,Masculino,3
+0111,2024,1a a 4 años,Femenino,6
+0111,2024,1a a 4 años,Masculino,9
+0111,2024,20a a 24 años,Femenino,7
+0111,2024,20a a 24 años,Masculino,5
+0111,2024,25a a 39 años,Femenino,22
+0111,2024,25a a 39 años,Masculino,20
+0111,2024,40a a 49 años,Femenino,13
+0111,2024,40a a 49 años,Masculino,5
+0111,2024,50a a 59 años,Femenino,9
+0111,2024,5a a 9 años,Femenino,12
+0111,2024,5a a 9 años,Masculino,16
+0111,2024,60a a 64 años,Femenino,2
+0111,2024,65a a 69 años,Femenino,1
+0111,2024,65a a 69 años,Masculino,1
+0111,2024,70a+,Femenino,3
+0111,2024,70a+,Masculino,2
+0111,2025,10a a 14 años,Femenino,1
+0111,2025,15a a 19 años,Femenino,1
+0111,2025,15a a 19 años,Masculino,1
+0111,2025,20a a 24 años,Femenino,1
+0111,2025,25a a 39 años,Masculino,1
+0111,2025,40a a 49 años,Masculino,1
+0111,2025,50a a 59 años,Femenino,1
+0111,2025,50a a 59 años,Masculino,1
+0112,2012,15a a 19 años,Masculino,1
+0112,2012,25a a 39 años,Femenino,1
+0112,2012,25a a 39 años,Masculino,1
+0112,2012,60a a 64 años,Femenino,1
+0112,2013,10a a 14 años,Masculino,1
+0112,2013,15a a 19 años,Femenino,3
+0112,2013,15a a 19 años,Masculino,1
+0112,2013,25a a 39 años,Femenino,1
+0112,2013,25a a 39 años,Masculino,3
+0112,2013,60a a 64 años,Femenino,1
+0112,2014,10a a 14 años,Masculino,1
+0112,2014,20a a 24 años,Masculino,1
+0112,2014,25a a 39 años,Masculino,1
+0112,2014,5a a 9 años,Femenino,1
+0112,2014,5a a 9 años,Masculino,2
+0112,2014,65a a 69 años,Masculino,1
+0112,2015,10a a 14 años,Femenino,1
+0112,2015,10a a 14 años,Masculino,6
+0112,2015,15a a 19 años,Masculino,1
+0112,2015,1a a 4 años,Femenino,3
+0112,2015,1a a 4 años,Masculino,3
+0112,2015,20a a 24 años,Femenino,3
+0112,2015,20a a 24 años,Masculino,2
+0112,2015,25a a 39 años,Femenino,9
+0112,2015,2m a < 1 año,Masculino,2
+0112,2015,40a a 49 años,Femenino,1
+0112,2015,5a a 9 años,Femenino,2
+0112,2015,5a a 9 años,Masculino,5
+0112,2015,70a+,Femenino,1
+0112,2015,70a+,Masculino,1
+0112,2016,10a a 14 años,Femenino,4
+0112,2016,10a a 14 años,Masculino,4
+0112,2016,15a a 19 años,Femenino,6
+0112,2016,15a a 19 años,Masculino,3
+0112,2016,1a a 4 años,Femenino,5
+0112,2016,1a a 4 años,Masculino,6
+0112,2016,20a a 24 años,Femenino,2
+0112,2016,20a a 24 años,Masculino,1
+0112,2016,25a a 39 años,Femenino,16
+0112,2016,25a a 39 años,Masculino,4
+0112,2016,2m a < 1 año,Masculino,3
+0112,2016,40a a 49 años,Femenino,7
+0112,2016,40a a 49 años,Masculino,1
+0112,2016,50a a 59 años,Femenino,5
+0112,2016,50a a 59 años,Masculino,5
+0112,2016,5a a 9 años,Femenino,5
+0112,2016,5a a 9 años,Masculino,12
+0112,2016,60a a 64 años,Femenino,1
+0112,2016,65a a 69 años,Femenino,1
+0112,2016,70a+,Masculino,1
+0112,2018,25a a 39 años,Femenino,2
+0112,2018,25a a 39 años,Masculino,1
+0112,2018,50a a 59 años,Femenino,1
+0112,2018,5a a 9 años,Femenino,1
+0112,2018,5a a 9 años,Masculino,1
+0112,2019,10a a 14 años,Femenino,1
+0112,2019,15a a 19 años,Femenino,3
+0112,2019,1a a 4 años,Femenino,1
+0112,2019,1a a 4 años,Masculino,1
+0112,2019,20a a 24 años,Femenino,1
+0112,2019,20a a 24 años,Masculino,2
+0112,2019,25a a 39 años,Femenino,3
+0112,2019,25a a 39 años,Masculino,8
+0112,2019,2m a < 1 año,Femenino,1
+0112,2019,50a a 59 años,Femenino,3
+0112,2019,5a a 9 años,Femenino,2
+0112,2019,5a a 9 años,Masculino,4
+0112,2019,65a a 69 años,Femenino,1
+0112,2019,65a a 69 años,Masculino,1
+0112,2020,10a a 14 años,Masculino,2
+0112,2020,15a a 19 años,Masculino,1
+0112,2020,25a a 39 años,Femenino,6
+0112,2020,25a a 39 años,Masculino,1
+0112,2020,40a a 49 años,Femenino,1
+0112,2020,40a a 49 años,Masculino,1
+0112,2020,5a a 9 años,Masculino,1
+0112,2021,10a a 14 años,Femenino,2
+0112,2021,10a a 14 años,Masculino,1
+0112,2021,15a a 19 años,Femenino,2
+0112,2021,1a a 4 años,Masculino,1
+0112,2021,20a a 24 años,Femenino,2
+0112,2021,25a a 39 años,Femenino,1
+0112,2021,25a a 39 años,Masculino,1
+0112,2021,5a a 9 años,Femenino,1
+0112,2021,60a a 64 años,Masculino,1
+0112,2022,10a a 14 años,Femenino,3
+0112,2022,10a a 14 años,Masculino,2
+0112,2022,15a a 19 años,Femenino,2
+0112,2022,20a a 24 años,Femenino,2
+0112,2022,25a a 39 años,Femenino,4
+0112,2022,25a a 39 años,Masculino,3
+0112,2022,40a a 49 años,Femenino,1
+0112,2022,50a a 59 años,Femenino,1
+0112,2022,50a a 59 años,Masculino,1
+0112,2022,5a a 9 años,Femenino,1
+0112,2022,5a a 9 años,Masculino,1
+0112,2022,70a+,Femenino,1
+0112,2023,10a a 14 años,Femenino,5
+0112,2023,10a a 14 años,Masculino,1
+0112,2023,15a a 19 años,Femenino,6
+0112,2023,15a a 19 años,Masculino,3
+0112,2023,1a a 4 años,Femenino,2
+0112,2023,20a a 24 años,Femenino,7
+0112,2023,20a a 24 años,Masculino,3
+0112,2023,25a a 39 años,Femenino,1
+0112,2023,25a a 39 años,Masculino,1
+0112,2023,50a a 59 años,Femenino,3
+0112,2023,50a a 59 años,Masculino,4
+0112,2023,5a a 9 años,Femenino,8
+0112,2023,5a a 9 años,Masculino,6
+0112,2023,65a a 69 años,Femenino,1
+0112,2023,70a+,Masculino,1
+0112,2024,10a a 14 años,Femenino,38
+0112,2024,10a a 14 años,Masculino,33
+0112,2024,15a a 19 años,Femenino,17
+0112,2024,15a a 19 años,Masculino,12
+0112,2024,1a a 4 años,Femenino,13
+0112,2024,1a a 4 años,Masculino,11
+0112,2024,20a a 24 años,Femenino,18
+0112,2024,20a a 24 años,Masculino,3
+0112,2024,25a a 39 años,Femenino,30
+0112,2024,25a a 39 años,Masculino,18
+0112,2024,2m a < 1 año,Femenino,1
+0112,2024,2m a < 1 año,Masculino,2
+0112,2024,40a a 49 años,Femenino,12
+0112,2024,40a a 49 años,Masculino,2
+0112,2024,50a a 59 años,Femenino,6
+0112,2024,50a a 59 años,Masculino,5
+0112,2024,5a a 9 años,Femenino,35
+0112,2024,5a a 9 años,Masculino,43
+0112,2024,60a a 64 años,Femenino,1
+0112,2024,60a a 64 años,Masculino,1
+0112,2024,70a+,Femenino,3
+0112,2024,70a+,Masculino,2
+0112,2025,10a a 14 años,Femenino,3
+0112,2025,10a a 14 años,Masculino,3
+0112,2025,15a a 19 años,Masculino,4
+0112,2025,1a a 4 años,Masculino,1
+0112,2025,20a a 24 años,Masculino,1
+0112,2025,25a a 39 años,Femenino,6
+0112,2025,25a a 39 años,Masculino,1
+0112,2025,40a a 49 años,Femenino,2
+0112,2025,40a a 49 años,Masculino,1
+0112,2025,5a a 9 años,Femenino,1
+0112,2025,5a a 9 años,Masculino,2
+0112,2025,70a+,Masculino,1
+0113,2013,10a a 14 años,Masculino,1
+0113,2013,15a a 19 años,Femenino,2
+0113,2013,15a a 19 años,Masculino,1
+0113,2013,20a a 24 años,Femenino,1
+0113,2013,25a a 39 años,Masculino,1
+0113,2015,15a a 19 años,Masculino,1
+0113,2017,25a a 39 años,Femenino,1
+0113,2019,10a a 14 años,Femenino,9
+0113,2019,10a a 14 años,Masculino,4
+0113,2019,15a a 19 años,Femenino,3
+0113,2019,15a a 19 años,Masculino,8
+0113,2019,1a a 4 años,Femenino,1
+0113,2019,1a a 4 años,Masculino,4
+0113,2019,20a a 24 años,Femenino,7
+0113,2019,20a a 24 años,Masculino,10
+0113,2019,25a a 39 años,Femenino,19
+0113,2019,25a a 39 años,Masculino,8
+0113,2019,40a a 49 años,Femenino,5
+0113,2019,40a a 49 años,Masculino,2
+0113,2019,50a a 59 años,Femenino,3
+0113,2019,50a a 59 años,Masculino,3
+0113,2019,5a a 9 años,Femenino,7
+0113,2019,5a a 9 años,Masculino,9
+0113,2019,60a a 64 años,Femenino,2
+0113,2019,70a+,Masculino,1
+0113,2020,10a a 14 años,Masculino,1
+0113,2020,15a a 19 años,Femenino,1
+0113,2020,15a a 19 años,Masculino,1
+0113,2020,20a a 24 años,Femenino,1
+0113,2020,20a a 24 años,Masculino,2
+0113,2020,25a a 39 años,Masculino,2
+0113,2020,40a a 49 años,Femenino,2
+0113,2020,60a a 64 años,Femenino,1
+0113,2020,65a a 69 años,Masculino,1
+0113,2020,70a+,Masculino,1
+0113,2022,20a a 24 años,Femenino,1
+0113,2023,10a a 14 años,Femenino,17
+0113,2023,10a a 14 años,Masculino,22
+0113,2023,15a a 19 años,Femenino,25
+0113,2023,15a a 19 años,Masculino,14
+0113,2023,1a a 4 años,Femenino,3
+0113,2023,1a a 4 años,Masculino,4
+0113,2023,20a a 24 años,Femenino,42
+0113,2023,20a a 24 años,Masculino,32
+0113,2023,25a a 39 años,Femenino,15
+0113,2023,25a a 39 años,Masculino,11
+0113,2023,2m a < 1 año,Femenino,3
+0113,2023,40a a 49 años,Femenino,14
+0113,2023,40a a 49 años,Masculino,10
+0113,2023,50a a 59 años,Femenino,14
+0113,2023,50a a 59 años,Masculino,9
+0113,2023,5a a 9 años,Femenino,25
+0113,2023,5a a 9 años,Masculino,19
+0113,2023,60a a 64 años,Femenino,6
+0113,2023,60a a 64 años,Masculino,1
+0113,2023,65a a 69 años,Femenino,1
+0113,2023,65a a 69 años,Masculino,3
+0113,2023,70a+,Femenino,3
+0113,2024,10a a 14 años,Femenino,31
+0113,2024,10a a 14 años,Masculino,46
+0113,2024,15a a 19 años,Femenino,47
+0113,2024,15a a 19 años,Masculino,30
+0113,2024,1a a 4 años,Femenino,12
+0113,2024,1a a 4 años,Masculino,9
+0113,2024,20a a 24 años,Femenino,43
+0113,2024,20a a 24 años,Masculino,20
+0113,2024,25a a 39 años,Femenino,105
+0113,2024,25a a 39 años,Masculino,55
+0113,2024,2m a < 1 año,Femenino,1
+0113,2024,40a a 49 años,Femenino,35
+0113,2024,40a a 49 años,Masculino,23
+0113,2024,50a a 59 años,Femenino,22
+0113,2024,50a a 59 años,Masculino,14
+0113,2024,5a a 9 años,Femenino,34
+0113,2024,5a a 9 años,Masculino,20
+0113,2024,60a a 64 años,Femenino,4
+0113,2024,60a a 64 años,Masculino,7
+0113,2024,65a a 69 años,Femenino,6
+0113,2024,65a a 69 años,Masculino,4
+0113,2024,70a+,Femenino,5
+0113,2024,70a+,Masculino,1
+0113,2025,10a a 14 años,Femenino,1
+0113,2025,10a a 14 años,Masculino,3
+0113,2025,15a a 19 años,Masculino,4
+0113,2025,1a a 4 años,Masculino,2
+0113,2025,20a a 24 años,Femenino,1
+0113,2025,25a a 39 años,Femenino,7
+0113,2025,25a a 39 años,Masculino,6
+0113,2025,40a a 49 años,Femenino,4
+0113,2025,40a a 49 años,Masculino,1
+0113,2025,5a a 9 años,Femenino,2
+0113,2025,5a a 9 años,Masculino,4
+0113,2025,60a a 64 años,Femenino,1
+0113,2025,65a a 69 años,Femenino,1
+0114,2012,10a a 14 años,Femenino,42
+0114,2012,10a a 14 años,Masculino,41
+0114,2012,15a a 19 años,Femenino,44
+0114,2012,15a a 19 años,Masculino,40
+0114,2012,1a a 4 años,Femenino,18
+0114,2012,1a a 4 años,Masculino,25
+0114,2012,20a a 24 años,Femenino,29
+0114,2012,20a a 24 años,Masculino,22
+0114,2012,25a a 39 años,Femenino,48
+0114,2012,25a a 39 años,Masculino,46
+0114,2012,2m a < 1 año,Femenino,2
+0114,2012,2m a < 1 año,Masculino,1
+0114,2012,40a a 49 años,Femenino,21
+0114,2012,40a a 49 años,Masculino,16
+0114,2012,50a a 59 años,Femenino,10
+0114,2012,50a a 59 años,Masculino,13
+0114,2012,5a a 9 años,Femenino,34
+0114,2012,5a a 9 años,Masculino,37
+0114,2012,60a a 64 años,Femenino,2
+0114,2012,60a a 64 años,Masculino,1
+0114,2012,65a a 69 años,Femenino,1
+0114,2012,70a+,Femenino,1
+0114,2013,10a a 14 años,Femenino,47
+0114,2013,10a a 14 años,Masculino,61
+0114,2013,15a a 19 años,Femenino,43
+0114,2013,15a a 19 años,Masculino,58
+0114,2013,1a a 4 años,Femenino,13
+0114,2013,1a a 4 años,Masculino,24
+0114,2013,1m a < 2m,Femenino,2
+0114,2013,1m a < 2m,Masculino,2
+0114,2013,20a a 24 años,Femenino,27
+0114,2013,20a a 24 años,Masculino,43
+0114,2013,25a a 39 años,Femenino,91
+0114,2013,25a a 39 años,Masculino,75
+0114,2013,2m a < 1 año,Femenino,1
+0114,2013,2m a < 1 año,Masculino,4
+0114,2013,40a a 49 años,Femenino,36
+0114,2013,40a a 49 años,Masculino,25
+0114,2013,50a a 59 años,Femenino,26
+0114,2013,50a a 59 años,Masculino,7
+0114,2013,5a a 9 años,Femenino,63
+0114,2013,5a a 9 años,Masculino,54
+0114,2013,60a a 64 años,Femenino,8
+0114,2013,60a a 64 años,Masculino,6
+0114,2013,65a a 69 años,Femenino,7
+0114,2013,70a+,Femenino,3
+0114,2013,70a+,Masculino,2
+0114,2014,10a a 14 años,Femenino,21
+0114,2014,10a a 14 años,Masculino,29
+0114,2014,15a a 19 años,Femenino,24
+0114,2014,15a a 19 años,Masculino,21
+0114,2014,1a a 4 años,Femenino,6
+0114,2014,1a a 4 años,Masculino,3
+0114,2014,20a a 24 años,Femenino,20
+0114,2014,20a a 24 años,Masculino,8
+0114,2014,25a a 39 años,Femenino,52
+0114,2014,25a a 39 años,Masculino,17
+0114,2014,2m a < 1 año,Femenino,1
+0114,2014,40a a 49 años,Femenino,26
+0114,2014,40a a 49 años,Masculino,11
+0114,2014,50a a 59 años,Femenino,10
+0114,2014,50a a 59 años,Masculino,5
+0114,2014,5a a 9 años,Femenino,13
+0114,2014,5a a 9 años,Masculino,21
+0114,2014,60a a 64 años,Femenino,1
+0114,2014,60a a 64 años,Masculino,1
+0114,2014,65a a 69 años,Femenino,4
+0114,2014,70a+,Femenino,6
+0114,2014,70a+,Masculino,3
+0114,2015,10a a 14 años,Femenino,50
+0114,2015,10a a 14 años,Masculino,57
+0114,2015,15a a 19 años,Femenino,48
+0114,2015,15a a 19 años,Masculino,45
+0114,2015,1a a 4 años,Femenino,17
+0114,2015,1a a 4 años,Masculino,23
+0114,2015,20a a 24 años,Femenino,44
+0114,2015,20a a 24 años,Masculino,20
+0114,2015,25a a 39 años,Femenino,93
+0114,2015,25a a 39 años,Masculino,37
+0114,2015,2m a < 1 año,Femenino,7
+0114,2015,2m a < 1 año,Masculino,1
+0114,2015,40a a 49 años,Femenino,38
+0114,2015,40a a 49 años,Masculino,10
+0114,2015,50a a 59 años,Femenino,14
+0114,2015,50a a 59 años,Masculino,8
+0114,2015,5a a 9 años,Femenino,36
+0114,2015,5a a 9 años,Masculino,37
+0114,2015,60a a 64 años,Femenino,3
+0114,2015,60a a 64 años,Masculino,5
+0114,2015,65a a 69 años,Femenino,1
+0114,2015,65a a 69 años,Masculino,1
+0114,2015,70a+,Femenino,7
+0114,2015,70a+,Masculino,1
+0114,2015,< 1 mes,Femenino,4
+0114,2015,< 1 mes,Masculino,1
+0114,2016,10a a 14 años,Femenino,6
+0114,2016,10a a 14 años,Masculino,18
+0114,2016,15a a 19 años,Femenino,12
+0114,2016,15a a 19 años,Masculino,7
+0114,2016,1a a 4 años,Femenino,5
+0114,2016,1a a 4 años,Masculino,6
+0114,2016,20a a 24 años,Femenino,8
+0114,2016,20a a 24 años,Masculino,6
+0114,2016,25a a 39 años,Femenino,14
+0114,2016,25a a 39 años,Masculino,12
+0114,2016,2m a < 1 año,Femenino,2
+0114,2016,40a a 49 años,Femenino,5
+0114,2016,40a a 49 años,Masculino,1
+0114,2016,50a a 59 años,Femenino,10
+0114,2016,50a a 59 años,Masculino,4
+0114,2016,5a a 9 años,Femenino,5
+0114,2016,5a a 9 años,Masculino,12
+0114,2016,70a+,Femenino,1
+0114,2016,70a+,Masculino,1
+0114,2017,10a a 14 años,Femenino,1
+0114,2017,15a a 19 años,Femenino,2
+0114,2017,20a a 24 años,Femenino,1
+0114,2017,20a a 24 años,Masculino,3
+0114,2017,25a a 39 años,Femenino,2
+0114,2017,2m a < 1 año,Masculino,1
+0114,2017,40a a 49 años,Femenino,1
+0114,2017,50a a 59 años,Femenino,1
+0114,2017,50a a 59 años,Masculino,2
+0114,2017,5a a 9 años,Femenino,1
+0114,2017,5a a 9 años,Masculino,3
+0114,2018,10a a 14 años,Femenino,1
+0114,2018,10a a 14 años,Masculino,1
+0114,2018,1a a 4 años,Masculino,1
+0114,2018,25a a 39 años,Femenino,1
+0114,2018,25a a 39 años,Masculino,1
+0114,2018,40a a 49 años,Femenino,1
+0114,2018,40a a 49 años,Masculino,1
+0114,2018,5a a 9 años,Femenino,1
+0114,2018,5a a 9 años,Masculino,1
+0114,2019,10a a 14 años,Femenino,48
+0114,2019,10a a 14 años,Masculino,47
+0114,2019,15a a 19 años,Femenino,28
+0114,2019,15a a 19 años,Masculino,27
+0114,2019,1a a 4 años,Femenino,11
+0114,2019,1a a 4 años,Masculino,19
+0114,2019,1m a < 2m,Masculino,1
+0114,2019,20a a 24 años,Femenino,18
+0114,2019,20a a 24 años,Masculino,20
+0114,2019,25a a 39 años,Femenino,41
+0114,2019,25a a 39 años,Masculino,37
+0114,2019,2m a < 1 año,Femenino,5
+0114,2019,2m a < 1 año,Masculino,3
+0114,2019,40a a 49 años,Femenino,14
+0114,2019,40a a 49 años,Masculino,12
+0114,2019,50a a 59 años,Femenino,6
+0114,2019,50a a 59 años,Masculino,2
+0114,2019,5a a 9 años,Femenino,49
+0114,2019,5a a 9 años,Masculino,43
+0114,2019,60a a 64 años,Femenino,2
+0114,2019,60a a 64 años,Masculino,3
+0114,2019,65a a 69 años,Femenino,2
+0114,2019,65a a 69 años,Masculino,2
+0114,2019,70a+,Femenino,6
+0114,2019,70a+,Masculino,3
+0114,2020,10a a 14 años,Femenino,4
+0114,2020,10a a 14 años,Masculino,7
+0114,2020,15a a 19 años,Femenino,2
+0114,2020,15a a 19 años,Masculino,7
+0114,2020,1a a 4 años,Femenino,7
+0114,2020,1a a 4 años,Masculino,1
+0114,2020,1m a < 2m,Femenino,1
+0114,2020,20a a 24 años,Femenino,2
+0114,2020,20a a 24 años,Masculino,1
+0114,2020,25a a 39 años,Femenino,10
+0114,2020,25a a 39 años,Masculino,5
+0114,2020,2m a < 1 año,Femenino,1
+0114,2020,2m a < 1 año,Masculino,3
+0114,2020,40a a 49 años,Femenino,3
+0114,2020,40a a 49 años,Masculino,2
+0114,2020,50a a 59 años,Femenino,4
+0114,2020,5a a 9 años,Femenino,8
+0114,2020,5a a 9 años,Masculino,9
+0114,2020,65a a 69 años,Masculino,1
+0114,2020,70a+,Femenino,2
+0114,2021,10a a 14 años,Femenino,1
+0114,2021,10a a 14 años,Masculino,5
+0114,2021,15a a 19 años,Femenino,1
+0114,2021,15a a 19 años,Masculino,3
+0114,2021,1a a 4 años,Femenino,3
+0114,2021,1a a 4 años,Masculino,2
+0114,2021,20a a 24 años,Femenino,4
+0114,2021,20a a 24 años,Masculino,1
+0114,2021,25a a 39 años,Femenino,5
+0114,2021,25a a 39 años,Masculino,3
+0114,2021,2m a < 1 año,Masculino,1
+0114,2021,40a a 49 años,Femenino,2
+0114,2021,40a a 49 años,Masculino,1
+0114,2021,50a a 59 años,Femenino,1
+0114,2021,5a a 9 años,Femenino,6
+0114,2021,5a a 9 años,Masculino,7
+0114,2022,10a a 14 años,Femenino,11
+0114,2022,10a a 14 años,Masculino,14
+0114,2022,15a a 19 años,Femenino,6
+0114,2022,15a a 19 años,Masculino,2
+0114,2022,1a a 4 años,Femenino,13
+0114,2022,1a a 4 años,Masculino,8
+0114,2022,20a a 24 años,Femenino,5
+0114,2022,20a a 24 años,Masculino,1
+0114,2022,25a a 39 años,Femenino,12
+0114,2022,25a a 39 años,Masculino,1
+0114,2022,2m a < 1 año,Masculino,2
+0114,2022,40a a 49 años,Femenino,2
+0114,2022,40a a 49 años,Masculino,1
+0114,2022,50a a 59 años,Femenino,5
+0114,2022,50a a 59 años,Masculino,1
+0114,2022,5a a 9 años,Femenino,20
+0114,2022,5a a 9 años,Masculino,16
+0114,2022,65a a 69 años,Femenino,1
+0114,2022,70a+,Femenino,1
+0114,2022,70a+,Masculino,1
+0114,2022,< 1 mes,Masculino,1
+0114,2023,10a a 14 años,Femenino,128
+0114,2023,10a a 14 años,Masculino,114
+0114,2023,15a a 19 años,Femenino,91
+0114,2023,15a a 19 años,Masculino,61
+0114,2023,1a a 4 años,Femenino,60
+0114,2023,1a a 4 años,Masculino,61
+0114,2023,1m a < 2m,Femenino,1
+0114,2023,20a a 24 años,Femenino,193
+0114,2023,20a a 24 años,Masculino,120
+0114,2023,25a a 39 años,Femenino,70
+0114,2023,25a a 39 años,Masculino,31
+0114,2023,2m a < 1 año,Femenino,15
+0114,2023,2m a < 1 año,Masculino,14
+0114,2023,40a a 49 años,Femenino,38
+0114,2023,40a a 49 años,Masculino,28
+0114,2023,50a a 59 años,Femenino,171
+0114,2023,50a a 59 años,Masculino,195
+0114,2023,5a a 9 años,Femenino,193
+0114,2023,5a a 9 años,Masculino,209
+0114,2023,60a a 64 años,Femenino,8
+0114,2023,60a a 64 años,Masculino,7
+0114,2023,65a a 69 años,Femenino,3
+0114,2023,65a a 69 años,Masculino,4
+0114,2023,70a+,Femenino,7
+0114,2023,70a+,Masculino,2
+0114,2023,< 1 mes,Masculino,2
+0114,2024,10a a 14 años,Femenino,300
+0114,2024,10a a 14 años,Masculino,288
+0114,2024,15a a 19 años,Femenino,200
+0114,2024,15a a 19 años,Masculino,165
+0114,2024,1a a 4 años,Femenino,128
+0114,2024,1a a 4 años,Masculino,135
+0114,2024,20a a 24 años,Femenino,142
+0114,2024,20a a 24 años,Masculino,81
+0114,2024,25a a 39 años,Femenino,259
+0114,2024,25a a 39 años,Masculino,144
+0114,2024,2m a < 1 año,Femenino,34
+0114,2024,2m a < 1 año,Masculino,45
+0114,2024,40a a 49 años,Femenino,98
+0114,2024,40a a 49 años,Masculino,49
+0114,2024,50a a 59 años,Femenino,63
+0114,2024,50a a 59 años,Masculino,33
+0114,2024,5a a 9 años,Femenino,330
+0114,2024,5a a 9 años,Masculino,367
+0114,2024,60a a 64 años,Femenino,18
+0114,2024,60a a 64 años,Masculino,12
+0114,2024,65a a 69 años,Femenino,14
+0114,2024,65a a 69 años,Masculino,12
+0114,2024,70a+,Femenino,15
+0114,2024,70a+,Masculino,11
+0114,2024,< 1 mes,Femenino,4
+0114,2024,< 1 mes,Masculino,1
+0114,2025,10a a 14 años,Femenino,19
+0114,2025,10a a 14 años,Masculino,41
+0114,2025,15a a 19 años,Femenino,16
+0114,2025,15a a 19 años,Masculino,12
+0114,2025,1a a 4 años,Femenino,18
+0114,2025,1a a 4 años,Masculino,16
+0114,2025,20a a 24 años,Femenino,15
+0114,2025,20a a 24 años,Masculino,12
+0114,2025,25a a 39 años,Femenino,23
+0114,2025,25a a 39 años,Masculino,24
+0114,2025,2m a < 1 año,Femenino,3
+0114,2025,2m a < 1 año,Masculino,5
+0114,2025,40a a 49 años,Femenino,16
+0114,2025,40a a 49 años,Masculino,7
+0114,2025,50a a 59 años,Femenino,4
+0114,2025,50a a 59 años,Masculino,2
+0114,2025,5a a 9 años,Femenino,41
+0114,2025,5a a 9 años,Masculino,32
+0114,2025,60a a 64 años,Femenino,2
+0114,2025,60a a 64 años,Masculino,2
+0114,2025,65a a 69 años,Femenino,1
+0114,2025,70a+,Femenino,4
+0114,2025,70a+,Masculino,1
+0115,2012,10a a 14 años,Femenino,6
+0115,2012,10a a 14 años,Masculino,13
+0115,2012,15a a 19 años,Femenino,5
+0115,2012,15a a 19 años,Masculino,3
+0115,2012,1a a 4 años,Femenino,4
+0115,2012,1a a 4 años,Masculino,2
+0115,2012,1m a < 2m,Masculino,1
+0115,2012,20a a 24 años,Femenino,2
+0115,2012,20a a 24 años,Masculino,3
+0115,2012,25a a 39 años,Femenino,10
+0115,2012,25a a 39 años,Masculino,3
+0115,2012,40a a 49 años,Femenino,5
+0115,2012,40a a 49 años,Masculino,2
+0115,2012,50a a 59 años,Femenino,7
+0115,2012,50a a 59 años,Masculino,2
+0115,2012,5a a 9 años,Femenino,5
+0115,2012,5a a 9 años,Masculino,5
+0115,2013,10a a 14 años,Femenino,24
+0115,2013,10a a 14 años,Masculino,26
+0115,2013,15a a 19 años,Femenino,22
+0115,2013,15a a 19 años,Masculino,35
+0115,2013,1a a 4 años,Femenino,8
+0115,2013,1a a 4 años,Masculino,15
+0115,2013,20a a 24 años,Femenino,20
+0115,2013,20a a 24 años,Masculino,23
+0115,2013,25a a 39 años,Femenino,50
+0115,2013,25a a 39 años,Masculino,40
+0115,2013,2m a < 1 año,Femenino,2
+0115,2013,2m a < 1 año,Masculino,4
+0115,2013,40a a 49 años,Femenino,9
+0115,2013,40a a 49 años,Masculino,11
+0115,2013,50a a 59 años,Femenino,13
+0115,2013,50a a 59 años,Masculino,6
+0115,2013,5a a 9 años,Femenino,34
+0115,2013,5a a 9 años,Masculino,20
+0115,2013,60a a 64 años,Femenino,4
+0115,2013,60a a 64 años,Masculino,1
+0115,2013,65a a 69 años,Masculino,2
+0115,2013,70a+,Masculino,1
+0115,2013,< 1 mes,Masculino,1
+0115,2014,10a a 14 años,Femenino,23
+0115,2014,10a a 14 años,Masculino,29
+0115,2014,15a a 19 años,Femenino,21
+0115,2014,15a a 19 años,Masculino,25
+0115,2014,1a a 4 años,Femenino,8
+0115,2014,1a a 4 años,Masculino,5
+0115,2014,20a a 24 años,Femenino,23
+0115,2014,20a a 24 años,Masculino,17
+0115,2014,25a a 39 años,Femenino,62
+0115,2014,25a a 39 años,Masculino,37
+0115,2014,2m a < 1 año,Masculino,1
+0115,2014,40a a 49 años,Femenino,29
+0115,2014,40a a 49 años,Masculino,12
+0115,2014,50a a 59 años,Femenino,13
+0115,2014,50a a 59 años,Masculino,9
+0115,2014,5a a 9 años,Femenino,16
+0115,2014,5a a 9 años,Masculino,16
+0115,2014,60a a 64 años,Femenino,4
+0115,2014,60a a 64 años,Masculino,1
+0115,2014,65a a 69 años,Femenino,2
+0115,2014,65a a 69 años,Masculino,2
+0115,2014,70a+,Femenino,2
+0115,2015,10a a 14 años,Femenino,41
+0115,2015,10a a 14 años,Masculino,43
+0115,2015,15a a 19 años,Femenino,56
+0115,2015,15a a 19 años,Masculino,35
+0115,2015,1a a 4 años,Femenino,22
+0115,2015,1a a 4 años,Masculino,32
+0115,2015,20a a 24 años,Femenino,59
+0115,2015,20a a 24 años,Masculino,22
+0115,2015,25a a 39 años,Femenino,109
+0115,2015,25a a 39 años,Masculino,67
+0115,2015,2m a < 1 año,Femenino,4
+0115,2015,2m a < 1 año,Masculino,5
+0115,2015,40a a 49 años,Femenino,46
+0115,2015,40a a 49 años,Masculino,22
+0115,2015,50a a 59 años,Femenino,22
+0115,2015,50a a 59 años,Masculino,11
+0115,2015,5a a 9 años,Femenino,44
+0115,2015,5a a 9 años,Masculino,39
+0115,2015,60a a 64 años,Femenino,4
+0115,2015,60a a 64 años,Masculino,8
+0115,2015,65a a 69 años,Femenino,10
+0115,2015,65a a 69 años,Masculino,5
+0115,2015,70a+,Femenino,3
+0115,2015,70a+,Masculino,2
+0115,2016,10a a 14 años,Femenino,22
+0115,2016,10a a 14 años,Masculino,25
+0115,2016,15a a 19 años,Femenino,31
+0115,2016,15a a 19 años,Masculino,24
+0115,2016,1a a 4 años,Femenino,11
+0115,2016,1a a 4 años,Masculino,17
+0115,2016,1m a < 2m,Femenino,1
+0115,2016,20a a 24 años,Femenino,26
+0115,2016,20a a 24 años,Masculino,10
+0115,2016,25a a 39 años,Femenino,60
+0115,2016,25a a 39 años,Masculino,32
+0115,2016,2m a < 1 año,Femenino,3
+0115,2016,40a a 49 años,Femenino,26
+0115,2016,40a a 49 años,Masculino,14
+0115,2016,50a a 59 años,Femenino,12
+0115,2016,50a a 59 años,Masculino,6
+0115,2016,5a a 9 años,Femenino,20
+0115,2016,5a a 9 años,Masculino,23
+0115,2016,60a a 64 años,Femenino,1
+0115,2016,70a+,Masculino,1
+0115,2017,10a a 14 años,Masculino,1
+0115,2017,15a a 19 años,Femenino,1
+0115,2017,15a a 19 años,Masculino,1
+0115,2017,1a a 4 años,Masculino,2
+0115,2017,20a a 24 años,Femenino,3
+0115,2017,20a a 24 años,Masculino,1
+0115,2017,25a a 39 años,Femenino,4
+0115,2017,25a a 39 años,Masculino,1
+0115,2017,40a a 49 años,Femenino,1
+0115,2017,50a a 59 años,Masculino,1
+0115,2017,5a a 9 años,Masculino,1
+0115,2017,60a a 64 años,Femenino,1
+0115,2018,10a a 14 años,Femenino,1
+0115,2018,10a a 14 años,Masculino,3
+0115,2018,15a a 19 años,Femenino,2
+0115,2018,1a a 4 años,Femenino,2
+0115,2018,1a a 4 años,Masculino,2
+0115,2018,20a a 24 años,Masculino,1
+0115,2018,25a a 39 años,Femenino,3
+0115,2018,25a a 39 años,Masculino,1
+0115,2018,40a a 49 años,Femenino,1
+0115,2018,40a a 49 años,Masculino,1
+0115,2018,5a a 9 años,Masculino,1
+0115,2019,10a a 14 años,Femenino,59
+0115,2019,10a a 14 años,Masculino,70
+0115,2019,15a a 19 años,Femenino,21
+0115,2019,15a a 19 años,Masculino,37
+0115,2019,1a a 4 años,Femenino,30
+0115,2019,1a a 4 años,Masculino,17
+0115,2019,20a a 24 años,Femenino,31
+0115,2019,20a a 24 años,Masculino,18
+0115,2019,25a a 39 años,Femenino,47
+0115,2019,25a a 39 años,Masculino,30
+0115,2019,2m a < 1 año,Femenino,2
+0115,2019,2m a < 1 año,Masculino,2
+0115,2019,40a a 49 años,Femenino,19
+0115,2019,40a a 49 años,Masculino,12
+0115,2019,50a a 59 años,Femenino,11
+0115,2019,50a a 59 años,Masculino,5
+0115,2019,5a a 9 años,Femenino,53
+0115,2019,5a a 9 años,Masculino,67
+0115,2019,60a a 64 años,Femenino,5
+0115,2019,65a a 69 años,Femenino,1
+0115,2019,70a+,Femenino,1
+0115,2019,70a+,Masculino,1
+0115,2019,< 1 mes,Femenino,1
+0115,2020,10a a 14 años,Femenino,2
+0115,2020,10a a 14 años,Masculino,3
+0115,2020,15a a 19 años,Femenino,3
+0115,2020,15a a 19 años,Masculino,3
+0115,2020,1a a 4 años,Femenino,2
+0115,2020,1a a 4 años,Masculino,1
+0115,2020,1m a < 2m,Masculino,1
+0115,2020,20a a 24 años,Masculino,3
+0115,2020,25a a 39 años,Femenino,7
+0115,2020,25a a 39 años,Masculino,5
+0115,2020,40a a 49 años,Femenino,4
+0115,2020,40a a 49 años,Masculino,5
+0115,2020,50a a 59 años,Femenino,4
+0115,2020,50a a 59 años,Masculino,2
+0115,2020,5a a 9 años,Femenino,4
+0115,2020,5a a 9 años,Masculino,7
+0115,2020,65a a 69 años,Masculino,1
+0115,2020,70a+,Masculino,2
+0115,2021,40a a 49 años,Masculino,1
+0115,2021,50a a 59 años,Femenino,1
+0115,2022,10a a 14 años,Femenino,1
+0115,2022,1a a 4 años,Femenino,1
+0115,2022,20a a 24 años,Femenino,1
+0115,2022,20a a 24 años,Masculino,1
+0115,2022,25a a 39 años,Femenino,3
+0115,2022,25a a 39 años,Masculino,1
+0115,2022,40a a 49 años,Femenino,3
+0115,2022,40a a 49 años,Masculino,1
+0115,2022,50a a 59 años,Femenino,1
+0115,2022,5a a 9 años,Femenino,2
+0115,2022,60a a 64 años,Masculino,1
+0115,2022,65a a 69 años,Femenino,1
+0115,2023,10a a 14 años,Femenino,87
+0115,2023,10a a 14 años,Masculino,74
+0115,2023,15a a 19 años,Femenino,64
+0115,2023,15a a 19 años,Masculino,46
+0115,2023,1a a 4 años,Femenino,25
+0115,2023,1a a 4 años,Masculino,25
+0115,2023,20a a 24 años,Femenino,170
+0115,2023,20a a 24 años,Masculino,94
+0115,2023,25a a 39 años,Femenino,70
+0115,2023,25a a 39 años,Masculino,27
+0115,2023,2m a < 1 año,Femenino,4
+0115,2023,2m a < 1 año,Masculino,6
+0115,2023,40a a 49 años,Femenino,40
+0115,2023,40a a 49 años,Masculino,20
+0115,2023,50a a 59 años,Femenino,75
+0115,2023,50a a 59 años,Masculino,64
+0115,2023,5a a 9 años,Femenino,102
+0115,2023,5a a 9 años,Masculino,98
+0115,2023,60a a 64 años,Femenino,11
+0115,2023,60a a 64 años,Masculino,6
+0115,2023,65a a 69 años,Femenino,4
+0115,2023,65a a 69 años,Masculino,4
+0115,2023,70a+,Femenino,9
+0115,2023,70a+,Masculino,4
+0115,2023,< 1 mes,Femenino,2
+0115,2024,10a a 14 años,Femenino,120
+0115,2024,10a a 14 años,Masculino,133
+0115,2024,15a a 19 años,Femenino,91
+0115,2024,15a a 19 años,Masculino,86
+0115,2024,1a a 4 años,Femenino,24
+0115,2024,1a a 4 años,Masculino,21
+0115,2024,20a a 24 años,Femenino,56
+0115,2024,20a a 24 años,Masculino,48
+0115,2024,25a a 39 años,Femenino,150
+0115,2024,25a a 39 años,Masculino,95
+0115,2024,2m a < 1 año,Femenino,4
+0115,2024,2m a < 1 año,Masculino,4
+0115,2024,40a a 49 años,Femenino,56
+0115,2024,40a a 49 años,Masculino,36
+0115,2024,50a a 59 años,Femenino,41
+0115,2024,50a a 59 años,Masculino,18
+0115,2024,5a a 9 años,Femenino,98
+0115,2024,5a a 9 años,Masculino,88
+0115,2024,60a a 64 años,Femenino,10
+0115,2024,60a a 64 años,Masculino,4
+0115,2024,65a a 69 años,Femenino,8
+0115,2024,65a a 69 años,Masculino,2
+0115,2024,70a+,Femenino,10
+0115,2024,70a+,Masculino,4
+0115,2024,< 1 mes,Masculino,1
+0115,2025,10a a 14 años,Femenino,10
+0115,2025,10a a 14 años,Masculino,11
+0115,2025,15a a 19 años,Femenino,7
+0115,2025,15a a 19 años,Masculino,8
+0115,2025,1a a 4 años,Femenino,4
+0115,2025,1a a 4 años,Masculino,2
+0115,2025,20a a 24 años,Femenino,6
+0115,2025,20a a 24 años,Masculino,7
+0115,2025,25a a 39 años,Femenino,24
+0115,2025,25a a 39 años,Masculino,9
+0115,2025,2m a < 1 año,Masculino,2
+0115,2025,40a a 49 años,Femenino,9
+0115,2025,40a a 49 años,Masculino,9
+0115,2025,50a a 59 años,Femenino,6
+0115,2025,50a a 59 años,Masculino,5
+0115,2025,5a a 9 años,Femenino,13
+0115,2025,5a a 9 años,Masculino,9
+0115,2025,65a a 69 años,Femenino,2
+0115,2025,65a a 69 años,Masculino,2
+0115,2025,70a+,Masculino,1
+0116,2012,10a a 14 años,Femenino,3
+0116,2012,10a a 14 años,Masculino,2
+0116,2012,15a a 19 años,Femenino,2
+0116,2012,15a a 19 años,Masculino,3
+0116,2012,1a a 4 años,Masculino,1
+0116,2012,20a a 24 años,Femenino,2
+0116,2012,20a a 24 años,Masculino,8
+0116,2012,25a a 39 años,Femenino,5
+0116,2012,25a a 39 años,Masculino,9
+0116,2012,40a a 49 años,Femenino,1
+0116,2012,50a a 59 años,Masculino,1
+0116,2012,5a a 9 años,Femenino,3
+0116,2012,5a a 9 años,Masculino,1
+0116,2012,70a+,Masculino,1
+0116,2013,10a a 14 años,Femenino,4
+0116,2013,10a a 14 años,Masculino,11
+0116,2013,15a a 19 años,Femenino,5
+0116,2013,15a a 19 años,Masculino,4
+0116,2013,1a a 4 años,Femenino,3
+0116,2013,1a a 4 años,Masculino,1
+0116,2013,20a a 24 años,Femenino,1
+0116,2013,20a a 24 años,Masculino,4
+0116,2013,25a a 39 años,Femenino,10
+0116,2013,25a a 39 años,Masculino,7
+0116,2013,40a a 49 años,Femenino,5
+0116,2013,40a a 49 años,Masculino,1
+0116,2013,50a a 59 años,Femenino,2
+0116,2013,50a a 59 años,Masculino,1
+0116,2013,5a a 9 años,Femenino,5
+0116,2013,5a a 9 años,Masculino,3
+0116,2013,60a a 64 años,Femenino,1
+0116,2013,70a+,Femenino,1
+0116,2014,10a a 14 años,Femenino,11
+0116,2014,10a a 14 años,Masculino,26
+0116,2014,15a a 19 años,Femenino,15
+0116,2014,15a a 19 años,Masculino,20
+0116,2014,1a a 4 años,Femenino,4
+0116,2014,1a a 4 años,Masculino,2
+0116,2014,20a a 24 años,Femenino,14
+0116,2014,20a a 24 años,Masculino,10
+0116,2014,25a a 39 años,Femenino,29
+0116,2014,25a a 39 años,Masculino,19
+0116,2014,2m a < 1 año,Femenino,2
+0116,2014,40a a 49 años,Femenino,8
+0116,2014,40a a 49 años,Masculino,3
+0116,2014,50a a 59 años,Femenino,4
+0116,2014,50a a 59 años,Masculino,8
+0116,2014,5a a 9 años,Femenino,6
+0116,2014,5a a 9 años,Masculino,6
+0116,2014,60a a 64 años,Femenino,2
+0116,2014,70a+,Femenino,1
+0116,2014,70a+,Masculino,1
+0116,2015,10a a 14 años,Femenino,9
+0116,2015,10a a 14 años,Masculino,4
+0116,2015,15a a 19 años,Femenino,12
+0116,2015,15a a 19 años,Masculino,11
+0116,2015,1a a 4 años,Femenino,2
+0116,2015,1a a 4 años,Masculino,3
+0116,2015,20a a 24 años,Femenino,14
+0116,2015,20a a 24 años,Masculino,2
+0116,2015,25a a 39 años,Femenino,21
+0116,2015,25a a 39 años,Masculino,12
+0116,2015,40a a 49 años,Femenino,5
+0116,2015,40a a 49 años,Masculino,5
+0116,2015,50a a 59 años,Femenino,7
+0116,2015,50a a 59 años,Masculino,1
+0116,2015,5a a 9 años,Femenino,5
+0116,2015,5a a 9 años,Masculino,4
+0116,2015,60a a 64 años,Masculino,1
+0116,2015,65a a 69 años,Femenino,2
+0116,2015,70a+,Femenino,1
+0116,2015,70a+,Masculino,1
+0116,2016,10a a 14 años,Femenino,5
+0116,2016,10a a 14 años,Masculino,9
+0116,2016,15a a 19 años,Femenino,9
+0116,2016,15a a 19 años,Masculino,6
+0116,2016,1a a 4 años,Femenino,3
+0116,2016,1a a 4 años,Masculino,4
+0116,2016,1m a < 2m,Femenino,2
+0116,2016,20a a 24 años,Femenino,5
+0116,2016,20a a 24 años,Masculino,6
+0116,2016,25a a 39 años,Femenino,12
+0116,2016,25a a 39 años,Masculino,5
+0116,2016,2m a < 1 año,Femenino,1
+0116,2016,40a a 49 años,Femenino,8
+0116,2016,40a a 49 años,Masculino,3
+0116,2016,50a a 59 años,Femenino,1
+0116,2016,5a a 9 años,Femenino,1
+0116,2016,5a a 9 años,Masculino,5
+0116,2016,60a a 64 años,Femenino,1
+0116,2016,65a a 69 años,Masculino,1
+0116,2017,15a a 19 años,Masculino,1
+0116,2017,1a a 4 años,Masculino,1
+0116,2017,20a a 24 años,Masculino,1
+0116,2017,25a a 39 años,Femenino,2
+0116,2017,40a a 49 años,Femenino,1
+0116,2018,10a a 14 años,Masculino,1
+0116,2018,15a a 19 años,Femenino,1
+0116,2018,1a a 4 años,Femenino,1
+0116,2018,20a a 24 años,Femenino,3
+0116,2018,20a a 24 años,Masculino,1
+0116,2018,25a a 39 años,Femenino,2
+0116,2018,40a a 49 años,Masculino,1
+0116,2019,10a a 14 años,Femenino,7
+0116,2019,10a a 14 años,Masculino,10
+0116,2019,15a a 19 años,Femenino,13
+0116,2019,15a a 19 años,Masculino,4
+0116,2019,1a a 4 años,Masculino,3
+0116,2019,20a a 24 años,Femenino,9
+0116,2019,20a a 24 años,Masculino,2
+0116,2019,25a a 39 años,Femenino,15
+0116,2019,25a a 39 años,Masculino,12
+0116,2019,2m a < 1 año,Femenino,2
+0116,2019,40a a 49 años,Femenino,8
+0116,2019,40a a 49 años,Masculino,5
+0116,2019,50a a 59 años,Femenino,5
+0116,2019,50a a 59 años,Masculino,1
+0116,2019,5a a 9 años,Femenino,9
+0116,2019,5a a 9 años,Masculino,8
+0116,2019,60a a 64 años,Femenino,1
+0116,2020,10a a 14 años,Femenino,1
+0116,2020,10a a 14 años,Masculino,8
+0116,2020,15a a 19 años,Masculino,6
+0116,2020,1a a 4 años,Femenino,2
+0116,2020,20a a 24 años,Femenino,4
+0116,2020,20a a 24 años,Masculino,1
+0116,2020,25a a 39 años,Femenino,5
+0116,2020,25a a 39 años,Masculino,8
+0116,2020,2m a < 1 año,Femenino,1
+0116,2020,40a a 49 años,Femenino,3
+0116,2020,40a a 49 años,Masculino,5
+0116,2020,50a a 59 años,Femenino,3
+0116,2020,50a a 59 años,Masculino,3
+0116,2020,5a a 9 años,Femenino,3
+0116,2020,5a a 9 años,Masculino,2
+0116,2020,70a+,Femenino,1
+0116,2021,10a a 14 años,Femenino,2
+0116,2021,10a a 14 años,Masculino,2
+0116,2021,15a a 19 años,Femenino,1
+0116,2021,1a a 4 años,Femenino,1
+0116,2021,25a a 39 años,Femenino,2
+0116,2021,25a a 39 años,Masculino,3
+0116,2021,40a a 49 años,Femenino,1
+0116,2021,5a a 9 años,Femenino,1
+0116,2021,5a a 9 años,Masculino,1
+0116,2022,10a a 14 años,Femenino,8
+0116,2022,10a a 14 años,Masculino,1
+0116,2022,15a a 19 años,Femenino,1
+0116,2022,1a a 4 años,Femenino,1
+0116,2022,20a a 24 años,Masculino,2
+0116,2022,25a a 39 años,Femenino,1
+0116,2022,25a a 39 años,Masculino,1
+0116,2022,5a a 9 años,Femenino,6
+0116,2022,5a a 9 años,Masculino,3
+0116,2023,10a a 14 años,Femenino,26
+0116,2023,10a a 14 años,Masculino,36
+0116,2023,15a a 19 años,Femenino,15
+0116,2023,15a a 19 años,Masculino,20
+0116,2023,1a a 4 años,Femenino,18
+0116,2023,1a a 4 años,Masculino,14
+0116,2023,20a a 24 años,Femenino,42
+0116,2023,20a a 24 años,Masculino,29
+0116,2023,25a a 39 años,Femenino,14
+0116,2023,25a a 39 años,Masculino,12
+0116,2023,2m a < 1 año,Femenino,4
+0116,2023,2m a < 1 año,Masculino,2
+0116,2023,40a a 49 años,Femenino,12
+0116,2023,40a a 49 años,Masculino,7
+0116,2023,50a a 59 años,Femenino,40
+0116,2023,50a a 59 años,Masculino,29
+0116,2023,5a a 9 años,Femenino,47
+0116,2023,5a a 9 años,Masculino,39
+0116,2023,60a a 64 años,Femenino,2
+0116,2023,60a a 64 años,Masculino,1
+0116,2023,65a a 69 años,Femenino,2
+0116,2023,65a a 69 años,Masculino,2
+0116,2023,70a+,Femenino,2
+0116,2023,70a+,Masculino,1
+0116,2024,10a a 14 años,Femenino,55
+0116,2024,10a a 14 años,Masculino,54
+0116,2024,15a a 19 años,Femenino,48
+0116,2024,15a a 19 años,Masculino,38
+0116,2024,1a a 4 años,Femenino,35
+0116,2024,1a a 4 años,Masculino,23
+0116,2024,1m a < 2m,Femenino,1
+0116,2024,1m a < 2m,Masculino,2
+0116,2024,20a a 24 años,Femenino,45
+0116,2024,20a a 24 años,Masculino,18
+0116,2024,25a a 39 años,Femenino,107
+0116,2024,25a a 39 años,Masculino,54
+0116,2024,2m a < 1 año,Femenino,10
+0116,2024,2m a < 1 año,Masculino,5
+0116,2024,40a a 49 años,Femenino,59
+0116,2024,40a a 49 años,Masculino,22
+0116,2024,50a a 59 años,Femenino,36
+0116,2024,50a a 59 años,Masculino,13
+0116,2024,5a a 9 años,Femenino,57
+0116,2024,5a a 9 años,Masculino,66
+0116,2024,60a a 64 años,Femenino,9
+0116,2024,60a a 64 años,Masculino,4
+0116,2024,65a a 69 años,Femenino,2
+0116,2024,65a a 69 años,Masculino,5
+0116,2024,70a+,Femenino,9
+0116,2024,70a+,Masculino,4
+0116,2024,< 1 mes,Femenino,1
+0116,2024,< 1 mes,Masculino,1
+0116,2025,10a a 14 años,Femenino,10
+0116,2025,10a a 14 años,Masculino,4
+0116,2025,15a a 19 años,Femenino,3
+0116,2025,15a a 19 años,Masculino,9
+0116,2025,1a a 4 años,Femenino,5
+0116,2025,1a a 4 años,Masculino,4
+0116,2025,20a a 24 años,Femenino,3
+0116,2025,20a a 24 años,Masculino,7
+0116,2025,25a a 39 años,Femenino,17
+0116,2025,25a a 39 años,Masculino,9
+0116,2025,2m a < 1 año,Femenino,1
+0116,2025,40a a 49 años,Femenino,14
+0116,2025,40a a 49 años,Masculino,5
+0116,2025,50a a 59 años,Femenino,2
+0116,2025,5a a 9 años,Femenino,7
+0116,2025,5a a 9 años,Masculino,9
+0116,2025,60a a 64 años,Femenino,1
+0116,2025,60a a 64 años,Masculino,1
+0116,2025,65a a 69 años,Femenino,2
+0116,2025,65a a 69 años,Masculino,1
+0116,2025,70a+,Femenino,1
+0117,2012,10a a 14 años,Masculino,2
+0117,2012,15a a 19 años,Femenino,4
+0117,2012,15a a 19 años,Masculino,7
+0117,2012,1a a 4 años,Femenino,1
+0117,2012,1a a 4 años,Masculino,1
+0117,2012,20a a 24 años,Femenino,4
+0117,2012,20a a 24 años,Masculino,3
+0117,2012,25a a 39 años,Femenino,4
+0117,2012,25a a 39 años,Masculino,7
+0117,2012,40a a 49 años,Femenino,3
+0117,2012,40a a 49 años,Masculino,2
+0117,2012,50a a 59 años,Femenino,2
+0117,2012,5a a 9 años,Femenino,1
+0117,2012,5a a 9 años,Masculino,5
+0117,2012,60a a 64 años,Masculino,1
+0117,2012,65a a 69 años,Masculino,1
+0117,2012,70a+,Femenino,1
+0117,2013,10a a 14 años,Femenino,4
+0117,2013,10a a 14 años,Masculino,8
+0117,2013,15a a 19 años,Femenino,11
+0117,2013,15a a 19 años,Masculino,10
+0117,2013,1a a 4 años,Femenino,5
+0117,2013,1a a 4 años,Masculino,6
+0117,2013,20a a 24 años,Femenino,11
+0117,2013,20a a 24 años,Masculino,6
+0117,2013,25a a 39 años,Femenino,13
+0117,2013,25a a 39 años,Masculino,13
+0117,2013,40a a 49 años,Femenino,10
+0117,2013,40a a 49 años,Masculino,6
+0117,2013,50a a 59 años,Femenino,2
+0117,2013,50a a 59 años,Masculino,1
+0117,2013,5a a 9 años,Femenino,11
+0117,2013,5a a 9 años,Masculino,14
+0117,2013,60a a 64 años,Femenino,3
+0117,2013,60a a 64 años,Masculino,1
+0117,2013,65a a 69 años,Femenino,1
+0117,2014,10a a 14 años,Femenino,9
+0117,2014,10a a 14 años,Masculino,17
+0117,2014,15a a 19 años,Femenino,10
+0117,2014,15a a 19 años,Masculino,4
+0117,2014,1a a 4 años,Femenino,4
+0117,2014,1a a 4 años,Masculino,2
+0117,2014,20a a 24 años,Femenino,9
+0117,2014,20a a 24 años,Masculino,4
+0117,2014,25a a 39 años,Femenino,30
+0117,2014,25a a 39 años,Masculino,18
+0117,2014,40a a 49 años,Femenino,15
+0117,2014,40a a 49 años,Masculino,2
+0117,2014,50a a 59 años,Femenino,5
+0117,2014,50a a 59 años,Masculino,4
+0117,2014,5a a 9 años,Femenino,10
+0117,2014,5a a 9 años,Masculino,2
+0117,2014,65a a 69 años,Femenino,2
+0117,2014,70a+,Masculino,1
+0117,2015,10a a 14 años,Femenino,6
+0117,2015,10a a 14 años,Masculino,11
+0117,2015,15a a 19 años,Femenino,11
+0117,2015,15a a 19 años,Masculino,16
+0117,2015,1a a 4 años,Femenino,4
+0117,2015,1a a 4 años,Masculino,9
+0117,2015,20a a 24 años,Femenino,13
+0117,2015,20a a 24 años,Masculino,9
+0117,2015,25a a 39 años,Femenino,23
+0117,2015,25a a 39 años,Masculino,10
+0117,2015,40a a 49 años,Femenino,11
+0117,2015,40a a 49 años,Masculino,5
+0117,2015,50a a 59 años,Femenino,6
+0117,2015,50a a 59 años,Masculino,2
+0117,2015,5a a 9 años,Femenino,9
+0117,2015,5a a 9 años,Masculino,9
+0117,2015,60a a 64 años,Femenino,1
+0117,2015,60a a 64 años,Masculino,1
+0117,2015,65a a 69 años,Masculino,1
+0117,2016,10a a 14 años,Masculino,4
+0117,2016,15a a 19 años,Femenino,3
+0117,2016,1a a 4 años,Femenino,4
+0117,2016,20a a 24 años,Femenino,4
+0117,2016,20a a 24 años,Masculino,2
+0117,2016,25a a 39 años,Femenino,11
+0117,2016,25a a 39 años,Masculino,5
+0117,2016,40a a 49 años,Masculino,1
+0117,2016,50a a 59 años,Femenino,3
+0117,2016,5a a 9 años,Masculino,3
+0117,2016,60a a 64 años,Femenino,3
+0117,2016,65a a 69 años,Femenino,2
+0117,2016,65a a 69 años,Masculino,1
+0117,2017,10a a 14 años,Masculino,1
+0117,2017,20a a 24 años,Masculino,2
+0117,2017,25a a 39 años,Femenino,1
+0117,2017,40a a 49 años,Femenino,2
+0117,2018,25a a 39 años,Masculino,1
+0117,2018,40a a 49 años,Masculino,1
+0117,2018,5a a 9 años,Masculino,3
+0117,2018,70a+,Masculino,1
+0117,2018,< 1 mes,Femenino,1
+0117,2019,10a a 14 años,Femenino,3
+0117,2019,10a a 14 años,Masculino,9
+0117,2019,15a a 19 años,Femenino,1
+0117,2019,20a a 24 años,Femenino,3
+0117,2019,20a a 24 años,Masculino,1
+0117,2019,25a a 39 años,Femenino,2
+0117,2019,25a a 39 años,Masculino,2
+0117,2019,40a a 49 años,Femenino,1
+0117,2019,50a a 59 años,Femenino,3
+0117,2019,50a a 59 años,Masculino,1
+0117,2019,5a a 9 años,Femenino,5
+0117,2019,5a a 9 años,Masculino,2
+0117,2020,10a a 14 años,Femenino,1
+0117,2020,1a a 4 años,Femenino,1
+0117,2020,1a a 4 años,Masculino,1
+0117,2020,20a a 24 años,Femenino,2
+0117,2020,20a a 24 años,Masculino,1
+0117,2020,25a a 39 años,Femenino,1
+0117,2020,25a a 39 años,Masculino,2
+0117,2020,40a a 49 años,Femenino,1
+0117,2020,50a a 59 años,Masculino,1
+0117,2020,5a a 9 años,Femenino,1
+0117,2020,65a a 69 años,Femenino,1
+0117,2021,15a a 19 años,Masculino,1
+0117,2022,15a a 19 años,Masculino,1
+0117,2022,1a a 4 años,Masculino,1
+0117,2022,25a a 39 años,Femenino,2
+0117,2022,40a a 49 años,Femenino,3
+0117,2022,70a+,Masculino,1
+0117,2023,10a a 14 años,Femenino,2
+0117,2023,10a a 14 años,Masculino,2
+0117,2023,15a a 19 años,Femenino,1
+0117,2023,15a a 19 años,Masculino,2
+0117,2023,1a a 4 años,Femenino,2
+0117,2023,1a a 4 años,Masculino,3
+0117,2023,20a a 24 años,Femenino,13
+0117,2023,20a a 24 años,Masculino,5
+0117,2023,25a a 39 años,Femenino,6
+0117,2023,25a a 39 años,Masculino,5
+0117,2023,2m a < 1 año,Femenino,1
+0117,2023,2m a < 1 año,Masculino,1
+0117,2023,40a a 49 años,Femenino,4
+0117,2023,50a a 59 años,Femenino,6
+0117,2023,50a a 59 años,Masculino,7
+0117,2023,5a a 9 años,Femenino,6
+0117,2023,5a a 9 años,Masculino,7
+0117,2023,60a a 64 años,Femenino,1
+0117,2023,70a+,Masculino,2
+0117,2024,10a a 14 años,Femenino,6
+0117,2024,10a a 14 años,Masculino,9
+0117,2024,15a a 19 años,Femenino,4
+0117,2024,15a a 19 años,Masculino,7
+0117,2024,1a a 4 años,Femenino,1
+0117,2024,1a a 4 años,Masculino,6
+0117,2024,20a a 24 años,Femenino,1
+0117,2024,20a a 24 años,Masculino,1
+0117,2024,25a a 39 años,Femenino,9
+0117,2024,25a a 39 años,Masculino,9
+0117,2024,2m a < 1 año,Masculino,1
+0117,2024,40a a 49 años,Femenino,5
+0117,2024,40a a 49 años,Masculino,9
+0117,2024,50a a 59 años,Femenino,3
+0117,2024,50a a 59 años,Masculino,1
+0117,2024,5a a 9 años,Femenino,13
+0117,2024,5a a 9 años,Masculino,9
+0117,2024,60a a 64 años,Masculino,1
+0117,2024,65a a 69 años,Femenino,1
+0117,2024,65a a 69 años,Masculino,1
+0117,2024,70a+,Femenino,1
+0117,2025,10a a 14 años,Masculino,2
+0117,2025,15a a 19 años,Masculino,3
+0117,2025,25a a 39 años,Masculino,2
+0117,2025,40a a 49 años,Femenino,1
+0117,2025,40a a 49 años,Masculino,1
+0117,2025,5a a 9 años,Femenino,1
+0117,2025,60a a 64 años,Femenino,2
