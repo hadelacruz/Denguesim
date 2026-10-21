@@ -1,0 +1,1503 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-20T22:19:35Z",
+    "timestamp_areas_base": "2026-10-20T17:11:48Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 294933619,
+  "lat": 14.7228346,
+  "lon": -90.6431444,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Unidad Asistencial"
+  }
+},
+{
+  "type": "node",
+  "id": 603314270,
+  "lat": 14.5993010,
+  "lon": -90.5225970,
+  "tags": {
+    "addr:full": "5a Avenida 13-70 Zona 9",
+    "addr:housenumber": "13-70",
+    "addr:postcode": "01009",
+    "addr:street": "5a Avenida",
+    "amenity": "clinic",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "Centro de Especialidades Oculares",
+    "opening_hours": "Mo-Sa 07:00-05:00",
+    "phone": "502 2277 9600",
+    "website": "https://especialidadesoculares.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 613379529,
+  "lat": 14.6017913,
+  "lon": -90.5626886,
+  "tags": {
+    "addr:housenumber": "17 avenida 28-01 zona 11",
+    "amenity": "hospital",
+    "name": "Hospital Novicentro"
+  }
+},
+{
+  "type": "node",
+  "id": 775889012,
+  "lat": 14.5724460,
+  "lon": -90.5260848,
+  "tags": {
+    "addr:full": "24 calle 15-75 zona 13",
+    "amenity": "hospital",
+    "name": "Sanatorio los Pinos"
+  }
+},
+{
+  "type": "node",
+  "id": 775902343,
+  "lat": 14.5968932,
+  "lon": -90.5555776,
+  "tags": {
+    "addr:full": "Calzada Aguilar Batres 28-18. Zona 11",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Liga Guatemalteca del Corazón"
+  }
+},
+{
+  "type": "node",
+  "id": 922956616,
+  "lat": 14.6105197,
+  "lon": -90.5054691,
+  "tags": {
+    "addr:full": "3a Calle Final 10-70 Zona 10",
+    "amenity": "hospital",
+    "name": "Centro Hospitalario La Paz - Zona 10",
+    "operator": "SERMESA",
+    "phone": "+502 2210 1200",
+    "source": "KG Ground Survey 2015",
+    "website": "https://www.hospitaleslapaz.com/grupo-hospitalario-la-paz/"
+  }
+},
+{
+  "type": "node",
+  "id": 922963937,
+  "lat": 14.6460491,
+  "lon": -90.5111504,
+  "tags": {
+    "addr:full": "8ª Avenida 2-48 Zona 1",
+    "amenity": "hospital",
+    "name": "Hospital Los Cedros",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 922998738,
+  "lat": 14.5741238,
+  "lon": -90.4831138,
+  "tags": {
+    "addr:housenumber": "25-19, 5to Nivel, zona 15, VHI,",
+    "addr:street": "Carretera a El Salvador",
+    "amenity": "hospital",
+    "description": "Consulta Externa",
+    "name": "Clínicas Multimédica",
+    "note": "Bulevar Vista Hermosa",
+    "opening_hours": "08:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 923010292,
+  "lat": 14.6384785,
+  "lon": -90.5168824,
+  "tags": {
+    "addr:housenumber": "11 calle 3-52 Zona 1",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Santa Margarita",
+    "operator": "Ministerio de Salud Pública y Asistencia Social",
+    "operator:short": "MSPAS",
+    "operator:type": "government",
+    "operator:wikidata": "Q6017425"
+  }
+},
+{
+  "type": "node",
+  "id": 923432057,
+  "lat": 14.6241309,
+  "lon": -90.5035369,
+  "tags": {
+    "addr:housenumber": "23-98",
+    "addr:quarter": "Zona 5",
+    "addr:street": "25 Avenida",
+    "amenity": "hospital",
+    "name": "Hospital Privado La Asuncion"
+  }
+},
+{
+  "type": "node",
+  "id": 923463129,
+  "lat": 14.6022970,
+  "lon": -90.5424728,
+  "tags": {
+    "addr:full": "10a Avenida 14-77 Zona 12",
+    "addr:housenumber": "14-77",
+    "addr:street": "10a Avenida",
+    "addr:suburb": "Zona 12",
+    "amenity": "hospital",
+    "name": "Sanatorio Nuestra Señora de Fátima"
+  }
+},
+{
+  "type": "node",
+  "id": 1466215604,
+  "lat": 14.6478838,
+  "lon": -90.5146857,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Fundación Pediátrica Guatemalteca",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1999152313,
+  "lat": 14.6082726,
+  "lon": -90.5323381,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "IGSS"
+  }
+},
+{
+  "type": "node",
+  "id": 2125888877,
+  "lat": 14.6647937,
+  "lon": -90.5687574,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clínicas"
+  }
+},
+{
+  "type": "node",
+  "id": 2147082051,
+  "lat": 14.6641215,
+  "lon": -90.4782652,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional de Salud Mental Federico Mora",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2410124789,
+  "lat": 14.6258701,
+  "lon": -90.4511113,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Salud"
+  }
+},
+{
+  "type": "node",
+  "id": 2521303877,
+  "lat": 14.4802018,
+  "lon": -90.5334879,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Medico"
+  }
+},
+{
+  "type": "node",
+  "id": 3610090088,
+  "lat": 14.6371583,
+  "lon": -90.5219174,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital de Rehabilitación Doctor Jorge Von Ahn",
+    "operator": "Ministerio de Salud Pública y Asistencia Social",
+    "operator:short": "MSPAS",
+    "operator:type": "government",
+    "operator:wikidata": "Q6017425"
+  }
+},
+{
+  "type": "node",
+  "id": 3610144954,
+  "lat": 14.6235456,
+  "lon": -90.5028557,
+  "tags": {
+    "amenity": "hospital",
+    "name": "APROFAM, zona 5"
+  }
+},
+{
+  "type": "node",
+  "id": 3707166273,
+  "lat": 14.6236932,
+  "lon": -90.5509500,
+  "tags": {
+    "addr:city": "Guatemala",
+    "addr:housenumber": "14-82",
+    "addr:postcode": "01007",
+    "addr:street": "Calzada Roosevelt",
+    "amenity": "hospital",
+    "name": "Centro Clínico Urgencias Médicas",
+    "phone": "+502 24748644",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "node",
+  "id": 3986834693,
+  "lat": 14.6163569,
+  "lon": -90.5410404,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2024-10-23",
+    "name": "Instituto de Cancerología y Hospital Doctor Bernatdeo del Valle S - INCAN",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "node",
+  "id": 4334394300,
+  "lat": 14.6065977,
+  "lon": -90.5238120,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "is_in": "Guatemala City, Guatemala",
+    "name": "Visión Integral",
+    "website": "https://www.visionintegral.com.gt/"
+  }
+},
+{
+  "type": "node",
+  "id": 4334398324,
+  "lat": 14.6118249,
+  "lon": -90.5438720,
+  "tags": {
+    "amenity": "hospital",
+    "is_in": "Guatemala City, Guatemala",
+    "name": "Unidad Nacional De Oncologia Pediatrica",
+    "website": "https://www.icpcn.org/members-directory/2390/unidad-nacional-de-oncologia-pediatrica/"
+  }
+},
+{
+  "type": "node",
+  "id": 4423012290,
+  "lat": 14.6257200,
+  "lon": -90.5283731,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Salud, zona 3",
+    "name:es": "Centro de Salud, zona 3"
+  }
+},
+{
+  "type": "node",
+  "id": 4529431489,
+  "lat": 14.5629931,
+  "lon": -90.6394908,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospicio",
+    "name:es": "Hospicio"
+  }
+},
+{
+  "type": "node",
+  "id": 4587671691,
+  "lat": 14.4790969,
+  "lon": -90.5362249,
+  "tags": {
+    "amenity": "hospital",
+    "name": "IGSS",
+    "name:es": "IGSS"
+  }
+},
+{
+  "type": "node",
+  "id": 4860498121,
+  "lat": 14.6089411,
+  "lon": -90.5331623,
+  "tags": {
+    "addr:street": "14 Avenida",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "IGSS De Jubilados",
+    "name:es": "IGSS De Jubilados"
+  }
+},
+{
+  "type": "node",
+  "id": 4860498122,
+  "lat": 14.6069785,
+  "lon": -90.5322731,
+  "tags": {
+    "addr:street": "Boulevard Liberación",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "IGSS De Rehabilitación",
+    "name:es": "IGSS De Rehabilitación"
+  }
+},
+{
+  "type": "node",
+  "id": 4923344722,
+  "lat": 14.4717910,
+  "lon": -90.6387603,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4945112222,
+  "lat": 14.6114055,
+  "lon": -90.5434654,
+  "tags": {
+    "amenity": "hospital",
+    "name": "UNICAR",
+    "name:es": "UNICAR"
+  }
+},
+{
+  "type": "node",
+  "id": 5045648976,
+  "lat": 14.6340170,
+  "lon": -90.5107544,
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "addr:street": "14 Calle",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Salud Zona 1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5468094521,
+  "lat": 14.6421189,
+  "lon": -90.5205337,
+  "tags": {
+    "amenity": "hospital",
+    "name": "APROFAN"
+  }
+},
+{
+  "type": "node",
+  "id": 5609773641,
+  "lat": 14.6872284,
+  "lon": -90.6469171,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Salud San Pedro Sacatepéquez"
+  }
+},
+{
+  "type": "node",
+  "id": 6486850543,
+  "lat": 14.5093654,
+  "lon": -90.6180504,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Especializado de Villa Nueva",
+    "wikidata": "Q87686881",
+    "wikimedia_commons": "Category:National Hospital of Villa Nueva City",
+    "wikipedia": "es:Hospital Nacional Especializado de Villa Nueva"
+  }
+},
+{
+  "type": "node",
+  "id": 6704578085,
+  "lat": 14.6346700,
+  "lon": -90.5182023,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Liga Guatemalteca del Corazón"
+  }
+},
+{
+  "type": "node",
+  "id": 6704578185,
+  "lat": 14.6350431,
+  "lon": -90.5185171,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Liga Guatemalteca del Corazón - Central."
+  }
+},
+{
+  "type": "node",
+  "id": 7058767486,
+  "lat": 14.5268209,
+  "lon": -90.5884624,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Villa San Francisco"
+  }
+},
+{
+  "type": "node",
+  "id": 7058767491,
+  "lat": 14.5210100,
+  "lon": -90.5747999,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 7058767497,
+  "lat": 14.5257077,
+  "lon": -90.5875738,
+  "tags": {
+    "addr:street": "6a Avenida",
+    "amenity": "hospital",
+    "contact:facebook": "100089806531233",
+    "email": "centrodesaludvillanueva@gmail.com",
+    "healthcare": "hospital",
+    "name": "Centro de Salud",
+    "opening_hours": "Fr-We 07:00-18:00; Th 00:00-24:00",
+    "phone": "6636-8977"
+  }
+},
+{
+  "type": "node",
+  "id": 7058767510,
+  "lat": 14.5206332,
+  "lon": -90.5645703,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Blue Medical"
+  }
+},
+{
+  "type": "node",
+  "id": 10017098156,
+  "lat": 14.5253338,
+  "lon": -90.5517898,
+  "tags": {
+    "addr:city": "San Miguel Petapa",
+    "addr:street": "Avenida Petapa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sanatorio El Frutal"
+  }
+},
+{
+  "type": "node",
+  "id": 10038466557,
+  "lat": 14.6101121,
+  "lon": -90.5984054,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "physiotherapy",
+    "name": "CREFIRE"
+  }
+},
+{
+  "type": "node",
+  "id": 10254080143,
+  "lat": 14.5260657,
+  "lon": -90.5881219,
+  "tags": {
+    "addr:city": "Zona 1 de Villa Nueva",
+    "addr:postcode": "01064",
+    "addr:street": "5a Avenida",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Prosaf"
+  }
+},
+{
+  "type": "node",
+  "id": 10286865361,
+  "lat": 14.5298672,
+  "lon": -90.5872177,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sanatorio Belén"
+  }
+},
+{
+  "type": "node",
+  "id": 10286919275,
+  "lat": 14.5331140,
+  "lon": -90.5847542,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Patronato del Diabetico"
+  }
+},
+{
+  "type": "node",
+  "id": 11190663037,
+  "lat": 14.5927435,
+  "lon": -90.5141597,
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "addr:housenumber": "3-97",
+    "addr:postcode": "01010",
+    "addr:street": "20 Calle",
+    "addr:suburb": "Zona 10",
+    "amenity": "hospital",
+    "email": "info@insidehealthgt.com",
+    "healthcare": "hospital",
+    "name": "Hospital Inside Health",
+    "phone": "44999799",
+    "website": "https://insidehealthgt.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11254244337,
+  "lat": 14.6041067,
+  "lon": -90.5278899,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Igss de autonomía consulta externa de enfermedades"
+  }
+},
+{
+  "type": "node",
+  "id": 11254244437,
+  "lat": 14.6082038,
+  "lon": -90.5102378,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Oftalmó"
+  }
+},
+{
+  "type": "node",
+  "id": 11254244438,
+  "lat": 14.6050978,
+  "lon": -90.5173082,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Igss zona 9 biopsias"
+  }
+},
+{
+  "type": "node",
+  "id": 12920233463,
+  "lat": 14.6116668,
+  "lon": -90.5096908,
+  "tags": {
+    "addr:housenumber": "6-24",
+    "addr:street": "2a Calle",
+    "addr:suburb": "Zona 10",
+    "amenity": "hospital",
+    "currency:XBT": "yes",
+    "healthcare": "hospital",
+    "name": "Zher Medical",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "source": "Osmo Business",
+    "survey:date": "2023-04-14"
+  }
+},
+{
+  "type": "node",
+  "id": 12954832795,
+  "lat": 14.5926192,
+  "lon": -90.5145677,
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "addr:street": "20 Calle",
+    "addr:suburb": "Zona 10",
+    "amenity": "hospital",
+    "name": "Hospital Miraflores"
+  }
+},
+{
+  "type": "node",
+  "id": 13541951908,
+  "lat": 14.5501585,
+  "lon": -90.4543990,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2026-02-10",
+    "healthcare": "hospital",
+    "name": "BlueMedical"
+  }
+},
+{
+  "type": "node",
+  "id": 13885898035,
+  "lat": 14.7196708,
+  "lon": -90.6432323,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2025-10-21",
+    "healthcare": "hospital",
+    "internet_access": "no",
+    "name": "Centro De Salud",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13885898047,
+  "lat": 14.7161854,
+  "lon": -90.6453046,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2025-10-21",
+    "healthcare": "hospital",
+    "internet_access": "no",
+    "name": "IGSS",
+    "operator:type": "public",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 41405260,
+  "center": {
+    "lat": 14.6032316,
+    "lon": -90.5596858
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Sanatorio Hermano Pedro"
+  }
+},
+{
+  "type": "way",
+  "id": 53542525,
+  "center": {
+    "lat": 14.6431840,
+    "lon": -90.5694793
+  },
+  "tags": {
+    "addr:city": "Zona 4, Mixco",
+    "addr:street": "13 Avenida",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital General de Accidentes IGSS 7-19",
+    "note": "13 Avenida 1-51 Zona 4 de Mixco",
+    "source": "Reconocimiento cartográfico por KG 2016."
+  }
+},
+{
+  "type": "way",
+  "id": 74187882,
+  "center": {
+    "lat": 14.6302656,
+    "lon": -90.5395990
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital San Vicente"
+  }
+},
+{
+  "type": "way",
+  "id": 79842203,
+  "center": {
+    "lat": 14.6513663,
+    "lon": -90.4943685
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "IGSS Zona 6"
+  }
+},
+{
+  "type": "way",
+  "id": 81398329,
+  "center": {
+    "lat": 14.6138099,
+    "lon": -90.5423121
+  },
+  "tags": {
+    "addr:city": "Guatemala City",
+    "addr:housenumber": "3-10",
+    "addr:street": "Calzada Roosevelt",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Roosevelt",
+    "website": "https://www.hospitalroosevelt.gob.gt/"
+  }
+},
+{
+  "type": "way",
+  "id": 117683083,
+  "center": {
+    "lat": 14.6655226,
+    "lon": -90.4714698
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Salud Santa Elena"
+  }
+},
+{
+  "type": "way",
+  "id": 233568184,
+  "center": {
+    "lat": 14.6097167,
+    "lon": -90.4989934
+  },
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Clas A",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Sanatorio Nuestra Señora del Pilar",
+    "opening_hours": "24/7",
+    "phone": "24200000"
+  }
+},
+{
+  "type": "way",
+  "id": 245726248,
+  "center": {
+    "lat": 14.6072707,
+    "lon": -90.5593807
+  },
+  "tags": {
+    "addr:city": "Guatemala",
+    "addr:housename": "Diagonal 21, 19-19 zona 11",
+    "addr:postcode": "01011",
+    "addr:street": "Diagonal 21",
+    "amenity": "hospital",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "name": "Hospital Doctor Rodolfo Robles",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 247307069,
+  "center": {
+    "lat": 14.6392896,
+    "lon": -90.5869828
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital infantil Juan Pablo II",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 303213462,
+  "center": {
+    "lat": 14.5822387,
+    "lon": -90.4848134
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "14",
+    "name": "Multimédica Vista Hermosa",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 363401513,
+  "center": {
+    "lat": 14.6278996,
+    "lon": -90.4951612
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics",
+    "name": "Pediatría de la Unidad Periférica del IGSS, zona 5"
+  }
+},
+{
+  "type": "way",
+  "id": 400066008,
+  "center": {
+    "lat": 14.6053760,
+    "lon": -90.5172166
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "IGSS",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 400891291,
+  "center": {
+    "lat": 14.6102177,
+    "lon": -90.5098328
+  },
+  "tags": {
+    "addr:housenumber": "3-69",
+    "addr:street": "6a Avenida Zona 10",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Centro Médico",
+    "phone": "22794949",
+    "source": "KG Ground Survey 2015",
+    "website": "https://www.centromedico.com.gt/"
+  }
+},
+{
+  "type": "way",
+  "id": 400891971,
+  "center": {
+    "lat": 14.6052382,
+    "lon": -90.5099577
+  },
+  "tags": {
+    "addr:housenumber": "7-49",
+    "addr:street": "6a Avenida",
+    "building": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 400891972,
+  "center": {
+    "lat": 14.6052826,
+    "lon": -90.5090002
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Universitario Esperanza",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 400917746,
+  "center": {
+    "lat": 14.6105144,
+    "lon": -90.5107280
+  },
+  "tags": {
+    "addr:street": "6a Avenida Zona 10",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Clínicas Centro Médico II",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 401308812,
+  "center": {
+    "lat": 14.6038961,
+    "lon": -90.5279929
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "IGSS",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 401471533,
+  "center": {
+    "lat": 14.6151747,
+    "lon": -90.5110841
+  },
+  "tags": {
+    "addr:street": "Avenida Barranquilla",
+    "amenity": "hospital",
+    "building": "yes",
+    "check_date": "2025-03-27",
+    "healthcare": "hospital",
+    "name": "IGSS Camip 2",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 401630884,
+  "center": {
+    "lat": 14.6155059,
+    "lon": -90.5106421
+  },
+  "tags": {
+    "addr:housenumber": "12 Av 33-32 Zona 5",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Privado Napoles",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 403124522,
+  "center": {
+    "lat": 14.5038812,
+    "lon": -90.5650669
+  },
+  "tags": {
+    "addr:city": "San Miguel Petapa",
+    "addr:street": "0 Calle",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Hospital y Clínicas Medica Centro S.A.",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 403681321,
+  "center": {
+    "lat": 14.4855898,
+    "lon": -90.5343335
+  },
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "building": "yes",
+    "name": "Centro de Salud Villa Canales"
+  }
+},
+{
+  "type": "way",
+  "id": 403899269,
+  "center": {
+    "lat": 14.5457093,
+    "lon": -90.4100681
+  },
+  "tags": {
+    "addr:city": "San José Pinula",
+    "addr:street": "1a Calle",
+    "amenity": "hospital",
+    "area": "yes",
+    "building": "yes",
+    "name": "Luz De Vida"
+  }
+},
+{
+  "type": "way",
+  "id": 404292730,
+  "center": {
+    "lat": 14.6318906,
+    "lon": -90.5141211
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Policlínicas del IGSS"
+  }
+},
+{
+  "type": "way",
+  "id": 404454513,
+  "center": {
+    "lat": 14.6233668,
+    "lon": -90.5478610
+  },
+  "tags": {
+    "addr:street": "Calzada San Juan",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital Yarden",
+    "source": "KG Ground Survey 2015"
+  }
+},
+{
+  "type": "way",
+  "id": 404466664,
+  "center": {
+    "lat": 14.6302835,
+    "lon": -90.5543034
+  },
+  "tags": {
+    "addr:street": "31 Avenida Zona 7",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Hospital de Diabetes"
+  }
+},
+{
+  "type": "way",
+  "id": 405494188,
+  "center": {
+    "lat": 14.6409184,
+    "lon": -90.5187369
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Santa Rita",
+    "operator": "Ministerio de Salud Pública y Asistencia Social",
+    "operator:short": "MSPAS",
+    "operator:type": "government",
+    "operator:wikidata": "Q6017425"
+  }
+},
+{
+  "type": "way",
+  "id": 405498926,
+  "center": {
+    "lat": 14.6344915,
+    "lon": -90.5195133
+  },
+  "tags": {
+    "addr:full": "2a Avenida 14-74 Zona 1",
+    "addr:housenumber": "14-74",
+    "addr:quarter": "Zona 1",
+    "addr:street": "14 Calle",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Angeles"
+  }
+},
+{
+  "type": "way",
+  "id": 405560125,
+  "center": {
+    "lat": 14.6395204,
+    "lon": -90.5209349
+  },
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "addr:housenumber": "10-50",
+    "addr:street": "1a Avenida",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital General San Juan de Dios",
+    "operator": "Ministerio de Salud Pública y Asistencia Social",
+    "operator:short": "MSPAS",
+    "operator:type": "government",
+    "operator:wikidata": "Q6017425"
+  }
+},
+{
+  "type": "way",
+  "id": 406213988,
+  "center": {
+    "lat": 14.6081718,
+    "lon": -90.5865290
+  },
+  "tags": {
+    "addr:street": "Bulevar San Cristóbal",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Polimédica S.C."
+  }
+},
+{
+  "type": "way",
+  "id": 406322639,
+  "center": {
+    "lat": 14.6293489,
+    "lon": -90.6050011
+  },
+  "tags": {
+    "addr:city": "Mixco",
+    "addr:street": "7a Calle",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hopsital Oftalmológico Municipal de Mixco"
+  }
+},
+{
+  "type": "way",
+  "id": 406623588,
+  "center": {
+    "lat": 14.6667084,
+    "lon": -90.5690331
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centro de Salud"
+  }
+},
+{
+  "type": "way",
+  "id": 406679593,
+  "center": {
+    "lat": 14.5727038,
+    "lon": -90.5341130
+  },
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "addr:street": "24 Calle",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital Virgen de Loreto"
+  }
+},
+{
+  "type": "way",
+  "id": 406862685,
+  "center": {
+    "lat": 14.6302095,
+    "lon": -90.5412477
+  },
+  "tags": {
+    "addr:street": "11 Avenida A",
+    "amenity": "hospital",
+    "name": "Area de Salud Guatemala Central"
+  }
+},
+{
+  "type": "way",
+  "id": 476397402,
+  "center": {
+    "lat": 14.5465033,
+    "lon": -90.4549583
+  },
+  "tags": {
+    "addr:city": "Santa Catarina Pinula",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "2",
+    "name": "Hospital Concepción",
+    "phone": "6637 1132"
+  }
+},
+{
+  "type": "way",
+  "id": 700247301,
+  "center": {
+    "lat": 14.5152814,
+    "lon": -90.5781187
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "IGSS"
+  }
+},
+{
+  "type": "way",
+  "id": 700961317,
+  "center": {
+    "lat": 14.6406595,
+    "lon": -90.5697427
+  },
+  "tags": {
+    "addr:city": "Zona 3, Mixco",
+    "addr:street": "14 Avenida",
+    "building": "hospital",
+    "building:levels": "4",
+    "healthcare": "hospital",
+    "healthcare:speciality": "emergency;general",
+    "name": "Centro de Diagnóstico Ebenezer"
+  }
+},
+{
+  "type": "way",
+  "id": 700961318,
+  "center": {
+    "lat": 14.6403835,
+    "lon": -90.5701762
+  },
+  "tags": {
+    "addr:city": "Zona 3, Mixco",
+    "addr:street": "3a Calle",
+    "building": "hospital",
+    "building:levels": "3",
+    "healthcare": "hospital",
+    "name": "Sanatorio Montserrat"
+  }
+},
+{
+  "type": "way",
+  "id": 746722910,
+  "center": {
+    "lat": 14.5721930,
+    "lon": -90.4972245
+  },
+  "tags": {
+    "addr:street": "1a Calle",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Centro de Atención Permanente"
+  }
+},
+{
+  "type": "way",
+  "id": 747924515,
+  "center": {
+    "lat": 14.5695072,
+    "lon": -90.4946465
+  },
+  "tags": {
+    "addr:city": "Santa Catarina Pinula",
+    "addr:housenumber": "1-25",
+    "addr:street": "0 Calle",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "emergency;radiology;gynaecology;paediatrics;general",
+    "name": "SantaCatarina+"
+  }
+},
+{
+  "type": "way",
+  "id": 755750933,
+  "center": {
+    "lat": 14.5210083,
+    "lon": -90.5747956
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 921490108,
+  "center": {
+    "lat": 14.6296855,
+    "lon": -90.5748495
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro Médico Renacer"
+  }
+},
+{
+  "type": "way",
+  "id": 955150316,
+  "center": {
+    "lat": 14.6492860,
+    "lon": -90.5793843
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sanatorio Monte Verde"
+  }
+},
+{
+  "type": "way",
+  "id": 961804932,
+  "center": {
+    "lat": 14.6259673,
+    "lon": -90.5594558
+  },
+  "tags": {
+    "addr:full": "30Av A 3-39 zona 11 Utatlan II",
+    "amenity": "hospital",
+    "name": "Sanatorio Las Majadas"
+  }
+},
+{
+  "type": "way",
+  "id": 963962357,
+  "center": {
+    "lat": 14.5856157,
+    "lon": -90.5187318
+  },
+  "tags": {
+    "addr:city": "Ciudad de Guatemala",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Centro Hospitalario La Paz"
+  }
+},
+{
+  "type": "way",
+  "id": 966589641,
+  "center": {
+    "lat": 14.6490199,
+    "lon": -90.5747299
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sanatorio Monte Real S.A."
+  }
+},
+{
+  "type": "way",
+  "id": 987207864,
+  "center": {
+    "lat": 14.6165448,
+    "lon": -90.6069040
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "clinic",
+    "name": "Fundabiem"
+  }
+},
+{
+  "type": "way",
+  "id": 987738713,
+  "center": {
+    "lat": 14.4581782,
+    "lon": -90.6004240
+  },
+  "tags": {
+    "addr:city": "Amatitlán, Aldea Llano de Animas",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Puesto de Salud Aldea Llano de Animas",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MSPAS",
+    "operator:wikidata": "Q6017425",
+    "operator:wikipedia": "es:Ministerio de Salud Pública y Asistencia Social (Guatemala)"
+  }
+},
+{
+  "type": "way",
+  "id": 988357955,
+  "center": {
+    "lat": 14.4825659,
+    "lon": -90.6263596
+  },
+  "tags": {
+    "addr:city": "Amatitlán",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Instituto Guatemalteco de Seguridad Social IGSS",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MSPAS",
+    "operator:wikidata": "Q6017425",
+    "operator:wikipedia": "es:Ministerio de Salud Pública y Asistencia Social (Guatemala)"
+  }
+},
+{
+  "type": "way",
+  "id": 988366452,
+  "center": {
+    "lat": 14.4816190,
+    "lon": -90.6262952
+  },
+  "tags": {
+    "addr:city": "Amatitlán",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional de Amatitlán"
+  }
+},
+{
+  "type": "way",
+  "id": 1106721609,
+  "center": {
+    "lat": 14.6104847,
+    "lon": -90.5442733
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Modular Zona 11 Instituto Guatemalteco de Seguridad Social"
+  }
+},
+{
+  "type": "way",
+  "id": 1125502212,
+  "center": {
+    "lat": 14.5285007,
+    "lon": -90.5906165
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sumédica / IGSS"
+  }
+},
+{
+  "type": "way",
+  "id": 1125891049,
+  "center": {
+    "lat": 14.5437392,
+    "lon": -90.5842030
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Labsur, S. A."
+  }
+},
+{
+  "type": "way",
+  "id": 1258438287,
+  "center": {
+    "lat": 14.6052400,
+    "lon": -90.5100474
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Herrera Llerandi"
+  }
+},
+{
+  "type": "way",
+  "id": 1360452705,
+  "center": {
+    "lat": 14.6130871,
+    "lon": -90.4827509
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dana Hospital y Clinicas Veterinarias"
+  }
+}
+
+  ]
+}

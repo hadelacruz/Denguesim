@@ -1,0 +1,109 @@
+id_hosp,nombre,cod_muni,lat,lon,camas,osm_id,camas_fuente,sector,es_hospital,atiende_dengue
+H001,Hospital Modular Zona 11 Instituto Guatemalteco de Seguridad Social,0101,14.6104847,-90.5442733,,way/1106721609,,IGSS,True,True
+H002,IGSS,0101,14.6082726,-90.5323381,,node/1999152313,,IGSS,True,True
+H003,IGSS,0101,14.605376,-90.5172166,,way/400066008,,IGSS,True,True
+H004,IGSS,0101,14.6038961,-90.5279929,,way/401308812,,IGSS,True,True
+H005,IGSS Camip 2,0101,14.6151747,-90.5110841,,way/401471533,,IGSS,True,True
+H006,IGSS De Jubilados,0101,14.6089411,-90.5331623,,node/4860498121,,IGSS,True,False
+H007,IGSS De Rehabilitación,0101,14.6069785,-90.5322731,,node/4860498122,,IGSS,True,False
+H008,IGSS Zona 6,0101,14.6513663,-90.4943685,,way/79842203,,IGSS,True,True
+H009,Igss de autonomía consulta externa de enfermedades,0101,14.6041067,-90.5278899,,node/11254244337,,IGSS,True,False
+H010,Igss zona 9 biopsias,0101,14.6050978,-90.5173082,,node/11254244438,,IGSS,True,False
+H011,"Pediatría de la Unidad Periférica del IGSS, zona 5",0101,14.6278996,-90.4951612,,way/363401513,,IGSS,True,True
+H012,Policlínicas del IGSS,0101,14.6318906,-90.5141211,,way/404292730,,IGSS,True,True
+H013,Hospital General de Accidentes IGSS 7-19,0108,14.643184,-90.5694793,,way/53542525,,IGSS,True,True
+H014,IGSS,0110,14.7161854,-90.6453046,,node/13885898047,,IGSS,True,True
+H015,Instituto Guatemalteco de Seguridad Social IGSS,0114,14.4825659,-90.6263596,,way/988357955,,IGSS,True,True
+H016,IGSS,0115,14.5152814,-90.5781187,,way/700247301,,IGSS,True,True
+H017,Sumédica / IGSS,0115,14.5285007,-90.5906165,,way/1125502212,,IGSS,True,True
+H018,IGSS,0116,14.4790969,-90.5362249,,node/4587671691,,IGSS,True,True
+H019,Hospital General San Juan de Dios,0101,14.6395204,-90.5209349,,way/405560125,,MSPAS,True,True
+H020,Hospital Nacional de Salud Mental Federico Mora,0101,14.6641215,-90.4782652,,node/2147082051,,MSPAS,True,False
+H021,Hospital Roosevelt,0101,14.6138099,-90.5423121,,way/81398329,,MSPAS,True,True
+H022,Hospital San Vicente,0101,14.6302656,-90.539599,,way/74187882,,MSPAS,True,True
+H023,Hospital Santa Margarita,0101,14.6384785,-90.5168824,,node/923010292,,MSPAS,True,True
+H024,Hospital Santa Rita,0101,14.6409184,-90.5187369,,way/405494188,,MSPAS,True,True
+H025,Hospital de Rehabilitación Doctor Jorge Von Ahn,0101,14.6371583,-90.5219174,,node/3610090088,,MSPAS,True,False
+H026,Hospital Nacional de Amatitlán,0114,14.481619,-90.6262952,,way/988366452,,MSPAS,True,True
+H027,Hospital Nacional Especializado de Villa Nueva,0115,14.5093654,-90.6180504,,node/6486850543,,MSPAS,True,True
+H028,Centro Hospitalario La Paz,0101,14.5856157,-90.5187318,,way/963962357,,privado_u_ong,True,True
+H029,Centro Hospitalario La Paz - Zona 10,0101,14.6105197,-90.5054691,,node/922956616,,privado_u_ong,True,True
+H030,Centro Médico,0101,14.6102177,-90.5098328,,way/400891291,,privado_u_ong,True,True
+H031,Clínicas Centro Médico II,0101,14.6105144,-90.510728,,way/400917746,,privado_u_ong,True,True
+H032,Hospital Angeles,0101,14.6344915,-90.5195133,,way/405498926,,privado_u_ong,True,True
+H033,Hospital Doctor Rodolfo Robles,0101,14.6072707,-90.5593807,,way/245726248,,privado_u_ong,True,True
+H034,Hospital Herrera Llerandi,0101,14.60524,-90.5100474,,way/1258438287,,privado_u_ong,True,True
+H035,Hospital Inside Health,0101,14.5927435,-90.5141597,,node/11190663037,,privado_u_ong,True,True
+H036,Hospital Los Cedros,0101,14.6460491,-90.5111504,,node/922963937,,privado_u_ong,True,True
+H037,Hospital Miraflores,0101,14.5926192,-90.5145677,,node/12954832795,,privado_u_ong,True,True
+H038,Hospital Novicentro,0101,14.6017913,-90.5626886,,node/613379529,,privado_u_ong,True,True
+H039,Hospital Privado La Asuncion,0101,14.6241309,-90.5035369,,node/923432057,,privado_u_ong,True,True
+H040,Hospital Privado Napoles,0101,14.6155059,-90.5106421,,way/401630884,,privado_u_ong,True,True
+H041,Hospital Universitario Esperanza,0101,14.6052826,-90.5090002,,way/400891972,,privado_u_ong,True,True
+H042,Hospital Virgen de Loreto,0101,14.5727038,-90.534113,,way/406679593,,privado_u_ong,True,True
+H043,Hospital Yarden,0101,14.6233668,-90.547861,,way/404454513,,privado_u_ong,True,True
+H044,Hospital de Diabetes,0101,14.6302835,-90.5543034,,way/404466664,,privado_u_ong,True,False
+H045,Instituto de Cancerología y Hospital Doctor Bernatdeo del Valle S - INCAN,0101,14.6163569,-90.5410404,,node/3986834693,,privado_u_ong,True,False
+H046,Multimédica Vista Hermosa,0101,14.5822387,-90.4848134,,way/303213462,,privado_u_ong,True,True
+H047,Sanatorio Hermano Pedro,0101,14.6032316,-90.5596858,,way/41405260,,privado_u_ong,True,True
+H048,Sanatorio Las Majadas,0101,14.6259673,-90.5594558,,way/961804932,,privado_u_ong,True,True
+H049,Sanatorio Nuestra Señora de Fátima,0101,14.602297,-90.5424728,,node/923463129,,privado_u_ong,True,True
+H050,Sanatorio Nuestra Señora del Pilar,0101,14.6097167,-90.4989934,,way/233568184,,privado_u_ong,True,True
+H051,Sanatorio los Pinos,0101,14.572446,-90.5260848,,node/775889012,,privado_u_ong,True,True
+H052,Clínicas Multimédica,0102,14.5741238,-90.4831138,,node/922998738,,privado_u_ong,True,True
+H053,Hospital Concepción,0102,14.5465033,-90.4549583,,way/476397402,,privado_u_ong,True,True
+H054,Centro Médico Renacer,0108,14.6296855,-90.5748495,,way/921490108,,privado_u_ong,True,True
+H055,Hospital infantil Juan Pablo II,0108,14.6392896,-90.5869828,,way/247307069,,privado_u_ong,True,True
+H056,Sanatorio Monte Real S.A.,0108,14.6490199,-90.5747299,,way/966589641,,privado_u_ong,True,True
+H057,Sanatorio Monte Verde,0108,14.649286,-90.5793843,,way/955150316,,privado_u_ong,True,True
+H058,Sanatorio Montserrat,0108,14.6403835,-90.5701762,,way/700961318,,privado_u_ong,True,True
+H059,Hospital,0115,14.52101,-90.5747999,,node/7058767491,,privado_u_ong,True,True
+H060,Hospital Villa San Francisco,0115,14.5268209,-90.5884624,,node/7058767486,,privado_u_ong,True,True
+H061,Sanatorio Belén,0115,14.5298672,-90.5872177,,node/10286865361,,privado_u_ong,True,True
+H062,Centro Medico,0116,14.4802018,-90.5334879,,node/2521303877,,privado_u_ong,True,True
+H063,Hospital y Clínicas Medica Centro S.A.,0117,14.5038812,-90.5650669,,way/403124522,,privado_u_ong,True,True
+H064,Sanatorio El Frutal,0117,14.5253338,-90.5517898,,node/10017098156,,privado_u_ong,True,True
+H065,Unidad Nacional De Oncologia Pediatrica,0101,14.6118249,-90.543872,,node/4334398324,,MSPAS,False,False
+H066,Puesto de Salud Aldea Llano de Animas,0114,14.4581782,-90.600424,,way/987738713,,MSPAS,False,False
+H067,(sin nombre en OSM),0101,14.6052382,-90.5099577,,way/400891971,,privado_u_ong,False,False
+H068,"APROFAM, zona 5",0101,14.6235456,-90.5028557,,node/3610144954,,privado_u_ong,False,False
+H069,APROFAN,0101,14.6421189,-90.5205337,,node/5468094521,,privado_u_ong,False,False
+H070,Area de Salud Guatemala Central,0101,14.6302095,-90.5412477,,way/406862685,,privado_u_ong,False,False
+H071,Centro Clínico Urgencias Médicas,0101,14.6236932,-90.55095,,node/3707166273,,privado_u_ong,False,False
+H072,Centro de Especialidades Oculares,0101,14.599301,-90.522597,,node/603314270,,privado_u_ong,False,False
+H073,Centro de Salud,0101,14.6258701,-90.4511113,,node/2410124789,,privado_u_ong,False,False
+H074,Centro de Salud Santa Elena,0101,14.6655226,-90.4714698,,way/117683083,,privado_u_ong,False,False
+H075,Centro de Salud Zona 1,0101,14.634017,-90.5107544,,node/5045648976,,privado_u_ong,False,False
+H076,"Centro de Salud, zona 3",0101,14.62572,-90.5283731,,node/4423012290,,privado_u_ong,False,False
+H077,Dana Hospital y Clinicas Veterinarias,0101,14.6130871,-90.4827509,,way/1360452705,,privado_u_ong,False,False
+H078,Fundación Pediátrica Guatemalteca,0101,14.6478838,-90.5146857,,node/1466215604,,privado_u_ong,False,False
+H079,Liga Guatemalteca del Corazón,0101,14.5968932,-90.5555776,,node/775902343,,privado_u_ong,False,False
+H080,Liga Guatemalteca del Corazón,0101,14.63467,-90.5182023,,node/6704578085,,privado_u_ong,False,False
+H081,Liga Guatemalteca del Corazón - Central.,0101,14.6350431,-90.5185171,,node/6704578185,,privado_u_ong,False,False
+H082,Oftalmó,0101,14.6082038,-90.5102378,,node/11254244437,,privado_u_ong,False,False
+H083,UNICAR,0101,14.6114055,-90.5434654,,node/4945112222,,privado_u_ong,False,False
+H084,Visión Integral,0101,14.6065977,-90.523812,,node/4334394300,,privado_u_ong,False,False
+H085,Zher Medical,0101,14.6116668,-90.5096908,,node/12920233463,,privado_u_ong,False,False
+H086,BlueMedical,0102,14.5501585,-90.454399,,node/13541951908,,privado_u_ong,False,False
+H087,Centro de Atención Permanente,0102,14.572193,-90.4972245,,way/746722910,,privado_u_ong,False,False
+H088,SantaCatarina+,0102,14.5695072,-90.4946465,,way/747924515,,privado_u_ong,False,False
+H089,Luz De Vida,0103,14.5457093,-90.4100681,,way/403899269,,privado_u_ong,False,False
+H090,CREFIRE,0108,14.6101121,-90.5984054,,node/10038466557,,privado_u_ong,False,False
+H091,Centro de Diagnóstico Ebenezer,0108,14.6406595,-90.5697427,,way/700961317,,privado_u_ong,False,False
+H092,Centro de Salud,0108,14.6667084,-90.5690331,,way/406623588,,privado_u_ong,False,False
+H093,Clínicas,0108,14.6647937,-90.5687574,,node/2125888877,,privado_u_ong,False,False
+H094,Fundabiem,0108,14.6165448,-90.606904,,way/987207864,,privado_u_ong,False,False
+H095,Hopsital Oftalmológico Municipal de Mixco,0108,14.6293489,-90.6050011,,way/406322639,,privado_u_ong,False,False
+H096,Polimédica S.C.,0108,14.6081718,-90.586529,,way/406213988,,privado_u_ong,False,False
+H097,Centro de Salud San Pedro Sacatepéquez,0109,14.6872284,-90.6469171,,node/5609773641,,privado_u_ong,False,False
+H098,Centro De Salud,0110,14.7196708,-90.6432323,,node/13885898035,,privado_u_ong,False,False
+H099,Unidad Asistencial,0110,14.7228346,-90.6431444,,node/294933619,,privado_u_ong,False,False
+H100,(sin nombre en OSM),0114,14.471791,-90.6387603,,node/4923344722,,privado_u_ong,False,False
+H101,(sin nombre en OSM),0115,14.5210083,-90.5747956,,way/755750933,,privado_u_ong,False,False
+H102,Centro de Salud,0115,14.5257077,-90.5875738,,node/7058767497,,privado_u_ong,False,False
+H103,Hospicio,0115,14.5629931,-90.6394908,,node/4529431489,,privado_u_ong,False,False
+H104,"Labsur, S. A.",0115,14.5437392,-90.584203,,way/1125891049,,privado_u_ong,False,False
+H105,Patronato del Diabetico,0115,14.533114,-90.5847542,,node/10286919275,,privado_u_ong,False,False
+H106,Prosaf,0115,14.5260657,-90.5881219,,node/10254080143,,privado_u_ong,False,False
+H107,Centro de Salud Villa Canales,0116,14.4855898,-90.5343335,,way/403681321,,privado_u_ong,False,False
+H108,Blue Medical,0117,14.5206332,-90.5645703,,node/7058767510,,privado_u_ong,False,False
