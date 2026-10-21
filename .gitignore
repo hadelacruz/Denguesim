@@ -1,0 +1,28 @@
+# --- Datos crudos pesados (se regeneran con: python src/datos/descargar.py) ---
+data/raw/censo/*.zip
+data/raw/censo/extraido/
+data/raw/geo/*.tif
+data/raw/geo/*.pbf
+data/raw/casos/*.zip
+data/raw/**/*.part
+# Cachés intermedias
+data/interim/
+cache/
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# Sistema
+.DS_Store
+Thumbs.db
+data/processed/red_vial_guatemala.gpkg
+# Proyección SIGSA (37 MB): se regenera con descargar.py
+data/raw/censo/*.csv
+# Archivo suelto descargado por accidente desde el navegador (no lo usa el pipeline)
+La_Aurora.csv
+.pytest_cache/
+# Documento interno del equipo (no se publica)
+data/estado_de_datos.md

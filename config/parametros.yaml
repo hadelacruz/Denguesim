@@ -1,0 +1,300 @@
+# =============================================================================
+# DengueSim GT · Fuente única de parámetros
+# =============================================================================
+# Regla del proyecto: ningún parámetro se escribe "quemado" en el código.
+# Cada parámetro tiene:
+#   valor        valor nominal que usa el modelo
+#   rango        [mínimo, máximo] razonable según la literatura (para ±20 %,
+#                Monte Carlo y robustez)
+#   unidad       unidades del valor
+#   referencia   clave de la sección `referencias` al final
+#   nota         supuestos o advertencias
+# Los parámetros marcados `calibrar: true` son valores iniciales: los módulos de
+# dinámica de sistemas y sistema de salud los ajustan contra datos y no deben
+# tomarse como medidos.
+# Los parámetros con `fuente: datos` se estimaron con los datos de este repo.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# 0. Población
+# ---------------------------------------------------------------------------
+poblacion:
+  anio_referencia:
+    valor: 2024
+    descripcion: Año de la proyección INE/SIGSA que se usa como N de cada municipio en poblacion.csv
+    nota: La serie completa 2015-2026 está en poblacion_anual.csv por si se quiere N variable por año.
+
+# ---------------------------------------------------------------------------
+# 1. Transmisión humano–vector (Ross–Macdonald, SEIR humano + SEI vector)
+# ---------------------------------------------------------------------------
+transmision:
+  a:
+    valor: 0.5
+    rango: [0.3, 1.0]
+    unidad: picaduras / mosquito hembra / día
+    descripcion: Tasa de picadura sobre humanos
+    referencia: scott2000; andraud2012
+    nota: Aedes aegypti se alimenta varias veces por ciclo gonotrófico; en campo se midieron ~0.63–0.76 ingestas de sangre humana por día (Scott 2000). Disminuye con temperaturas < 22 °C (mordecai2017).
+  b:
+    valor: 0.5
+    rango: [0.1, 0.75]
+    unidad: probabilidad por picadura
+    descripcion: Probabilidad de transmisión mosquito infeccioso → humano susceptible
+    referencia: newton_reiter1992; andraud2012
+    calibrar: true
+  c:
+    valor: 0.5
+    rango: [0.25, 0.9]
+    unidad: probabilidad por picadura
+    descripcion: Probabilidad de transmisión humano infeccioso → mosquito susceptible
+    referencia: newton_reiter1992; andraud2012
+    calibrar: true
+  sigma_h:
+    valor: 0.1695   # 1 / 5.9 días
+    rango: [0.10, 0.333]   # 1/10 a 1/3 días
+    unidad: 1 / día
+    descripcion: Tasa de paso E→I en humanos (1 / periodo de incubación intrínseco)
+    referencia: chan_johansson2012
+    nota: Periodo de incubación intrínseco medio 5.9 días; el 95 % entre 3 y 10 días.
+  sigma_v:
+    valor: 0.0667   # 1 / 15 días (25 °C)
+    rango: [0.03, 0.154]   # 1/33 a 1/6.5 días
+    unidad: 1 / día
+    descripcion: Tasa de paso E→I en mosquitos (1 / periodo de incubación extrínseco)
+    referencia: chan_johansson2012
+    nota: EIP medio 15 días a 25 °C (95 % entre 5 y 33) y 6.5 días a 30 °C. En la Ciudad de Guatemala (~1 500 m s.n.m., ~19–23 °C) el EIP es largo; usar el extremo lento del rango o hacerlo depender de temp_c de clima_semanal.csv.
+  gamma:
+    valor: 0.2   # 1 / 5 días
+    rango: [0.143, 0.25]   # 1/7 a 1/4 días
+    unidad: 1 / día
+    descripcion: Tasa de recuperación humana (1 / periodo virémico infeccioso)
+    referencia: gubler1998; nishiura_halstead2007
+  mu:
+    valor: 0.0714   # 1 / 14 días
+    rango: [0.024, 0.125]   # vida media de 42 a 8 días
+    unidad: 1 / día
+    descripcion: Mortalidad diaria del mosquito adulto (sin fumigación)
+    referencia: brady2013; focks1993
+    nota: Supervivencia diaria en campo ~0.87–0.95. μ aparece dos veces en el denominador de R0, por eso el control vectorial es tan efectivo.
+  m:
+    valor: 2.0
+    rango: [0.5, 5.0]
+    unidad: mosquitos hembra / humano
+    descripcion: Razón vector–hospedero inicial N_v / N_h
+    referencia: andraud2012
+    calibrar: true
+  temperatura_optima_r0:
+    valor: 29.0
+    rango: [18.0, 35.0]
+    unidad: °C
+    descripcion: Temperatura donde R0 es máximo para dengue con Ae. aegypti; fuera del rango la transmisión cae a ~0
+    referencia: mordecai2017
+    nota: Útil para modular a, b, c, σv y μ con temp_c de clima_semanal.csv si se desea.
+
+# ---------------------------------------------------------------------------
+# 2. Ciclo acuático y lluvia (retardo de tercer orden huevo → larva → pupa)
+# ---------------------------------------------------------------------------
+ciclo_vector:
+  tau_desarrollo:
+    valor: 12.0
+    rango: [8.0, 20.0]
+    unidad: días
+    descripcion: Tiempo total huevo → adulto (cada stock usa tau/3)
+    referencia: christophers1960; focks1993
+    nota: ~8–10 días a 26–28 °C; se alarga a ~2–3 semanas por debajo de 20 °C.
+  lambda_max:
+    valor: null
+    unidad: mosquitos / día
+    descripcion: Reclutamiento máximo de adultos Λ; se fija con m·N_h·μ en equilibrio
+    calibrar: true
+  lluvia_referencia_mm_semana:
+    valor: null
+    fuente: datos
+    unidad: mm / semana
+    descripcion: Lluvia semanal media de la temporada lluviosa (normaliza Λ(t) = Λmax · lluvia / referencia)
+  rezago_lluvia_semanas:
+    valor: 2
+    rango: [1, 4]
+    unidad: semanas
+    descripcion: Rezago entre lluvia y emergencia de adultos observado en la literatura
+    referencia: lowe2011
+    calibrar: true
+
+# ---------------------------------------------------------------------------
+# 3. Vigilancia y observación
+# ---------------------------------------------------------------------------
+observacion:
+  factor_reporte:
+    valor: 0.2
+    rango: [0.05, 0.5]
+    unidad: fracción de infecciones sintomáticas notificadas
+    descripcion: Subregistro (casos notificados / casos reales)
+    referencia: shepard2011; stanaway2016
+    calibrar: true
+  retardo_notificacion:
+    valor: 10.0
+    rango: [5.0, 21.0]
+    unidad: días
+    descripcion: Retardo medio de primer orden entre inicio de síntomas y notificación
+    referencia: bastos2019
+    nota: No hay medición publicada para Guatemala; rango tomado de sistemas de vigilancia de dengue en las Américas.
+
+# ---------------------------------------------------------------------------
+# 4. Sistema de salud
+# ---------------------------------------------------------------------------
+salud:
+  fraccion_grave:
+    valor: null
+    fuente: datos
+    unidad: casos graves / casos registrados
+    descripcion: Proporción de dengue grave en el departamento de Guatemala (SIGSA)
+  fraccion_hospitalizada:
+    valor: 0.10
+    rango: [0.05, 0.25]
+    unidad: hospitalizados / casos notificados
+    descripcion: Casos notificados que requieren cama (incluye dengue con signos de alarma)
+    referencia: who2009; shepard2011
+    calibrar: true
+  estancia_media:
+    valor: 4.0
+    rango: [3.0, 6.0]
+    unidad: días
+    descripcion: Duración media de la estancia hospitalaria por dengue
+    referencia: suaya2009; who2009
+  weibull_k:
+    valor: 2.0
+    rango: [1.5, 3.0]
+    unidad: adimensional
+    descripcion: Forma de la Weibull de estancia (k > 1 → la probabilidad de alta crece con los días)
+    nota: Supuesto de modelado; con k y la media se obtiene la escala λ = media / Γ(1 + 1/k).
+
+# ---------------------------------------------------------------------------
+# 5. Cadena de insumos (dI/dt = P/τ − D, dP/dt = α(I* − I) − P/τ)
+# ---------------------------------------------------------------------------
+insumos:
+  alpha:
+    valor: 0.15
+    rango: [0.05, 0.5]
+    unidad: 1 / día
+    descripcion: Fracción de la brecha de inventario (I* − I) que se pide por día
+    referencia: sterman2000
+    nota: Rango razonable de política, no medido. Monte Carlo sugerido α ~ Normal(0.15, 0.05).
+  tau:
+    valor: 7.0
+    rango: [3.0, 21.0]
+    unidad: días
+    descripcion: Tiempo de entrega de pedidos
+    referencia: sterman2000
+    nota: Monte Carlo sugerido τ ~ Uniforme(3, 21). Estabilidad si α·τ < π/2.
+  cobertura_objetivo:
+    valor: 14.0
+    rango: [7.0, 30.0]
+    unidad: días de demanda
+    descripcion: Inventario deseado I* expresado en días de demanda esperada
+    referencia: sterman2000
+
+# ---------------------------------------------------------------------------
+# 6. Movilidad: modelo gravitacional F_ij = G · P_i^α · P_j^β / d_ij^γ
+# ---------------------------------------------------------------------------
+gravitacional:
+  alpha:
+    valor: 1.0
+    rango: [0.46, 1.0]
+    unidad: adimensional
+    descripcion: Exponente de la población de origen
+    referencia: zipf1946; balcan2009
+    nota: Balcan (2009) ajustó 0.46 con datos de 29 países (con decaimiento exponencial, escala ≤ 300 km).
+  beta:
+    valor: 1.0
+    rango: [0.64, 1.0]
+    unidad: adimensional
+    descripcion: Exponente de la población de destino
+    referencia: zipf1946; balcan2009
+  gamma:
+    valor: 2.0
+    rango: [1.0, 3.0]
+    unidad: adimensional
+    descripcion: Exponente de la distancia por carretera
+    referencia: zipf1946; viboud2006
+  fraccion_viaja:
+    valor: null
+    fuente: datos
+    unidad: fracción de la población por día
+    descripcion: Fracción de residentes que sale de su municipio en un día típico; fija la constante G
+  variable_distancia:
+    valor: tiempo_min
+    descripcion: Usar "dist_km" o "tiempo_min" de distancias.csv como d_ij
+
+# ---------------------------------------------------------------------------
+# 7. Zona piloto (ABM) y autómata celular de mosquitos
+# ---------------------------------------------------------------------------
+zona_piloto:
+  cod_muni:
+    valor: null
+    fuente: datos
+    descripcion: Municipio piloto de alta densidad para el ABM
+  celda_m:
+    valor: 500
+    unidad: metros
+    descripcion: Lado de la celda de la grilla piloto (agregada desde WorldPop a 100 m)
+
+automata:
+  semanas:
+    valor: null
+    fuente: datos
+    descripcion: Semanas simuladas (toda la serie de clima disponible)
+  r_crecimiento:
+    valor: 0.6
+    rango: [0.3, 1.0]
+    unidad: 1 / semana
+    descripcion: Crecimiento logístico máximo de la densidad cuando la lluvia es igual a la de referencia
+    nota: Parámetro de la regla del autómata (supuesto de modelado, calibrar contra la estacionalidad de casos).
+  muerte_semanal:
+    valor: 0.5   # ≈ 1 − exp(−7·μ) con μ = 1/14
+    rango: [0.15, 0.6]
+    unidad: fracción / semana
+    descripcion: Fracción de mosquitos que muere por semana
+    referencia: brady2013
+  difusion_moore:
+    valor: 0.2
+    rango: [0.05, 0.4]
+    unidad: fracción / semana
+    descripcion: Fracción de la densidad que se mueve a las 8 celdas vecinas (Moore)
+    nota: Ae. aegypti vuela típicamente < 200 m (harrington2005), por eso la difusión entre celdas de 500 m es baja.
+    referencia: harrington2005
+  capacidad_por_hab:
+    valor: 2.0
+    unidad: mosquitos / habitante
+    descripcion: Capacidad de carga K de cada celda proporcional a su población (criaderos domésticos)
+    referencia: andraud2012
+  peso_almacena_agua:
+    valor: 1.0
+    rango: [0.0, 2.0]
+    unidad: adimensional
+    descripcion: Aumento relativo de K por cada unidad de proporción de hogares que almacenan agua en la celda
+
+# ---------------------------------------------------------------------------
+# Referencias
+# ---------------------------------------------------------------------------
+referencias:
+  andraud2012: "Andraud, M., Hens, N., Marais, C. & Beutels, P. (2012). Dynamic epidemiological models for dengue transmission: a systematic review of structural approaches. PLoS ONE, 7(11), e49085."
+  balcan2009: "Balcan, D. et al. (2009). Multiscale mobility networks and the spatial spreading of infectious diseases. PNAS, 106(51), 21484–21489."
+  bastos2019: "Bastos, L. S. et al. (2019). A modelling approach for correcting reporting delays in disease surveillance data. Statistics in Medicine, 38(22), 4363–4377."
+  brady2013: "Brady, O. J. et al. (2013). Modelling adult Aedes aegypti and Aedes albopictus survival at different temperatures in laboratory and field settings. Parasites & Vectors, 6, 351."
+  chan_johansson2012: "Chan, M. & Johansson, M. A. (2012). The incubation periods of dengue viruses. PLoS ONE, 7(11), e50972."
+  christophers1960: "Christophers, S. R. (1960). Aedes aegypti (L.), the yellow fever mosquito: its life history, bionomics and structure. Cambridge University Press."
+  focks1993: "Focks, D. A., Haile, D. G., Daniels, E. & Mount, G. A. (1993). Dynamic life table model for Aedes aegypti: analysis of the literature and model development. Journal of Medical Entomology, 30(6), 1003–1017."
+  gubler1998: "Gubler, D. J. (1998). Dengue and dengue hemorrhagic fever. Clinical Microbiology Reviews, 11(3), 480–496."
+  harrington2005: "Harrington, L. C. et al. (2005). Dispersal of the dengue vector Aedes aegypti within and between rural communities. American Journal of Tropical Medicine and Hygiene, 72(2), 209–220."
+  lowe2011: "Lowe, R. et al. (2011). Spatio-temporal modelling of climate-sensitive disease risk: towards an early warning system for dengue in Brazil. Computers & Geosciences, 37(3), 371–381."
+  mordecai2017: "Mordecai, E. A. et al. (2017). Detecting the impact of temperature on transmission of Zika, dengue, and chikungunya using mechanistic models. PLoS Neglected Tropical Diseases, 11(4), e0005568."
+  newton_reiter1992: "Newton, E. A. C. & Reiter, P. (1992). A model of the transmission of dengue fever with an evaluation of the impact of ultra-low volume (ULV) insecticide applications on dengue epidemics. American Journal of Tropical Medicine and Hygiene, 47(6), 709–720."
+  nishiura_halstead2007: "Nishiura, H. & Halstead, S. B. (2007). Natural history of dengue virus (DENV)-1 and DENV-4 infections: reanalysis of classic studies. Journal of Infectious Diseases, 195(7), 1007–1013."
+  scott2000: "Scott, T. W. et al. (2000). Longitudinal studies of Aedes aegypti (Diptera: Culicidae) in Thailand and Puerto Rico: blood feeding frequency. Journal of Medical Entomology, 37(1), 89–101."
+  shepard2011: "Shepard, D. S., Coudeville, L., Halasa, Y. A., Zambrano, B. & Dayan, G. H. (2011). Economic impact of dengue illness in the Americas. American Journal of Tropical Medicine and Hygiene, 84(2), 200–207."
+  stanaway2016: "Stanaway, J. D. et al. (2016). The global burden of dengue: an analysis from the Global Burden of Disease Study 2013. The Lancet Infectious Diseases, 16(6), 712–723."
+  sterman2000: "Sterman, J. (2000). Business Dynamics: Systems Thinking and Modeling for a Complex World. McGraw-Hill. Caps. 17–18 (cadenas de suministro y oscilación)."
+  suaya2009: "Suaya, J. A. et al. (2009). Cost of dengue cases in eight countries in the Americas and Asia: a prospective study. American Journal of Tropical Medicine and Hygiene, 80(5), 846–855."
+  viboud2006: "Viboud, C. et al. (2006). Synchrony, waves, and spatial hierarchies in the spread of influenza. Science, 312(5772), 447–451."
+  who2009: "World Health Organization (2009). Dengue: guidelines for diagnosis, treatment, prevention and control. WHO, Ginebra."
+  zipf1946: "Zipf, G. K. (1946). The P1 P2 / D hypothesis: on the intercity movement of persons. American Sociological Review, 11(6), 677–686."

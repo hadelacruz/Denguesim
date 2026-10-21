@@ -1,0 +1,20 @@
+# Módulo de datos (Juan Diego). Versiones con las que se generaron las tablas.
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+pyyaml==6.0.3
+epiweeks==2.4.0
+openpyxl==3.1.5
+pdfplumber==0.11.10
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+rasterio==1.5.2
+rasterstats==0.21.0
+networkx==3.6.1
+osmnx==2.1.1
+pyrosm==0.23.0
+matplotlib==3.11.2
+imageio==2.37.4
+pytest
