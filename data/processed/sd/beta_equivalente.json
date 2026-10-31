@@ -1,0 +1,11 @@
+{
+  "R0": 1.9959,
+  "R0_cuadrado_humano_a_humano": 3.9837,
+  "gamma": 0.2,
+  "beta_eq": 0.7967,
+  "beta_s": 0.942264,
+  "m": 2.0,
+  "mu": 0.0714,
+  "fuente_beta_s": "calibracion.json (A6)",
+  "nota": "β_eq = R0²·γ, en 1/día. R0 en temporada lluviosa (m = m_base); fuera de ella m es menor."
+}
