@@ -1,0 +1,24 @@
+{
+  "mu_h_por_dia": 3.7530493525989866e-05,
+  "esperanza_vida_anios": 73.0,
+  "Nh": 3557909.0,
+  "error_conservacion": 5.960464477539063e-08,
+  "lluvia_real": {
+    "correlacion_simulado_observado": -0.169,
+    "total_simulado": 141252.0,
+    "total_observado": 51482.0
+  },
+  "ciclo_medio": {
+    "cerrada": {
+      "cambio_max_entre_anios": 0.054,
+      "ih_minimo": 14.175,
+      "endemica": false
+    },
+    "abierta": {
+      "cambio_max_entre_anios": 0.0187,
+      "ih_minimo": 31.722,
+      "endemica": true
+    }
+  },
+  "nota": "Parámetros de la calibración 2023 (A6) para todos los años; Nh constante (población 2021). Cada año = 52 semanas."
+}
