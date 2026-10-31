@@ -274,6 +274,203 @@ automata:
     descripcion: Aumento relativo de K por cada unidad de proporción de hogares que almacenan agua en la celda
 
 # ---------------------------------------------------------------------------
+# 8. Redes de movilidad (Daniel · src/redes/)
+# ---------------------------------------------------------------------------
+# Todos son supuestos del modelo (sin referencia bibliográfica propia).
+redes:
+  umbrales:
+    valor: [0, 10, 50, 100]
+    unidad: personas / día
+    descripcion: Umbrales de flujo para construir la red (arista solo si flujo_diario >= umbral)
+    nota: Supuesto del modelo. La red gravitacional con umbral 0 es un grafo completo (272 aristas).
+  umbral_comparacion:
+    valor: 100
+    unidad: personas / día
+    descripcion: Umbral de la red real que se compara contra ER, BA y WS (deja 76 aristas dirigidas)
+    nota: Supuesto del modelo.
+  n_repeticiones:
+    valor: 100
+    unidad: redes por tipo
+    descripcion: Repeticiones de cada red aleatoria (ER, BA, WS)
+    nota: Supuesto del modelo.
+  ws_p:
+    valor: 0.1
+    rango: [0.01, 0.3]
+    unidad: probabilidad
+    descripcion: Probabilidad de recableado de Watts–Strogatz
+    nota: Supuesto del modelo (valor típico de régimen de mundo pequeño).
+  efecto_fumigacion:
+    valor: 0.5
+    rango: [0.3, 0.7]
+    unidad: fracción
+    descripcion: Reducción de β en los municipios fumigados (intervenciones de red)
+    nota: Supuesto del modelo.
+  k_max:
+    valor: 5
+    unidad: municipios
+    descripcion: Número máximo de municipios fumigados en intervenciones.py
+    nota: Supuesto del modelo.
+  sorteos_aleatorios:
+    valor: 200
+    unidad: sorteos
+    descripcion: Sorteos de la estrategia de fumigación aleatoria para cada k
+    nota: Supuesto del modelo.
+
+# ---------------------------------------------------------------------------
+# 9. Modelo basado en agentes (Daniel · src/abm/)
+# ---------------------------------------------------------------------------
+abm:
+  escala_agentes:
+    valor: 25
+    rango: [1, 100]
+    unidad: personas / agente
+    descripcion: Personas que representa cada agente (25 → ~5 060 agentes en Amatitlán)
+    nota: Supuesto del modelo para que las corridas terminen hoy; bajarlo después.
+  anio:
+    valor: 2023
+    unidad: año
+    descripcion: Año simulado (mosquitos de ca_mosquitos, población por edad e incidencia de destinos)
+  semana_inicio:
+    valor: 18
+    unidad: semana epidemiológica
+    descripcion: Semana en que empieza la simulación del ABM
+  dias_simulacion:
+    valor: 200
+    unidad: días
+    descripcion: Duración de cada corrida del ABM
+  infectados_iniciales:
+    valor: 5
+    rango: [1, 20]
+    unidad: agentes
+    descripcion: Agentes en E al inicio de la corrida
+    nota: Supuesto del modelo.
+  escala_mosquitos:
+    valor: 1.2542   # calibrado en src/abm/corridas.py (D12)
+    unidad: multiplicador de densidad / población de la celda
+    descripcion: m_c = escala_mosquitos · densidad_c / poblacion_c (mosquitos por persona)
+    calibrar: true
+    nota: Calibrado en src/abm/corridas.py contra la incidencia notificada de Amatitlán en abm.anio.
+  fraccion_picaduras_dia:
+    valor: 0.5
+    rango: [0.3, 0.7]
+    unidad: fracción
+    descripcion: Fracción de las picaduras que ocurre en la fase día (el resto, en la noche en casa)
+    nota: Supuesto del modelo.
+  efecto_almacena_agua:
+    valor: 0.3
+    rango: [0.0, 0.6]
+    unidad: fracción
+    descripcion: Aumento relativo de la exposición nocturna si el hogar almacena agua
+    nota: Supuesto del modelo.
+  prob_busca_atencion_base:
+    valor: 0.5
+    rango: [0.3, 0.7]
+    unidad: probabilidad
+    descripcion: Probabilidad de buscar atención con índice de riqueza 0
+    nota: Supuesto del modelo.
+  efecto_riqueza_atencion:
+    valor: 0.1
+    rango: [0.0, 0.2]
+    unidad: probabilidad / desv. estándar del índice de riqueza
+    descripcion: Cambio de la probabilidad de buscar atención por unidad del índice de riqueza
+    nota: Supuesto del modelo.
+  bootstrap_B:
+    valor: 2000
+    unidad: remuestreos
+    descripcion: Remuestreos del bootstrap no paramétrico (IC 95 % por percentiles)
+  corridas_iniciales:
+    valor: 20
+    unidad: corridas
+    descripcion: Corridas con las que empieza el criterio de paro
+  corridas_incremento:
+    valor: 10
+    unidad: corridas
+    descripcion: Corridas que se agregan en cada iteración del criterio de paro
+  tolerancia_ic:
+    valor: 0.05
+    unidad: fracción
+    descripcion: Cambio relativo máximo de los extremos del IC para detenerse (regla de clase del 5 %)
+  max_corridas:
+    valor: 100
+    unidad: corridas
+    descripcion: Máximo de corridas del ABM
+
+# ---------------------------------------------------------------------------
+# 10. Dinámica de sistemas (Alex · src/sd/)
+# ---------------------------------------------------------------------------
+# Claves equivalentes que YA existían y se usan en lugar de duplicarlas:
+#   sd.m_base            → transmision.m                  (mosquitos / humano en temporada)
+#   sd.tau_desarrollo    → ciclo_vector.tau_desarrollo    (huevo → adulto)
+#   sd.tau_notificacion  → observacion.retardo_notificacion
+sd:
+  anio_base:
+    valor: 2023
+    unidad: año
+    descripcion: Año de calibración y de los escenarios (casos_esperados.csv)
+  lluvia_minima:
+    valor: 0.1
+    rango: [0.05, 0.3]
+    unidad: adimensional (lluvia_rel)
+    descripcion: Lluvia relativa mínima que mantiene criaderos en la época seca (evita la extinción del vector)
+    nota: Supuesto del modelo.
+  tau_respuesta:
+    valor: 14.0
+    rango: [7.0, 28.0]
+    unidad: días
+    descripcion: Retardo de primer orden entre los casos notificados y la intensidad de fumigación
+    nota: Supuesto del modelo.
+  ganancia_fumigacion:
+    valor: 0.01
+    unidad: aumento relativo de μ por caso notificado diario por 100 000 hab.
+    descripcion: Ganancia del loop B (fumigación endógena)
+    nota: Supuesto del modelo, a ajustar.
+  fumigacion_max:
+    valor: 1.0
+    unidad: aumento relativo de μ
+    descripcion: Tope de la fumigación endógena (μ como máximo se duplica)
+    nota: Supuesto del modelo.
+  k_fumigacion:
+    valor: 3
+    unidad: municipios
+    descripcion: Municipios con fumigación preventiva en los escenarios
+    nota: Supuesto del modelo.
+  efecto_fumigacion_preventiva:
+    valor: 0.5
+    rango: [0.3, 0.7]
+    unidad: aumento relativo de μ
+    descripcion: μ_i · (1 + efecto) en los municipios fumigados de forma preventiva
+    nota: Supuesto del modelo.
+  efecto_criaderos:
+    valor: 0.3
+    rango: [0.2, 0.5]
+    unidad: fracción
+    descripcion: Reducción del reclutamiento Λ por eliminación de criaderos
+    nota: Supuesto del modelo.
+  expuestos_iniciales:
+    valor: 10.0
+    rango: [1.0, 1000.0]
+    unidad: personas
+    descripcion: Humanos expuestos (Eh) el día 0 del año base, valor inicial antes de calibrar (I0 de A6)
+    calibrar: true
+    nota: Supuesto del modelo; calibracion.py lo reemplaza por el valor ajustado.
+  n_corridas:
+    valor: 30
+    unidad: corridas por escenario
+    descripcion: Corridas de cada escenario en casos_esperados.csv
+  n_muestras_validacion:
+    valor: 1000
+    unidad: juegos de parámetros
+    descripcion: Muestras de la normal multivariada de la calibración para las bandas IC 95 %
+  paso_rk4:
+    valor: 0.1
+    unidad: días
+    descripcion: Paso h del RK4 escrito a mano (Laboratorio 3)
+  paso_rk4_rapido:
+    valor: 0.25
+    unidad: días
+    descripcion: Paso del RK4 en calibración, validación y escenarios (solo si A4 muestra que el pico cambia < 1 %)
+
+# ---------------------------------------------------------------------------
 # Referencias
 # ---------------------------------------------------------------------------
 referencias:

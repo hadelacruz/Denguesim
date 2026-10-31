@@ -26,3 +26,4 @@ La_Aurora.csv
 .pytest_cache/
 # Documento interno del equipo (no se publica)
 data/estado_de_datos.md
+data/processed/abm/*.log

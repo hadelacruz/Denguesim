@@ -2,5 +2,18 @@
 base: 20261020
 datos:
   muestra_hogares_censo: 20181   # src/datos/censo.py: muestra del 10 % de hogares (atributos_hogar.csv)
-abm: {}        # una semilla por corrida del ABM
+abm:            # una semilla por corrida del ABM (derivadas de base con SeedSequence)
+  base: 20261103             # src/abm/corridas.py: SeedSequence(base).spawn(max_corridas)[m]
+  inicializacion: 20261104   # pruebas y validación de atributos (src/abm/inicializacion.py)
+  calibracion: 20261105      # src/abm/corridas.py: búsqueda de escala_mosquitos
+  bootstrap: 20261106        # bootstrap de corridas y de beta_efectiva
+  experimento_scheduler: 20261107  # src/abm/experimento_scheduler.py
 monte_carlo: {}  # Monte Carlo del sistema de salud
+# --- Módulos de Redes + ABM (Daniel) y Dinámica de Sistemas (Alex) ---
+redes:
+  topologias: 20261101       # src/redes/topologias.py: ER, BA y WS (una semilla por repetición, derivada)
+  intervenciones: 20261102   # src/redes/intervenciones.py: sorteos de la estrategia aleatoria
+sd:
+  validacion: 20261201       # src/sd/validacion.py: muestras de parámetros y ruido de Poisson
+  escenarios: 20261202       # src/sd/escenarios.py: corridas (números aleatorios comunes)
+  bootstrap: 20261203        # src/sd/escenarios.py: bootstrap pareado
