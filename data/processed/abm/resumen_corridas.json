@@ -1,0 +1,40 @@
+{
+  "escala_mosquitos": 1.2542,
+  "rho": 0.2,
+  "M_final": 60,
+  "convergio": true,
+  "pico": {
+    "media": 10.0,
+    "ic_inf": 7.766,
+    "ic_sup": 12.567,
+    "se": 1.224,
+    "cv": 0.9366,
+    "M_estrella": 1349
+  },
+  "dia_pico": {
+    "media": 132.583,
+    "ic_inf": 109.316,
+    "ic_sup": 153.301,
+    "se": 11.26,
+    "cv": 0.6785,
+    "M_estrella": 708
+  },
+  "tamano_final": {
+    "media": 232.883,
+    "ic_inf": 167.682,
+    "ic_sup": 304.4,
+    "se": 34.666,
+    "cv": 1.1717,
+    "M_estrella": 2110
+  },
+  "incidencia_notificada_100k": {
+    "media": 920.124,
+    "ic_inf": 664.741,
+    "ic_sup": 1196.635,
+    "se": 135.751,
+    "cv": 1.1717,
+    "M_estrella": 2110
+  },
+  "incidencia_objetivo_100k": 962.1,
+  "corridas_con_brote": 59
+}
