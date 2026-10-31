@@ -1,0 +1,12 @@
+{
+  "anio": 2023,
+  "n_muestras": 1000,
+  "pct_semanas_dentro_parametros": 0.4423,
+  "pct_semanas_dentro_poisson": 0.5385,
+  "total_anual_observado": 14704.0,
+  "total_anual_simulado_mediana": 14551.2,
+  "total_anual_simulado_ic95": [
+    11027.4,
+    17663.3
+  ]
+}
