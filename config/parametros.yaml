@@ -167,6 +167,46 @@ salud:
     unidad: adimensional
     descripcion: Forma de la Weibull de estancia (k > 1 → la probabilidad de alta crece con los días)
     nota: Supuesto de modelado; con k y la media se obtiene la escala λ = media / Γ(1 + 1/k).
+  # --- Claves agregadas por el módulo de Salud (Ruiz · src/salud/). Todas son supuesto del modelo.
+  # Claves equivalentes que YA existían y se usan en lugar de duplicarlas:
+  #   salud.dias_cobertura_objetivo → insumos.cobertura_objetivo
+  #   α y τ de insumos               → insumos.alpha, insumos.tau
+  #   salud.weibull_k                → ya existía (2.0); no se cambia
+  camas_dengue_por_hospital:
+    valor: 30
+    rango: [10, 60]
+    unidad: camas por hospital
+    descripcion: Camas disponibles para dengue en cada hospital MSPAS/IGSS elegible
+    nota: SUPUESTO sin dato (hospitales.csv no trae camas). Se barre en el rango y entra al Monte Carlo de robustez; el resultado principal es la curva de saturación contra capacidad.
+  ampliacion_camas_pct:
+    valor: 30
+    rango: [10, 100]
+    unidad: "%"
+    descripcion: Aumento de la capacidad de camas en el escenario ampliacion_camas
+    nota: Supuesto del modelo.
+  n_replicas_des:
+    valor: 30
+    unidad: réplicas
+    descripcion: Réplicas del DES de camas por escenario y hospital
+  insumo_por_paciente_dia:
+    valor: 1.0
+    unidad: unidades relativas / paciente-día
+    descripcion: Consumo de insumos por paciente hospitalizado y día
+    nota: Supuesto del modelo (unidades relativas).
+  umbral_desabasto:
+    valor: 0.2
+    rango: [0.1, 0.5]
+    unidad: fracción de I*
+    descripcion: Se cuenta un día de desabasto cuando el inventario baja de umbral · I*
+    nota: Supuesto del modelo.
+  mc_n:
+    valor: 5000
+    unidad: muestras
+    descripcion: Muestras del Monte Carlo de estabilidad de insumos (α, τ)
+  n_muestras_robustez:
+    valor: 100
+    unidad: juegos de parámetros
+    descripcion: Juegos de parámetros inciertos del análisis de robustez (subir a 300–1000 si hay tiempo)
 
 # ---------------------------------------------------------------------------
 # 5. Cadena de insumos (dI/dt = P/τ − D, dP/dt = α(I* − I) − P/τ)
@@ -469,6 +509,80 @@ sd:
     valor: 0.25
     unidad: días
     descripcion: Paso del RK4 en calibración, validación y escenarios (solo si A4 muestra que el pico cambia < 1 %)
+  # --- Claves agregadas para las tareas N2/N3 de SD (A9, A12). Todas son supuesto del modelo.
+  esperanza_vida_humana:
+    valor: 73.0
+    rango: [65.0, 80.0]
+    unidad: años
+    descripcion: "Población abierta (A9): tasa de nacimientos = tasa de muertes = 1 / (esperanza de vida · 365) por día, así Nh se mantiene constante"
+    nota: Supuesto del modelo (orden de magnitud; sin referencia en el repositorio).
+  anios_endemicidad:
+    valor: 50
+    rango: [20, 100]
+    unidad: años
+    descripcion: Años simulados con el ciclo medio de lluvia para evaluar la endemicidad (A9)
+    nota: Supuesto del modelo.
+  semanas_brote_sostenido:
+    valor: 3
+    rango: [1, 4]
+    unidad: semanas
+    descripcion: Semanas seguidas en zona de brote que marcan la llegada de la temporada a un área de salud (A12)
+    nota: Supuesto del modelo; con 1 semana el corredor observado da llegadas espurias en la época seca.
+
+# ---------------------------------------------------------------------------
+# 11. SIG aplicado (Gerardo · src/sig/isocronas.py, mclp.py, ranking_riesgo.py)
+# ---------------------------------------------------------------------------
+# Todos son supuestos del modelo (sin referencia bibliográfica propia).
+sig:
+  factores_congestion:
+    valor: [1.0, 1.5, 2.0]
+    unidad: multiplicador del tiempo de viaje
+    descripcion: Factores de congestión (los tiempos de OSM son de flujo libre)
+    nota: Supuesto del modelo.
+  minutos_isocronas:
+    valor: [30, 60]
+    unidad: minutos
+    descripcion: Umbrales de las isocronas desde los hospitales
+  radio_buffer_m:
+    valor: 500
+    unidad: metros
+    descripcion: Radio del buffer alrededor de cada nodo vial alcanzado (forma la isocrona)
+    nota: Supuesto del modelo.
+  radio_cobertura_m:
+    valor: 2000
+    rango: [1000, 3000]
+    unidad: metros
+    descripcion: Distancia máxima entre centros de celda para que una unidad cubra una celda (MCLP)
+    nota: Supuesto del modelo.
+  p_max:
+    valor: 10
+    unidad: unidades
+    descripcion: Máximo de unidades nuevas del MCLP
+  ponderar_mosquitos:
+    valor: true
+    descripcion: Si la demanda del MCLP se pondera por la densidad media de mosquitos de la celda
+    nota: Supuesto del modelo (más vectores → más demanda).
+  umbral_llegada_casos:
+    valor: 10
+    unidad: casos verdaderos acumulados
+    descripcion: Casos acumulados que marcan la llegada de la epidemia a un municipio (ranking)
+    nota: Supuesto del modelo.
+  peso_incidencia:
+    valor: 0.7
+    unidad: adimensional
+    descripcion: Peso de la incidencia esperada en riesgo_casos
+    nota: Supuesto del modelo.
+  peso_llegada:
+    valor: 0.3
+    unidad: adimensional
+    descripcion: Peso de la rapidez de llegada en riesgo_casos
+    nota: Supuesto del modelo.
+  peso_riesgo:
+    valor: 0.6
+    rango: [0.4, 0.8]
+    unidad: adimensional
+    descripcion: Peso de riesgo_casos en el puntaje (el resto es centralidad)
+    nota: Supuesto del modelo.
 
 # ---------------------------------------------------------------------------
 # Referencias

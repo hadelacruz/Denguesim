@@ -8,6 +8,7 @@ abm:            # una semilla por corrida del ABM (derivadas de base con SeedSeq
   calibracion: 20261105      # src/abm/corridas.py: búsqueda de escala_mosquitos
   bootstrap: 20261106        # bootstrap de corridas y de beta_efectiva
   experimento_scheduler: 20261107  # src/abm/experimento_scheduler.py
+  validacion_edad: 20261108  # src/abm/validacion_edad.py: bootstrap de corridas (N3)
 monte_carlo: {}  # Monte Carlo del sistema de salud
 # --- Módulos de Redes + ABM (Daniel) y Dinámica de Sistemas (Alex) ---
 redes:
@@ -17,3 +18,9 @@ sd:
   validacion: 20261201       # src/sd/validacion.py: muestras de parámetros y ruido de Poisson
   escenarios: 20261202       # src/sd/escenarios.py: corridas (números aleatorios comunes)
   bootstrap: 20261203        # src/sd/escenarios.py: bootstrap pareado
+# --- Módulo de Salud (Ruiz · src/salud/) ---
+salud:
+  generadores: 20261301      # src/salud/generadores.py: verificación de los generadores (figura y pruebas)
+  des: 20261302              # src/salud/des_camas.py: réplica r del hospital j usa default_rng([des, r, j])
+  estabilidad: 20261303      # src/salud/estabilidad.py: Monte Carlo de α y τ
+  robustez: 20261304         # src/salud/robustez.py: muestras de parámetros inciertos
