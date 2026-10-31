@@ -1,0 +1,9 @@
+red,umbral,n_nodos,n_aristas,densidad,grado_medio,grado2_medio,clustering_medio,distancia_media,diametro,conexa
+gravitacional,0,17,272,1.0,16.0,256.0,1.0,1.0,1,True
+gravitacional,10,17,153,0.5625,11.2941,143.1765,0.8755,1.2941,2,True
+gravitacional,50,17,93,0.3419,7.7647,82.5882,0.8431,1.5147,2,True
+gravitacional,100,17,76,0.2794,6.5882,66.0,0.8556,1.5882,2,True
+censo,0,17,249,0.9154,15.8824,252.3529,0.9926,1.0074,2,True
+censo,10,17,174,0.6397,12.1176,155.0588,0.8558,1.2426,2,True
+censo,50,17,106,0.3897,7.1765,64.5882,0.7649,1.5515,2,True
+censo,100,17,81,0.2978,5.7647,46.2353,0.7856,1.6397,2,True

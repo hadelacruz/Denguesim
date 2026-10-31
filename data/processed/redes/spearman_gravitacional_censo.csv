@@ -1,0 +1,4 @@
+centralidad,spearman,p_valor
+grado,0.9828,0.0
+intermediacion,0.5842,0.013796
+eigenvector,0.9632,0.0
