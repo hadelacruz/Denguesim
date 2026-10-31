@@ -1,0 +1,5 @@
+camas_base,camas_ampliadas,metrica,media_linea_base,media_ampliacion,delta,delta_ic_inf,delta_ic_sup,ic_incluye_0
+30,39,dias_saturacion,0.0,0.0,0.0,0.0,0.0,True
+30,39,espera_media_dias,0.0,0.0,0.0,0.0,0.0,True
+10,13,dias_saturacion,91.4,33.1,58.3,54.332,62.901,False
+10,13,espera_media_dias,0.94,0.159,0.781,0.658,0.904,False
