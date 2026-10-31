@@ -1,0 +1,10 @@
+scheduler,metrica,media,ic_inf,ic_sup,dif_vs_mixto,dif_ic_inf,dif_ic_sup,diferencia_significativa
+mixto,pico,7.4,4.349,10.751,0.0,-4.35,4.35,False
+mixto,dia_pico,108.7,69.549,148.204,0.0,-58.101,57.857,False
+mixto,tamano_final,148.55,77.209,232.077,0.0,-107.401,104.185,False
+secuencial_fijo,pico,7.25,4.0,10.801,-0.15,-4.7,4.501,False
+secuencial_fijo,dia_pico,98.35,59.6,135.95,-10.35,-69.61,47.3,False
+secuencial_fijo,tamano_final,171.7,79.288,280.03,23.15,-100.901,148.666,False
+sincrono,pico,5.65,3.6,7.9,-1.75,-5.451,2.1,False
+sincrono,dia_pico,110.1,65.996,148.606,1.4,-55.755,59.255,False
+sincrono,tamano_final,116.85,65.595,180.56,-31.7,-129.901,61.605,False
