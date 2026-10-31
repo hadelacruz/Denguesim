@@ -1,0 +1,8 @@
+medida,observado,simulado,diferencia
+media_indice_riqueza,-0.29132,-0.29058,0.00074
+media_agua_entubada,0.92693,0.92195,-0.00498
+media_almacena_agua,0.28144,0.2847,0.00326
+sd_indice_riqueza,0.96778,0.96575,-0.00203
+corr_indice_riqueza_agua_entubada,0.1915,0.19307,0.00157
+corr_indice_riqueza_almacena_agua,0.12231,0.12382,0.0015
+corr_agua_entubada_almacena_agua,-0.09671,-0.09648,0.00023
