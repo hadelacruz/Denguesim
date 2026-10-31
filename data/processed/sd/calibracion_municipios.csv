@@ -1,0 +1,18 @@
+cod_muni,m_multiplicador,casos_observados,notificados_simulados,error_relativo,nombre
+0101,0.23889,2612.0,2612.0,-0.0,Guatemala
+0102,3.22928,492.0,492.0,0.0,Santa Catarina Pinula
+0103,1.89127,427.0,427.0,0.0,San José Pinula
+0104,6.45416,408.0,408.0,0.0,San José del Golfo
+0105,2.69591,641.0,641.0,0.0,Palencia
+0106,2.12524,418.0,418.0,-0.0,Chinautla
+0107,1.12869,133.0,133.0,-0.0,San Pedro Ayampuc
+0108,2.44856,4200.0,4200.0,0.0,Mixco
+0109,0.99059,32.0,32.0,-0.0,San Pedro Sacatepéquez
+0110,1.40099,1489.0,1489.0,0.0,San Juan Sacatepéquez
+0111,1.18484,58.0,58.0,-0.0,San Raymundo
+0112,1.62056,52.0,52.0,0.0,Chuarrancho
+0113,1.85437,293.0,293.0,0.0,Fraijanes
+0114,2.89093,1826.0,1826.0,0.0,Amatitlán
+0115,0.6319,1131.0,1131.0,-0.0,Villa Nueva
+0116,1.19028,416.0,416.0,-0.0,Villa Canales
+0117,0.54834,76.0,76.0,-0.0,Petapa
