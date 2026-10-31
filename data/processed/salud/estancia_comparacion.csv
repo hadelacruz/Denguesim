@@ -1,0 +1,3 @@
+modelo,pico_ocupacion,dia_pico,dias_paciente,dias_paciente_esperados,diferencia_pico_pct,diferencia_dia_pico
+exponencial,43.333,243.95,5890.96,5890.96,0.0,0.0
+weibull_k2,43.718,242.15,5890.96,5890.96,0.888,-1.8
