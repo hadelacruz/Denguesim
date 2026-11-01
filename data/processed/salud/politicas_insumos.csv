@@ -1,0 +1,4 @@
+politica,alpha,tau,alpha_tau,zeta_A,P_estable_B,P_oscila_A,amplitud_max,amplitud_media_hospitales,dias_desabasto,inventario_en_transito_P_estrella
+base,0.15,7.0,1.05,0.488,0.4844,0.9496,76.558,20.507,1048,110.619
+reducir_tau_20pct,0.15,5.6,0.84,0.5455,0.5782,0.9308,73.421,19.726,989,88.495
+reducir_alpha_20pct,0.12,7.0,0.84,0.5455,0.5782,0.9308,88.483,22.452,1257,110.619

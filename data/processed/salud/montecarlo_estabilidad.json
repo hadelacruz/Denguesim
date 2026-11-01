@@ -1,0 +1,13 @@
+{
+  "n": 5000,
+  "P_estable_B": 0.4844,
+  "P_oscila_A": 0.9496,
+  "alpha_tau_media": 2.016,
+  "alpha_tau_p2_5": 0.1379,
+  "alpha_tau_p97_5": 5.7348,
+  "modelo_A_inestables": 0,
+  "modelo_A_combinaciones": 3600,
+  "modelo_A_error_raices": 1.7554167342883506e-16,
+  "modelo_B_frontera_verificada": true,
+  "nota": "π/2 es el criterio del retardo puro (modelo B). El modelo de dos stocks de insumos.py (modelo A) siempre converge; oscila si α·τ > 1/4. α ~ Normal(insumos.alpha, ancho/4) truncada a α > 0, τ ~ U(rango)."
+}
