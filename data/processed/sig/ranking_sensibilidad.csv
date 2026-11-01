@@ -1,0 +1,7 @@
+variante,peso_riesgo,spearman_vs_base,top3
+incidencia_esperada,0.4,0.9755,0101;0108;0115
+incidencia_esperada,0.5,0.9951,0101;0104;0108
+incidencia_esperada,0.6,1.0,0101;0104;0108
+incidencia_esperada,0.7,0.9853,0104;0101;0108
+incidencia_esperada,0.8,0.9706,0104;0101;0108
+incidencia_observada_2014_2024,0.6,0.9877,0101;0104;0108
