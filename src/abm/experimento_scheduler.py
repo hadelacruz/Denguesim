@@ -35,7 +35,7 @@ from inicializacion import semilla  # noqa: E402
 from modelo import ModeloDengue  # noqa: E402
 
 SCHEDULERS = ["mixto", "secuencial_fijo", "sincrono"]
-N_CORRIDAS = 20   # lo fija la guía (D11)
+N_CORRIDAS = 20   # corridas por scheduler
 METRICAS = ["pico", "dia_pico", "tamano_final"]
 
 

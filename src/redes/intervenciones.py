@@ -34,7 +34,7 @@ import yaml  # noqa: E402
 sys.path.insert(0, "src/datos")
 from comun import CONFIG, PROCESSED, leer_procesado, parametro  # noqa: E402
 
-EXPUESTOS_INICIALES = 10   # lo fija la guía (D5)
+EXPUESTOS_INICIALES = 10   # expuestos en el nodo inicial
 COLORES = {"aleatoria": "#8a8984", "grado": "#2a78d6", "intermediacion": "#eb6834", "eigenvector": "#1baf7a"}
 
 

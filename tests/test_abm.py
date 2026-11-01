@@ -137,3 +137,15 @@ def test_esquema_beta_efectiva():
     b = json.loads(ruta.read_text(encoding="utf-8"))
     assert set(b) == {"beta", "ic_inf", "ic_sup"}
     assert b["ic_inf"] <= b["beta"] <= b["ic_sup"]
+
+
+# ---------------------------------------------------------------- validación por edad (N3)
+def test_grupos_de_edad_y_proporciones():
+    from validacion_edad import GRUPO_CASOS, GRUPO_POBLACION, GRUPOS, grupo_de_edad, proporciones
+
+    assert list(grupo_de_edad([0.5, 1.0, 4.99, 24.9, 25.0, 59.9, 60.0, 95.0])) == \
+        ["<1", "1-4", "1-4", "20-24", "25-39", "50-59", "60+", "60+"]
+    # Cada grupo de las tablas de casos y de población cae en un grupo común.
+    assert set(GRUPO_CASOS.values()) == set(GRUPOS) == set(GRUPO_POBLACION.values())
+    p = proporciones({"5-9": 3, "60+": 1})
+    assert p.sum() == pytest.approx(1) and p["5-9"] == pytest.approx(0.75) and p["<1"] == 0

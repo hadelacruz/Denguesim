@@ -1,0 +1,14 @@
+{
+  "infectados_simulados": 16575,
+  "corridas": 59,
+  "casos_observados_anio": 1826,
+  "casos_observados_historicos": 6546,
+  "D_simulado_vs_observado_anio": 0.3688,
+  "D_simulado_vs_observado_historico": 0.2488,
+  "D_simulado_vs_poblacion": 0.0066,
+  "D_observado_historico_vs_poblacion": 0.2487,
+  "grupos_dentro_ic_anio": 1,
+  "grupos_dentro_ic_historica": 1,
+  "n_grupos": 10,
+  "nota": "La edad no entra en ninguna regla del ABM y el destino se asigna sin mirar la edad."
+}
