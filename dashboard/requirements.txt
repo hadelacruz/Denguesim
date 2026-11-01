@@ -1,0 +1,12 @@
+# Dependencias SOLO del demo (Streamlit Community Cloud). Sin geopandas, rasterio, osmnx ni pyrosm.
+streamlit==1.66.1
+pandas==3.0.5
+numpy==2.5.3
+folium==0.20.0
+streamlit-folium==0.27.4
+plotly==7.1.0
+pulp==2.9.0
+scipy==1.18.1
+pyproj==3.8.0
+pyyaml==6.0.3
+epiweeks==2.4.0
